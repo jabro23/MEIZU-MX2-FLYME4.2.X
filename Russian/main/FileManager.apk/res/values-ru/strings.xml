@@ -13,7 +13,7 @@
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
-    <string name="action_refresh_text">Обновление</string>
+    <string name="action_refresh_text">Обновление...</string>
     <string name="add_psw">Добавить системный пароль?</string>
     <string name="app_name">Проводник</string>
     <string name="back">Назад</string>
