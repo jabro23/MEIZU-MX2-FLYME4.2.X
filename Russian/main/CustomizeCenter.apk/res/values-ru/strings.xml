@@ -83,7 +83,7 @@
     <string name="fal_read_theme">Ошибка установки темы</string>
     <string name="sdcard_unmount_update_theme">USB-устройство не подключено</string>
     <string name="setting_theme">Настройка темы</string>
-    <string name="copy_theme">Применить тему</string>
+    <string name="copy_theme">Применение...</string>
     <string name="def_theme_name">Система по умолчанию</string>
     <string name="sdk_version_not_match">Тема не совместима с данной версией системы, пожалуйста, обновите</string>
     <string name="set_theme_succ">Тема успешно установлена</string>
