@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Личный</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Создать свой ярлык</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Домашний</item>
+        <item>Мобильный</item>
+        <item>Рабочий</item>
+        <item>Факс (раб.)</item>
+        <item>Факс (дом.)</item>
+        <item>Пейджер</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Создать свой ярлык</item>
+    </string-array>
+    <string-array name="urlspan_tel_dialog_title">
+        <item>Позвонить</item>
+        <item>Отправить SMS</item>
+        <item>Копировать</item>
+        <item>Новый контакт</item>
+        <item>Добавить в контакт</item>
+    </string-array>
+    <string-array name="urlspan_email_dialog_title">
+        <item>Отправить e-mail</item>
+        <item>Копировать</item>
+        <item>Новый контакт</item>
+        <item>Добавить в контакт</item>
+    </string-array>
+    <string-array name="urlspan_date_dialog_title">
+        <item>Новое событие</item>
+        <item>Откр. в календаре</item>
+        <item>Копировать</item>
+    </string-array>
+    <string-array name="urlspan_open_dialog_title">
+        <item>Открыть</item>
+        <item>Копировать</item>
+    </string-array>
+    <string-array name="urlspan_open_dialog_title_chinamobile">
+        <item>Открыть</item>
+        <item>Копировать</item>
+        <item>В закладки</item>
+    </string-array>
+    <string-array name="calendar_week_title">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="smartbar_left_right_padding">
+        <item>160px</item>
+        <item>170px (по умолч.)</item>
+        <item>180px</item>
+    </string-array>
+</resources>
