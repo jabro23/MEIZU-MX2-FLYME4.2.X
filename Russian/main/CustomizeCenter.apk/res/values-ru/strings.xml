@@ -301,7 +301,7 @@
     <string name="mc_pm_online_intenert">Интернет</string>
     <string name="payment_cancel">Отмена покупки</string>
     <string name="obtaining_balance">Баланс: Недоступен</string>
-    <string name="copy_module">Применение: %s...</string>
+    <string name="copy_module">Применение: %s</string>
     <string name="set_module_succ">Успешно применено: %s</string>
     <string name="set_module_error">Ошибка применения: %s</string>
 </resources>
