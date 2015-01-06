@@ -730,7 +730,7 @@ flyme message and file transfer、contact
     <string name="record_object_title">Recording call objects</string>
     <string name="record_object_summary">%d contacts</string>
     <string name="lable_not_available">"App isn't installed"</string>
-    <string name="notification_filter">filter</string>
+    <string name="notification_filter">Фильтр</string>
     <string name="notification_delete">Очистить</string>
     <string name="flyme_settings_open">open</string>
     <string name="flyme_settings_close">close</string>
