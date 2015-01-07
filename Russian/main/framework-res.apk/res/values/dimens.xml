@@ -376,7 +376,7 @@
     <dimen name="mz_circle_icon_radio">57.0dip</dimen>
     <dimen name="mz_lock_digit_textsize">32.0sp</dimen>
     <dimen name="mz_password_padding">8.399994dip</dimen>
-    <dimen name="mz_global_button_diameter">140.0dip</dimen>
+    <dimen name="mz_global_button_diameter">145.0dip</dimen>
     <dimen name="mz_global_button_gap">68.5dip</dimen>
     <dimen name="mz_global_text_size">18.0sp</dimen>
     <dimen name="calendar_week_size">10.399994sp</dimen>
@@ -481,6 +481,7 @@
     <dimen name="mz_template_big_notification_min_height">65.0dip</dimen>
     <dimen name="mz_notification_small_icon_width">40.0dip</dimen>
     <dimen name="mz_notification_small_icon_height">40.0dip</dimen>
+    <dimen name="mz_notification_small_icon_white_padding">-4.0dip</dimen>
     <dimen name="mz_notification_base_padding_right">20.0dip</dimen>
     <dimen name="mz_notification_big_picture_height">192.0dip</dimen>
     <dimen name="mz_notification_big_picture_actions_margin_top">144.0dip</dimen>
