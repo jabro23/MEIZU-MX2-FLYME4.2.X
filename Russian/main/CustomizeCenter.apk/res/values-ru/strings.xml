@@ -12,7 +12,7 @@
     <string name="cancelLogin">Отмена входа</string>
     <string name="loginFailed">Ошибка входа</string>
     <string name="server_request_error">Ошибка запроса на сервер</string>
-    <string name="no_internet">Ошибка сети, попробуйте позже</string>
+    <string name="no_internet">Нет интернет-соединения</string>
     <string name="no_internet_connection">Нет интернет-соединения</string>
     <string name="tap_to_retry">Нажмите на экран для повтора</string>
     <string name="waitTip">Пожалуйста, подождите...</string>
