@@ -2390,7 +2390,7 @@
     <string name="have_evaluation">Оценка подтверждена</string>
     <string name="no_evaluation">Нет комментариев</string>
     <string name="record_status_new">Новое</string>
-    <string name="no_network">Нет доступной сети</string>
+    <string name="no_network">Нет интернет-соединения</string>
     <string name="commit_success">Подтверждено</string>
     <string name="commit_fail">Ошибка подтверждения</string>
     <string name="service_loading">Загрузка информации</string>
