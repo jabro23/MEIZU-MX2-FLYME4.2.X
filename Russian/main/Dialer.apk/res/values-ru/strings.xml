@@ -813,7 +813,7 @@
     <string name="find_directory_contacts">Поиск %s</string>
     <string name="contactsJoinedMessage">Контакты объединены</string>
     <string name="contactSavedErrorToast">Не удалось сохранить изменения.</string>
-    <string name="description_search_button">поиск</string>
+    <string name="description_search_button">Поиск</string>
     <string name="people">Контакты</string>
     <string name="shortcutActivityTitle">Выбрать контакт для быстрого вызова</string>
     <string name="callShortcutActivityTitle">Выберите номер для вызова</string>
@@ -1092,7 +1092,7 @@
     <string name="submenu_delete_label">Удалить</string>
     <string name="menu_callNumber">Позвонить: %s</string>
     <string name="description_dismiss">Закрыть</string>
-    <string name="recentCalls_empty">Список вызовов пуст.</string>
+    <string name="recentCalls_empty">Список вызовов пуст</string>
     <string name="recentCallsIconLabel">Вызовы</string>
     <string name="description_call_log_play_button">Прослушать голосовую почту</string>
     <string name="clearCallLogProgress_title">Очистка списка вызовов...</string>
