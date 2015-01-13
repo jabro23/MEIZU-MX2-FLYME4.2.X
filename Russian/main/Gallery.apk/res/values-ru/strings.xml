@@ -444,7 +444,7 @@
     <string name="year">%s год</string>
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
-	<string name="filter_dehazing_light">Контраст1</string>
+    <string name="filter_dehazing_light">Контраст1</string>
     <string name="filter_dehazing_strong">Контраст2</string>
-	<string name="cloud_upload_tips">Пожалуйста, загрузите ваши фото</string>
+    <string name="cloud_upload_tips">Пожалуйста, загрузите ваши фото</string>
 </resources>
