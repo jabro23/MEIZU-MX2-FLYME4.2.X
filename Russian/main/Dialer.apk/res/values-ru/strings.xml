@@ -1228,8 +1228,8 @@
     <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, выберите \"Меню > Настройки\".</string>
     <string name="dialog_voicemail_airplane_mode_message">Сначала отключите режим полета.</string>
     <string name="action_menu_overflow_description">Ещё</string>
-    <string name="contact_list_welcome_sync_account">Синхронизация аккаунта</string>
-    <string name="contact_list_welcome_import_contact">Импорт контактов</string>
+    <string name="contact_list_welcome_sync_account">Синхронизировать аккаунт</string>
+    <string name="contact_list_welcome_import_contact">Импортировать контакты</string>
     <string name="foundResultCount">%d результатов найдено</string>
     <string name="spam_unkown_number_title">Блокировать вызовы от неизвестных</string>
     <string name="pref_record_title">Запись</string>
