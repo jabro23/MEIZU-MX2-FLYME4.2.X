@@ -143,8 +143,8 @@
     <string name="downloading">Загрузка...</string>
     <string name="downloading_percent">Загружено %s</string>
     <string name="duration">Продолжительность</string>
-    <string name="edit">Правка</string>
-    <string name="edit_image">Правка</string>
+    <string name="edit">Изменить</string>
+    <string name="edit_image">Изменить</string>
     <string name="empty_download_text">Нет запланированных закачек</string>
     <string name="empty_upload_text">Нет запланированных загрузок</string>
     <string name="eraser_eraser_title">Стёрка</string>
