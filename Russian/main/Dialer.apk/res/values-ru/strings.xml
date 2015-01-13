@@ -938,7 +938,7 @@
     <string name="contacts_unavailable_create_contact">Создать новый контакт</string>
     <string name="contacts_unavailable_add_account">Войдите в аккаунт</string>
     <string name="contacts_unavailable_import_contacts">Импортировать контакты</string>
-    <string name="create_group_dialog_title">Создание новой группы</string>
+    <string name="create_group_dialog_title">Создать новую группу</string>
     <string name="create_group_item_label">Создать группу</string>
     <string name="delete_group_dialog_message">Действительно удалить группу \"%1$s\"? (Контакты не будут удалены.)</string>
     <string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить.</string>
