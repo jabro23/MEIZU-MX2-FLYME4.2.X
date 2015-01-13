@@ -85,7 +85,7 @@
     <string name="email_account">Аккаунт E-mail</string>
     <string name="recyle_alert_title">Перейти в корзину для восстановления данных?</string>
     <string name="recyle_alert_message">Веб-корзина хранит данные, удалённые за последние 6 месяцев</string>
-    <string name="sync_error_title">Ошибка синхронизации данных</string>
+    <string name="sync_error_title">Ошибка синхронизации</string>
     <string name="sync_error_message">Ошибка сервиса</string>
     <string name="sync_success_title">Синхронизация выполнена</string>
     <string name="sync_success_message">Данные в устройстве и в облаке совпадают</string>
