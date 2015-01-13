@@ -379,14 +379,10 @@
     <string name="upload_task_completed_text3">Приостановлено %s</string>
     <string name="upload_task_completed_title">Загрузка завершена, нажмите для просмотра</string>
     <string name="uploaded_files_title_text">Файлы загружены</string>
-    <string name="uploading">Загрузка</string>
+    <string name="uploading">Загрузка...</string>
     <string name="username_charset">Неверное имя, введите буквы, цифры, пробел или _.</string>
     <string name="wait_upload">Ожидание загрузки…</string>
     <string name="waiting_for_network">Ожидание соединения</string>
     <string name="wifi_share">Общие устройства</string>
     <string name="wifidevice">Папка устройств Wi-Fi</string>
-    <string name="upload_to">Загр. в</string>
-    <string name="download_to">Скачив. в</string>
-    <string name="save_title_1_move">Перем. в</string>
-    <string name="save_title_1_save">Сохр. в</string>
 </resources>
