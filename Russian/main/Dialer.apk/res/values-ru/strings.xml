@@ -566,7 +566,7 @@
     <string name="waitingcall_current_call">Текущий вызов</string>
     <string name="notification_alerting">Звонок</string>
     <string name="callForwardedText">Вызов переадресован</string>
-    <string name="card_title_alerting">Оповещение</string>
+    <string name="card_title_alerting">Соединение</string>
     <string name="forwardedCallText">Переадресация вызова</string>
     <string name="add_call">Новый вызов</string>
     <string name="mute_call">Без звука</string>
