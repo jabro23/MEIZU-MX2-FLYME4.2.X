@@ -221,7 +221,7 @@
     <string name="loading_failure">Не удается загрузить изображение!</string>
     <string name="location">Местоположение</string>
     <string name="maker">Производитель</string>
-    <string name="mark">Надпись</string>
+    <string name="mark">Редактировать</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">Разрешить</string>
     <string name="mc_alway_allow">Разрешать всегда</string>
