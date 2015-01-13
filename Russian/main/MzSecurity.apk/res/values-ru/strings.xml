@@ -160,7 +160,7 @@
     <string name="tab_autostart">Запуск</string>
     <string name="tab_notify">Уведомления</string>
     <string name="tab_safe">Безопасность</string>
-    <string name="tab_privacy">Конфиденц.</string>
+    <string name="tab_privacy">Личное</string>
     <string name="search_app">Поиск приложений</string>
     <string name="pop_msg">Оповещения</string>
     <string name="notify_msg">Уведомл.</string>
