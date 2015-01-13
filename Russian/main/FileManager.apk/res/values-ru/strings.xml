@@ -385,6 +385,8 @@
     <string name="waiting_for_network">Ожидание соединения</string>
     <string name="wifi_share">Общие устройства</string>
     <string name="wifidevice">Папка устройств Wi-Fi</string>
-	<string name="upload_to">Загр. в</string>
-	<string name="download_to">Скачив. в</string>
+    <string name="upload_to">Загр. в</string>
+    <string name="download_to">Скачив. в</string>
+    <string name="save_title_1_move">Перем. в</string>
+    <string name="save_title_1_save">Сохр. в</string>
 </resources>
