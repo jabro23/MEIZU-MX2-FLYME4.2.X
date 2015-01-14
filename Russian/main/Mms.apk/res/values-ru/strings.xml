@@ -275,7 +275,7 @@
     <string name="spam_number_dialog_title">Выполнить фильтрацию?</string>
     <string name="spame_number">Фильтр</string>
     <string name="spam_number_spare_sign">,</string>
-    <string name="spam_number_dialog_message_0">Будет добавлено в спам-фильтр</string>
+    <string name="spam_number_dialog_message_0">:␀Будет добавлено в спам-фильтр</string>
     <string name="spam_number_dialog_message_1">и т.д. будут добавлены в спам-фильтр</string>
     <string name="Titlebar_Describe_Message_Count_overlimit">Слишком много сообщений сохранено. Удалите часть ненужных.</string>
     <string name="msg_body_sms_vcard">Инфо vCard</string>
