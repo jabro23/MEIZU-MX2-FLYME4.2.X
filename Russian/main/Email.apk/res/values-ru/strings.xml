@@ -513,7 +513,7 @@
     <string name="meizu_message_compose_fwd_header_cc">Копия：%s</string>
     <string name="meizu_message_compose_fwd_header_to">Для：%s</string>
     <string name="account_delete_dlg_message">Удалить этот аккаунт?</string>
-    <string name="status_loading_messages">Загрузка сообщений</string>
+    <string name="status_loading_messages">Загрузка сообщений...</string>
     <string name="unread_action">Отметить как непрочит.</string>
     <string name="mailbox_name_display_inbox">Входящие</string>
     <string name="mailbox_name_display_outbox">Исходящие</string>
