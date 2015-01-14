@@ -410,7 +410,7 @@
     <string name="set_wallpaper_home_done">Обои установлены</string>
     <string name="set_wallpaper_home_failure">Ошибка установки обоев</string>
     <string name="set_wallpaper_lock">Установить на экран блокировки</string>
-    <string name="set_wallpaper_lock_done">Обои на экран блокировки устанволены</string>
+    <string name="set_wallpaper_lock_done">Обои на экран блокировки установлены</string>
     <string name="set_wallpaper_lock_failure">Ошибка установки обоев</string>
     <string name="setwallpaper_tip">Приблизьте для увеличения и нажмите для предпросмотра</string>
     <string name="share">Передать через</string>
