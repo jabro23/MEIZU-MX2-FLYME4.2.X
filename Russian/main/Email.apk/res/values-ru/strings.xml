@@ -470,7 +470,7 @@
     <string name="account_setup_saving">Сохранение аккаунта</string>
     <string name="preference_auto_push_title">Push-уведомления</string>
     <string name="right_title_send_status">Отправка</string>
-    <string name="right_title_receive_status">Получение</string>
+    <string name="right_title_receive_status">Обновл.</string>
     <string name="right_title_stopping_status">Остановка</string>
     <string name="right_title_marking_status">Метка</string>
     <string name="stop_refresh_action">Остановка обновл.</string>
