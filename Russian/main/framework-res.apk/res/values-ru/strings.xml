@@ -1150,7 +1150,7 @@
     <string name="submit">Отправить</string>
     <string name="car_mode_disable_notification_title">Включен режим \"Штурман\"</string>
     <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь.</string>
-    <string name="tethered_notification_title">USB-модем/точка доступа Wi-Fi используется</string>
+    <string name="tethered_notification_title">USB-модем/точка доступа Wi-Fi</string>
     <string name="tethered_notification_message">Нажмите для настройки</string>
     <string name="back_button_label">Назад</string>
     <string name="next_button_label">Далее</string>
