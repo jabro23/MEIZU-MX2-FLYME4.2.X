@@ -1010,7 +1010,7 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="bluetooth_untether_blank">%1$s will be untethered.</string>
     <string name="tethering_help_button_text">Help</string>
     <string name="tethered_device_list_title">Подключенные устройства</string>
-    <string name="obtain_device_info_txt">Получение инф. об устройстве...</string>
+    <string name="obtain_device_info_txt">Получение информации...</string>
     <string name="tether_wps_connect_title">WPS connect</string>
     <string name="wifi_tether_wps_in_progress">Setting up…</string>
     <string name="wifi_tether_wps_error">Error</string>
