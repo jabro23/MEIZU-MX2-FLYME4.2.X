@@ -234,7 +234,7 @@
     <string name="account_setup_failed_dlg_auth_message">Неверное имя пользователя или пароль.</string>
     <string name="account_setup_failed_dlg_auth_message_fmt">"Неверное имя пользователя или пароль.
 %s"</string>
-    <string name="account_setup_failed_dlg_certificate_message">Не удалось установить защищенное подключение к серверу.</string>
+    <string name="account_setup_failed_dlg_certificate_message">Не удалось установить защищенное подключение к серверу</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Не удалось установить защищенное подключение к серверу.
 %s"</string>
     <string name="account_setup_failed_certificate_required">Необходим сертификат клиента. Подключиться к серверу?</string>
