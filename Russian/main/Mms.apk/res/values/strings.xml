@@ -559,7 +559,7 @@ Tried to send: %s"</string>
     <string name="pref_title_mms_group_mms">Mass message</string>
     <string name="spam_report_to_server">Report the number</string>
     <string name="label_select_conversation">Message Record</string>
-    <string name="ask_delete_conversation">"  Also delete Message Record"</string>
+    <string name="ask_delete_conversation">"  Удалить сообщения"</string>
     <string name="open_flyme_title">Использовать Flyme-соединение</string>
     <string name="open_flyme_sub_title">Вы сможете отправлять смс и совершать звонки бесплатно.</string>
     <string name="no_tip_next_time">Не напоминать</string>
