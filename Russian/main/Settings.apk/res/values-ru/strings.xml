@@ -1565,7 +1565,7 @@
     <string name="credentials_unlock_hint">Введите пароль для хранилища учетных данных.</string>
     <string name="credentials_old_password">Текущий пароль:</string>
     <string name="credentials_reset_hint">Удалить весь контент?</string>
-    <string name="credentials_password_too_short">В пароле должно быть не менее 8 символов.</string>
+    <string name="credentials_password_too_short">Не менее 8 символов</string>
     <string name="credentials_wrong_password">Неправильный пароль.</string>
     <string name="credentials_reset_warning">Неверный пароль. У вас осталась одна попытка, после которой хранилище регистрационных данных будет очищено.</string>
     <string name="credentials_reset_warning_plural">Неверный пароль. Осталось несколько попыток (%1$d). Затем хранилище регистрационных данных будет очищено.</string>
