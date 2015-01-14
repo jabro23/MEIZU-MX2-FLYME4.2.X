@@ -78,9 +78,9 @@
     <string name="HIPS_Perm_Mobile_Connectivity">Мобильный интернет</string>
     <string name="HIPS_Perm_Mobile_Connectivity_Desc">Включение мобильного интернета</string>
     <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s : приложениям разрешен доступ ко включению мобильного интернета</string>
-    <string name="HIPS_Perm_WIFI_Connectivity">WIFI</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Включение WIFI</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s : приложениям разрешен доступ ко включению WIFI</string>
+    <string name="HIPS_Perm_WIFI_Connectivity">WI-FI</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Включение WI-FI</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s : приложениям разрешен доступ ко включению WI-FI</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Включение Bluetooth</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s : приложениям разрешен доступ ко включению Bluetooth</string>
