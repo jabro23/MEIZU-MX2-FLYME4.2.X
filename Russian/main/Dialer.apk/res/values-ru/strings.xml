@@ -551,7 +551,7 @@
     <string name="manageConferenceLabel">Управление конференц-связью</string>
     <string name="emergency_call_dialog_number_for_display">Экстренная служба</string>
     <string name="waitingcall_answer_and_hangup_all">Hang up other calls + Answer</string>
-    <string name="deline_call">отклонен</string>
+    <string name="deline_call">Отклонить</string>
     <string name="onscreenRecordText">Запись</string>
     <string name="onscreenRecordNumText">Номер записи</string>
     <string name="record_return_normal">Возврат к вызову</string>
