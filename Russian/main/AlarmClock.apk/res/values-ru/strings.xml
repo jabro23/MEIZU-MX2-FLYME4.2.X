@@ -261,7 +261,7 @@
     <string name="timer_alert">Звук таймера</string>
     <string name="timer_alert_name_default">По умолчанию</string>
     <string name="timer_alert_name_text_default">по умолч.</string>
-    <string name="timer_alert_new">Звук:</string>
+    <string name="timer_alert_new">Звук</string>
     <string name="timer_alert_title">Сигнал окончания таймера</string>
     <string name="timer_delete">Удалить</string>
     <string name="timer_edit">Правка</string>
