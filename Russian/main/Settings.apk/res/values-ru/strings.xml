@@ -1107,7 +1107,7 @@
     <string name="invalid_location">Недопустимое место установки.</string>
     <string name="system_package">Системные обновления нельзя установить на внешнем носителе.</string>
     <string name="force_stop_dlg_title">Остановить принудительно?</string>
-    <string name="force_stop_dlg_text">Принудительное закрытие приложения может отразиться на его функциональности.</string>
+    <string name="force_stop_dlg_text">Принудительное закрытие может нарушить функционал приложения.</string>
     <string name="move_app_failed_dlg_title" />
     <string name="move_app_failed_dlg_text">Не удалось переместить приложение. %1$s</string>
     <string name="app_install_location_title">Место установки</string>
