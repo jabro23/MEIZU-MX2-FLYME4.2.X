@@ -459,9 +459,9 @@
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включить передачу данных</string>
     <string name="mc_pm_online_intenert">Интернет</string>
-	<string name="detect_status_scanning">Сканирование</string>
+    <string name="detect_status_scanning">Сканирование</string>
     <string name="detect_status_done">Сканирование завершено</string>
-	<string name="scanning_virus_done">%1$s Вирусов найдено</string>
+    <string name="scanning_virus_done">%1$s Вирусов найдено</string>
     <string name="scanning_rubbish_done">%1$s Мусора найдено</string>
     <string name="scanning_app_done">%1$s Редко используемых прил.</string>
     <string name="scanning_permission_done">%1$s Приложений с автозапуском</string>
@@ -481,17 +481,17 @@
     <string name="scanning_traffic">Сканирование настроек трафика</string>
     <string name="scanning_permission">Сканирование автозапуска</string>
     <string name="scanning_large_file">Поиск больших файлов</string>
-	<string name="timer_scan">Сканирование по расписанию</string>
+    <string name="timer_scan">Сканирование по расписанию</string>
     <string name="options">Настройки</string>
     <string name="cycle_time">Интервал сканирования</string>
     <string name="scan_start_time">Время сканирования</string>
-	<string name="one_day">Раз в день</string>
+    <string name="one_day">Раз в день</string>
     <string name="three_day">Раз в 3 дня</string>
     <string name="seven_day">Раз в 7 дней</string>
     <string name="fifteen_day">Раз в 15 дней</string>
     <string name="thirty_day">Раз в 30 дней</string>
-	<string name="reject_recommend">Желательно откл.</string>
-	<string name="rubbish_memory_item_summary">%1$s процессов и %2$s сервисов</string>
+    <string name="reject_recommend">Желательно␀откл.</string>
+    <string name="rubbish_memory_item_summary">%1$s процессов и %2$s сервисов</string>
     <string name="rubbish_white_list">Белый список процессов и сервисов</string>
     <string name="process_service">Процессы и сервисы</string>
     <string name="system_and_app_cache">Кэш системы и приложений</string>
@@ -500,7 +500,7 @@
     <string name="proc_services_whitelist_add">Белый список</string>
     <string name="proc_services_whitelist_empty">Белый список процессов и сервисов пуст</string>
     <string name="proc_white_list_help_tips">От остановленных приложений и сервисов могут перестать приходить уведомления. Приложения добавленные в белый список, не будут выгружаться автоматически.</string>
-	<string name="see_detail">Нажмите для подробностей</string>
+    <string name="see_detail">Нажмите для подробностей</string>
     <string name="scanned_result">Обнаружено %1$s мусора</string>
-	<string name="already_clean_memory">%1$s Процессов и сервисов остановлено</string>
+    <string name="already_clean_memory">%1$s Процессов и сервисов остановлено</string>
 </resources>
