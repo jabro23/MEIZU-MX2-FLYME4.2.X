@@ -157,7 +157,7 @@
     <string name="appsec_allowall">Разрешить все</string>
     <string name="appsec_rejall">Блокировать все</string>
     <string name="appsec_tuijian">Рекомендуемые настройки</string>
-    <string name="tab_autostart">Запуск</string>
+    <string name="tab_autostart">Автозапуск</string>
     <string name="tab_notify">Уведомления</string>
     <string name="tab_safe">Безопасность</string>
     <string name="tab_privacy">Личное</string>
