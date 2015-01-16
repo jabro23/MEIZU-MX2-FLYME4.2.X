@@ -130,10 +130,10 @@
     <string name="bluetooth_histroy_sender">Отправитель: %1$s</string>
     <string name="bluetooth_histroy_receiver">Получатель: %1$s</string>
     <string name="empty_selected">Выберите хотя-бы один файл и повторите</string>
-    <string name="bluetooth_history_send_success_number">Успешно отправлено фалов: %1$s</string>
-    <string name="bluetooth_history_send_failure_number">Ошибка отправки %1$s файла(ов)</string>
+    <string name="bluetooth_history_send_success_number">Отправлено фалов: %1$s</string>
+    <string name="bluetooth_history_send_failure_number">Ошибка отпр. %1$s файла(ов)</string>
     <string name="bluetooth_history_receive_success_number">Успешно получено фалов: %1$s</string>
-    <string name="bluetooth_history_receive_failure_number">Ошибка получения %1$s файла(ов)</string>
+    <string name="bluetooth_history_receive_failure_number">Ошибка получе. %1$s файла(ов)</string>
     <string name="bluetooth_history_button_cancel">Отмена</string>
     <string name="bluetooth_history_button_go_document">Просмотреть</string>
     <string name="bluetooth_history_button_resend">Повторить</string>
