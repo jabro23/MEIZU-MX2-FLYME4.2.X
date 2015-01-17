@@ -2855,7 +2855,7 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="vertual_home_key">Vertual home key</string>
     <string name="vertual_home_key_tips">Through virtual primary key, you can achieve returns, the screen hover, and so easy to operate the drop-down notification bar</string>
     <string name="home_key_touch">Home key touch</string>
-    <string name="full_scrren_quick_access">Жесты в полноэкр.прил.</string>
+    <string name="full_scrren_quick_access">Жесты в полноэкр. прил.</string>
     <string name="full_scrren_quick_access_summary">Раскрытие панели уведомлений и диспетчера задач в полноэкранных приложениях</string>
     <string name="pref_summary_default_message_is_system_own">Системное</string>
     <string name="lock_screen_slide_right_custom">Slide rightward in lock screen</string>
