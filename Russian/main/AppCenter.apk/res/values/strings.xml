@@ -53,7 +53,7 @@
     <string name="add_favorite_suc">Successfully added to wish list</string>
     <string name="add_to_wishlist_success">Successfully added to wish list</string>
     <string name="added_task">Added %s download</string>
-    <string name="all_update">Обновить всё</string>
+    <string name="all_update">Обновить все</string>
     <string name="already_exists">App already exists</string>
     <string name="app_detail_title">App Details</string>
     <string name="app_download">Application download</string>
@@ -73,7 +73,12 @@
     <string name="apps_update_formatted">Доступно %s обновлений</string>
     <string name="autoUpdate">Auto-update apps over Wi-Fi</string>
     <string name="autoUpdateTip">Only over Wi-Fi</string>
+    <string name="auto_downlad">Download with free flow</string>
+    <string name="auto_downlad_tip">Auto-download apps over Wi-Fi</string>
+    <string name="auto_install">Auto-install apps without notificaion</string>
+    <string name="auto_install_tips">Auto-install the downloaded app</string>
     <string name="auto_install_wish">Auto-install apps in wish list over Wi-Fi</string>
+    <string name="auto_update_exclude">Excluded list of app update</string>
     <string name="average">Average</string>
     <string name="backupChecking">Checking apps for backup</string>
     <string name="backupComfirmMsg">Backing up current home screen will overwrite the cloud backup</string>
@@ -89,6 +94,7 @@
     <string name="bad_shared_user_id">Invalid process</string>
     <string name="balance">Balance: RMB %.2f</string>
     <string name="buy">Buy</string>
+    <string name="can_not_uninstall_tip">Temporarily unable to uninstall</string>
     <string name="can_update">Updatable %s</string>
     <string name="cancel">Cancel</string>
     <string name="cancelled_purchase">Purchase canceled</string>
@@ -100,6 +106,7 @@
     <string name="cat_title">Categories</string>
     <string name="certificate_encoding">Error with signature certificate encoding</string>
     <string name="check_devices_download_auth_failure">Download authority failed</string>
+    <string name="cloud_name">Cloud</string>
     <string name="commentCount">%d review(s)</string>
     <string name="commentCount_total">Nothing more</string>
     <string name="comment_count">(%d)</string>
@@ -117,6 +124,9 @@
     <string name="currentRestore">Restoring “%s”</string>
     <string name="current_version">Current V%s</string>
     <string name="date_time_set">Setup</string>
+    <string name="debut">Debut</string>
+    <string name="delete_apk_subtitle">The default storage location:%s</string>
+    <string name="delete_apk_title">Delete the App Packages after installed</string>
     <string name="delete_app_caution">Uninstall app?</string>
     <string name="delete_with_count">Delete %s</string>
     <string name="delta_update_validating">Validating</string>
@@ -135,7 +145,7 @@
     <string name="developer_reply">Developer replies %s</string>
     <string name="developer_tip">Developer:</string>
     <string name="dexopt">Out of space</string>
-    <string name="disk_not_enough">Device disk is insufficient</string>
+    <string name="disk_not_enough">Device disk is insufficient 200MB</string>
     <string name="dowmload_manage_no_data_remind_text">No download task</string>
     <string name="downgrade">Downgrade</string>
     <string name="download">Download</string>
@@ -159,11 +169,18 @@
     <string name="errorType4">Error with server parsing package</string>
     <string name="errorType5">App size exceeds 100MB</string>
     <string name="etc">etc.</string>
+    <string name="event_install_wechat">Install Wechat first</string>
+    <string name="event_install_weibo">Install Weibo first</string>
+    <string name="event_share">Share the activity , chance to win the lottery</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="favorite_tip">Installed apps cannot be added to wish list</string>
     <string name="fileSize">Size: %s</string>
     <string name="file_path_not_found">Could not find the path of file can be written to the data</string>
     <string name="flyme_account">Phone number/Flyme account name</string>
+    <string name="forestall_dialog_checkbox">Open Auto-install apps without notificaion now</string>
+    <string name="forestall_dialog_text">Tips: Open the Auto-install apps without notificaion in the settings, you can get newest apps in first time!</string>
+    <string name="forestall_dialog_title">Invite you to experience new function</string>
+    <string name="forestall_install">Free Update</string>
     <string name="freetrail">Trial</string>
     <string name="game_download">Game download</string>
     <string name="game_download_manage">Download Manager</string>
@@ -180,6 +197,7 @@
     <string name="games_update">Game Updates</string>
     <string name="get_download_url_failed">Get download link error</string>
     <string name="get_product_info_error">Get product information wrong</string>
+    <string name="gift">Gift</string>
     <string name="gift_activitie_remain_time">Time left to participate</string>
     <string name="gift_cdkey">Redemption Code</string>
     <string name="gift_center">Gift Center</string>
@@ -209,7 +227,7 @@
     <string name="gift_second">second(s)</string>
     <string name="gift_tips">Instructions</string>
     <string name="guest_mode_can_not_update_tips">Visitors are not allowed to update</string>
-    <string name="guest_mode_tips">Visitors are not allowed to open</string>
+    <string name="guest_mode_tips">Application unable to open</string>
     <string name="had_deleted_history">Installation history deleted</string>
     <string name="had_finish">Completed %s</string>
     <string name="had_install">has been installed</string>
@@ -242,11 +260,11 @@
     <string name="inconsistent_certificates">Inconsistent signature certificates</string>
     <string name="input_length_limit_tip">You have entered too many characters!</string>
     <string name="install">Установить</string>
-    <string name="install_all">Установить всё</string>
+    <string name="install_all">Установить все</string>
     <string name="install_date_format">Установлено %s</string>
     <string name="install_error">Ошибка при установке</string>
     <string name="install_error_formatted">Ошибка при установке %s</string>
-    <string name="install_error_formatted2">Ошибка при установке %s</string>
+    <string name="install_error_formatted2">Ошибка при установке %s</string>
     <string name="install_error_formatted3">Ошибка при установке %s</string>
     <string name="install_error_out_of_storage_space">Ошибка при установке, недостаточно места</string>
     <string name="install_list">Установлено</string>
@@ -266,6 +284,8 @@
     <string name="invalid_install_location">Invalid installation path</string>
     <string name="invalid_uri">Invalid APK path</string>
     <string name="lack_order_info">Order information is missing</string>
+    <string name="launch_appcenter_notification_contenttext">Install Wechat, QQ and other essential applications, enjoy wonderful Connected Life</string>
+    <string name="launch_appcenter_notification_title">Application Center to install official applications</string>
     <string name="launcherBackup">Home screen backup</string>
     <string name="launcherBackupCancel">Stop</string>
     <string name="launcherBackupFailed">Home screen backup failed</string>
@@ -284,6 +304,7 @@
     <string name="loadingRestoreDesktopData">Getting home screen data</string>
     <string name="loadingRestoreDesktopIcon">Downloading home screen icons</string>
     <string name="loading_text">Loading</string>
+    <string name="localRestoreLockTip">The local is backing up, please wait</string>
     <string name="lock_month_day">MMM d</string>
     <string name="lock_week">yyyy年M月d日(EEE)</string>
     <string name="manifest_empty">Manifest not found</string>
@@ -367,6 +388,7 @@
     <string name="mc_pull_refresh">Pull down to refresh</string>
     <string name="mc_reject">Reject</string>
     <string name="mc_saturday">SA</string>
+    <string name="mc_search">Search</string>
     <string name="mc_second">s</string>
     <string name="mc_selectionbutton_all">All</string>
     <string name="mc_sunday">SU</string>
@@ -438,6 +460,7 @@
     <string name="null_order_info">Can not find order information</string>
     <string name="obtaining_account">Obtaining Account</string>
     <string name="obtaining_balance">Balance: Obtaining</string>
+    <string name="official">Official</string>
     <string name="older_sdk">OS version lower than APK requirement</string>
     <string name="onlyWifiWorkCanBackupDesktop">Home screen backup only available over Wi-Fi</string>
     <string name="open">Open</string>
@@ -472,6 +495,7 @@
     <string name="publicDate">Date:</string>
     <string name="publish_date_version_format" formatted="false">%s release %s version</string>
     <string name="purchase_title">Buy:￥%s</string>
+    <string name="rank_rise">Rise</string>
     <string name="reDownload">Retry</string>
     <string name="regetRestoreDb">Click to retry</string>
     <string name="related_recommend_no_data_remind_text">No related recommendation</string>
@@ -530,6 +554,7 @@
     <string name="smartbar_search">Search</string>
     <string name="starting_task">Загрузка %s</string>
     <string name="statusbar_download_start">%s Download Start</string>
+    <string name="superior">Superior</string>
     <string name="system_pay_can_not_use">Payment service is temporarily unavailable</string>
     <string name="target_activity_nonexistent">Target interface does not exist</string>
     <string name="tenThousand">thousand x10</string>
@@ -547,16 +572,28 @@
     <string name="updateNotify">App update notification</string>
     <string name="update_all">Update all</string>
     <string name="update_all_confirm">Confirm to update all?</string>
+    <string name="update_all_format" />
+    <string name="update_downloaded">Downloaded</string>
+    <string name="update_downloaded_guide">Have been downloaded over Wi-Fi!</string>
     <string name="update_error">Failed to update</string>
     <string name="update_error_formatted">Failed to update: %s</string>
+    <string name="update_exclude_activity_title">App-update Excluded</string>
+    <string name="update_exclude_title">%d apps will not be prompted update or upgraded automatically</string>
+    <string name="update_free_title">App update-Free flow</string>
+    <string name="update_free_title_format">Apps update-Free flow   %s</string>
     <string name="update_incompatible">Update package incompatible</string>
+    <string name="update_notification_text">The apps have been downloaded orver Wi-Fi:</string>
+    <string name="update_now">Update Now</string>
     <string name="update_pause">Update paused</string>
     <string name="update_success">Successfully updated</string>
     <string name="update_success_formatted">%s successfully updated</string>
+    <string name="update_unexclude_title">"Please exclude the apps you don't want to update"</string>
     <string name="updatedApps">%d apps updated</string>
     <string name="updating">Updating</string>
     <string name="uploadingDesktopData">Uploading home screen data</string>
+    <string name="user_downloaded">downloads</string>
     <string name="user_restricted">Insufficient permissions</string>
+    <string name="user_updated">updates</string>
     <string name="verification_failure">Failed to verify APK</string>
     <string name="verification_timeout">APK verification timed out</string>
     <string name="version_downgrade">Version downgrade</string>
