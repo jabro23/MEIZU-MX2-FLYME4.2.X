@@ -400,4 +400,16 @@
     <dimen name="mc_pullRefresh_textsize">14.0dip</dimen>
     <dimen name="mc_pullRefresh_textmargintop">15.0dip</dimen>
     <dimen name="mc_pullRefresh_paintoffset">1.0dip</dimen>
+    <dimen name="mc_search_icon_width">20.0dip</dimen>
+    <dimen name="mc_search_icon_margin_left">10.0dip</dimen>
+    <dimen name="mc_search_edit_margin_left">39.0dip</dimen>
+    <dimen name="mc_search_edit_padding_right">32.0dip</dimen>
+    <dimen name="mc_search_edit_padding_left">6.0dip</dimen>
+    <dimen name="mc_search_edit_textsize">18.0sp</dimen>
+    <dimen name="mc_search_icon_delete_margin_right">6.0dip</dimen>
+    <dimen name="mc_search_margin_left">28.0dip</dimen>
+    <dimen name="mc_search_margin_left_land_none">5.0dip</dimen>
+    <dimen name="mc_search_margin_right">67.0dip</dimen>
+    <dimen name="mc_search_margin_right_land">100.5dip</dimen>
+    <dimen name="mc_search_margin_right_land_none">77.5dip</dimen>
 </resources>
