@@ -584,8 +584,6 @@
     <dimen name="mz_toast_padding_top">8.0dip</dimen>
     <dimen name="mz_toast_y_offset">30.0dip</dimen>
     <dimen name="mz_progress_dialog_padding_no_message">8.0dip</dimen>
-    <dimen name="mz_list_inner_padding_top">20.0dip</dimen>
-    <dimen name="mz_list_category_inner_padding_top">15.0dip</dimen>
     <dimen name="webviewchromium_link_preview_overlay_radius">7.0dip</dimen>
     <dimen name="webviewchromium_color_button_height">60.0dip</dimen>
     <dimen name="webviewchromium_color_picker_gradient_margin">14.5dip</dimen>
