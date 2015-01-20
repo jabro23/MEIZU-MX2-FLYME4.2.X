@@ -32,6 +32,7 @@
     <string name="cloud_guide_main_text">Use cloud disk</string>
     <string name="cloud_guide_sub_text">Always sync files</string>
     <string name="cloud_item_open_text">Opening</string>
+    <string name="cloud_name">Cloud</string>
     <string name="cloud_storage_name">Cloud</string>
     <string name="cloud_title_login">Log in to cloud disk</string>
     <string name="cloudstorage_notification_title">File transfer manager</string>
@@ -75,7 +76,7 @@
     <string name="download_task_completed_text2">Failed to upload %s</string>
     <string name="download_task_completed_text3">Suspended %s</string>
     <string name="download_task_completed_title">Download completed, click to view</string>
-    <string name="download_to">Скачив. в</string>
+    <string name="download_to">Download to</string>
     <string name="downloaded_files_title_text">Downloaded files</string>
     <string name="downloading">Downloading</string>
     <string name="empty_folder_text">Empty folder</string>
@@ -218,6 +219,7 @@
     <string name="mc_pull_refresh">Pull down to refresh</string>
     <string name="mc_reject">Reject</string>
     <string name="mc_saturday">SA</string>
+    <string name="mc_search">Search</string>
     <string name="mc_second">s</string>
     <string name="mc_selectionbutton_all">All</string>
     <string name="mc_sunday">SU</string>
@@ -381,10 +383,10 @@
     <string name="samba">Network Neighborhood</string>
     <string name="samba_refresh_text">Refreshing</string>
     <string name="save_title_1_copy">Копир. в</string>
-	<string name="save_title_1_move">Перем. в</string>
+    <string name="save_title_1_move">Перем. в</string>
     <string name="save_title_1_save">Сохр. в</string>
-    <string name="saved_to">Saved to %s</string>
-    <string name="saving">Saving</string>
+    <string name="saved_to">Сохранено в %s</string>
+    <string name="saving">Сохранение...</string>
     <string name="sd_write_error">Error saving to SD card:</string>
     <string name="sdcard_name">Disk</string>
     <string name="search_select_text_all">All</string>
@@ -462,7 +464,7 @@
     <string name="upload_task_completed_text2">Failed to upload %s</string>
     <string name="upload_task_completed_text3">Suspended %s</string>
     <string name="upload_task_completed_title">Upload completed, click to view</string>
-    <string name="upload_to">Загр. в</string>
+    <string name="upload_to">Uploaded to</string>
     <string name="uploaded_files_title_text">Files uploaded</string>
     <string name="uploading">Uploading</string>
     <string name="username_charset">Invalid username, please enter letters, numbers, spaces or _.</string>
