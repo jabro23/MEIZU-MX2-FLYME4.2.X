@@ -2737,8 +2737,8 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="quick_wakeup_choose_app">Choose an app to activate</string>
     <string name="quick_wakeup_tips">Slide the dark screen to wake up the phone</string>
     <string name="home_key_behavior">Hold the Home button</string>
-    <string name="auto_hide_smartbar_title">Скрыть Smartbar</string>
-    <string name="auto_hide_smartbar_message">Smartbar будет автоматически скрыт для несовместимых приложений; сдвиньте вверх от кольца для возврата назад</string>
+    <string name="auto_hide_smartbar_title">Скрыть СмартБар</string>
+    <string name="auto_hide_smartbar_message">СмартБар будет автоматически скрыт для несовместимых приложений; сдвиньте вверх от кольца для возврата назад</string>
     <string name="light_feedback_enable_title">Подсветка кольца</string>
     <string name="light_feedback_enable_summary">More power consumption</string>
     <string name="accessibility_current_network_speed_title">Current Network Speed</string>
