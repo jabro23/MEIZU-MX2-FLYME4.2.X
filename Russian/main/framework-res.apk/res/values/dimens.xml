@@ -587,6 +587,4 @@
     <dimen name="webviewchromium_link_preview_overlay_radius">7.0dip</dimen>
     <dimen name="webviewchromium_color_button_height">60.0dip</dimen>
     <dimen name="webviewchromium_color_picker_gradient_margin">14.5dip</dimen>
-    <dimen name="webviewchromium_autofill_text_height">44.0dip</dimen>
-    <dimen name="webviewchromium_autofill_text_divider_height">1.0px</dimen>
 </resources>
