@@ -1668,9 +1668,9 @@
     <string name="pattern_day_month_year" formatted="false">%-e/%-m/%Y</string>
     <string name="pattern_day_month_year_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
     <string name="pattern_day_month_year_hour_minute_12" formatted="false">%-e/%-m/%Y %p %I:%M</string>
-    <string name="tethered_notification_title_one_device">Интернет раздаётся %1$d устройству</string>
+	<string name="tethered_notification_title_one_device">Интернет раздаётся %1$d устройству</string>
     <string name="tethered_notification_title_devices">Интернет раздаётся %1$d устройствам</string>
-    <string name="recommend_search_mstore">Поиск в AppCenter</string>
+	<string name="recommend_search_mstore">Поиск в AppCenter</string>
     <string name="recommend_search_gooleplay">Поиск %s</string>
     <string name="recommend_open_mstore_faile">Ошибка при открытии AppCenter</string>
 </resources>
