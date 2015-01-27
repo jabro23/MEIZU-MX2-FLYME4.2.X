@@ -2016,7 +2016,7 @@
     <string name="regulatory_info_text" />
     <string name="custom_settings_title">Персонализация</string>
     <string name="gallery_wallpaper">Обои галереи</string>
-    <string name="default_launcher">Лаунчер по умолчанию</string>
+    <string name="default_launcher">Рабочий стол по умолчанию</string>
     <string name="not_set_default_launcher">Не установлен</string>
     <string name="brightness_category_title">Настройки яркости</string>
     <string name="button_brightness_title">Сенсорное кольцо</string>
