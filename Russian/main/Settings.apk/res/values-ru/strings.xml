@@ -507,7 +507,7 @@
     <string name="wifi_scan_always_available_summary">Разрешить службе геопозиционирования и другим приложениям Google искать сети, даже если модуль Wi-Fi выключен</string>
     <string name="wifi_install_credentials">Установка сертификатов</string>
     <string name="wifi_scan_notify_text_location_on">Чтобы улучшить определение местоположения, а также для достижения других целей, Google и другие приложения могут выполнять поиск сетей поблизости, даже если сеть Wi-Fi отключена. Чтобы изменить эти настройки, перейдите в меню \"Дополнительно > Всегда искать сети\".</string>
-    <string name="wifi_scan_notify_text_location_off">Приложения могут выполнять поиск сетей поблизости, даже если сеть Wi-Fi отключена. Чтобы изменить эти настройки, перейдите в меню \"Дополнительно > Всегда искать сети\".</string>
+    <string name="wifi_scan_notify_text_location_off">Приложения могут выполнять поиск сетей поблизости, даже если сеть Wi-Fi отключена. Чтобы изменить эти настройки, перейдите в меню \"Дополнительно > Всегда искать сети\".</string>
     <string name="wifi_scan_notify_remember_choice">Больше не показывать</string>
     <string name="wifi_setting_sleep_policy_title">Wi-Fi в спящем реж.</string>
     <string name="wifi_setting_sleep_policy_error">Не удалось изменить этот параметр</string>
@@ -1275,9 +1275,9 @@
     <string name="battery_history_hours">%1$d ч. %2$d м. %3$d с.</string>
     <string name="battery_history_minutes">%1$d м. %2$d с.</string>
     <string name="battery_history_seconds">%1$d с.</string>
-    <string name="battery_history_days_no_seconds">%1$d д. %2$d ч. %3$d м.</string>
-    <string name="battery_history_hours_no_seconds">%1$d ч. %2$d мин.</string>
-    <string name="battery_history_minutes_no_seconds">%1$d мин.</string>
+    <string name="battery_history_days_no_seconds">%1$d д. %2$d ч. %3$d м.</string>
+    <string name="battery_history_hours_no_seconds">%1$d ч. %2$d мин.</string>
+    <string name="battery_history_minutes_no_seconds">%1$d мин.</string>
     <string name="usage_stats_label">Статистика использования</string>
     <string name="testing_usage_stats">Статистика использования</string>
     <string name="display_order_text">Упорядочить по:</string>
@@ -1304,9 +1304,9 @@
     <string name="accessibility_global_gesture_preference_summary_off">Выкл</string>
     <string name="accessibility_global_gesture_preference_description">"Вы сможете быстро включать специальные возможности. Вот как это сделать.
 
-1. Нажмите кнопку питания и удерживайте ее, пока не раздастся звуковой сигнал или вибросигнал.
+1. Нажмите кнопку питания и удерживайте ее, пока не раздастся звуковой сигнал или вибросигнал.
 
-2. Нажмите на экран двумя пальцами и не отпускайте их, пока не услышите сообщение о том, что команда выполнена.
+2. Нажмите на экран двумя пальцами и не отпускайте их, пока не услышите сообщение о том, что команда выполнена.
 
 Если устройством пользуется несколько человек, специальные возможности будут включены до тех пор, пока устройство не будет разблокировано или не будет выбран другой пользователь."</string>
     <string name="accessibility_toggle_large_text_preference_title">Крупный текст</string>
@@ -1385,7 +1385,7 @@
     <string name="power_usage_summary_title">Батарея</string>
     <string name="power_usage_summary">На что расходуется заряд батареи</string>
     <string name="power_usage_not_available">Расход батареи неизвестен.</string>
-    <string name="power_usage_level_and_status">%1$s – %2$s</string>
+    <string name="power_usage_level_and_status">%1$s – %2$s</string>
     <string name="battery_since_unplugged">Расход заряда батареи с момента отключения от сети питания</string>
     <string name="battery_since_reset">Расход заряда батареи с момента перезагрузки</string>
     <string name="battery_stats_on_battery">%1$s от батареи</string>
@@ -1466,10 +1466,10 @@
     <string name="process_stats_run_time">Время работы</string>
     <string name="services_subtitle">Сервисы</string>
     <string name="menu_proc_stats_duration">Период</string>
-    <string name="menu_duration_3h">3 ч.</string>
-    <string name="menu_duration_6h">6 ч.</string>
-    <string name="menu_duration_12h">12 ч.</string>
-    <string name="menu_duration_1d">1 д.</string>
+    <string name="menu_duration_3h">3 ч.</string>
+    <string name="menu_duration_6h">6 ч.</string>
+    <string name="menu_duration_12h">12 ч.</string>
+    <string name="menu_duration_1d">1 д.</string>
     <string name="menu_show_system">Системные процессы</string>
     <string name="menu_use_uss">Использовать USS</string>
     <string name="menu_proc_stats_type">Тип статистических данных</string>
@@ -1732,7 +1732,7 @@
     <string name="force_hw_ui">Ускорить работу GPU</string>
     <string name="force_hw_ui_summary">Всегда использовать GPU для двухмерного рисования</string>
     <string name="force_msaa">Включить 4x MSAA</string>
-    <string name="force_msaa_summary">Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
+    <string name="force_msaa_summary">Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
     <string name="show_non_rect_clip">Опер. непрямоуг. усечения</string>
     <string name="track_frame_time">Записывать время работы GPU</string>
     <string name="window_animation_scale_title">Окно: масштаб</string>
@@ -1904,7 +1904,7 @@
     <string name="user_need_lock_message">Чтобы создать профиль с ограниченным доступом, необходимо предварительно настроить блокировку экрана для защиты приложений и личных данных</string>
     <string name="user_set_lock_button">Включить блокировку</string>
     <string name="user_summary_not_set_up">Не настроено</string>
-    <string name="user_summary_restricted_not_set_up">Не настроено – профиль с ограниченным доступом</string>
+    <string name="user_summary_restricted_not_set_up">Не настроено – профиль с ограниченным доступом</string>
     <string name="user_owner">Владелец</string>
     <string name="user_you">Вы (%s)</string>
     <string name="user_nickname">Псевдоним</string>
@@ -2576,4 +2576,15 @@
     <string name="tether_method">Режим передачи</string>
 	<string name="home_key_behavior">Долгое нажатие кольца</string>
 	<string name="wifi_password_error_hint">Неверный пароль</string>
+	<string name="smart_touch_title">СмартТач</string>
+    <string name="smart_touch_tips">СмартТач служит для возврата, сдвига экрана вниз и других настраеваемых функций.</string>
+    <string name="smart_touch_switch_title">СмартТач</string>
+    <string name="smart_touch_category_title">Настройки</string>
+    <string name="smart_touch_behavior_click_title">Тап</string>
+    <string name="smart_touch_behavior_doubleclick_title">Двойной тап</string>
+    <string name="smart_touch_behavior_long_title">Удержание</string>
+    <string name="smart_touch_behavior_up_title">Слайд вверх</string>
+    <string name="smart_touch_behavior_down_title">Слайд вниз</string>
+    <string name="smart_touch_behavior_left_right_title">Слайд влево/вправо</string>
+    <string name="smart_touch_opacity">Видимость</string>
 </resources>
