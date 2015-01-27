@@ -5,7 +5,7 @@
         <item name="android:textColor">#ccffffff</item>
     </style>
     <style name="TextAppearance.StatusBar.Expanded.WidgetText" parent="@style/TextAppearance.StatusBar.Expanded">
-        <item name="android:textSize">10.0dip</item>
+        <item name="android:textSize">11.0dip</item>
         <item name="android:textColor">#ccffffff</item>
     </style>
 </resources>
