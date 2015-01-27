@@ -3,6 +3,22 @@
     <string name="status_bar_date_formatter">"%2$s
 %1$s"</string>
     <string name="status_bar_date_formatter_meizu">EEEE, d MMMM</string>
+	<string name="floattouch_help_title">Введение в СмартТач</string>
+    <string name="floattouch_help_button_close">Хорошо</string>
+	<string name="floattouch_help_button_modify">Изменить</string>
+    <string name="floattouch_help_button_title_1">Тап</string>
+    <string name="floattouch_help_button_summary_1">Назад</string>
+    <string name="floattouch_help_button_title_2">Двойной тап</string>
+    <string name="floattouch_help_button_summary_2">Сдвинуть экран вниз</string>
+    <string name="floattouch_help_button_title_3">Удержание</string>
+    <string name="floattouch_help_button_summary_3">Переместить кнопку</string>
+    <string name="floattouch_help_button_title_4">Вверх</string>
+    <string name="floattouch_help_button_summary_4">На рабочий стол</string>
+    <string name="floattouch_help_button_title_5">Вниз</string>
+    <string name="floattouch_help_button_summary_5">Опустить шторку</string>
+    <string name="floattouch_help_button_title_6">Влево/вправо</string>
+    <string name="floattouch_help_button_summary_6">Переключать приложения</string>
+	<string name="floattouch_help_button_summary_lock_screen">Заблокировать экран</string>
     <string name="WidgetLayoutExtend_Description_wifi">Wi-Fi</string>
     <string name="WidgetLayoutExtend_Description_data">Данные</string>
     <string name="WidgetLayoutExtend_Description_bluetooth">Bluetooth</string>
@@ -371,19 +387,5 @@
     <string name="mc_pm_online_intenert">Интернет</string>
     <string name="download_cancel">Отмена</string>
     <string name="download_ok">ОК</string>
-	<string name="floattouch_help_title">Введение в СмартТач</string>
-    <string name="floattouch_help_button">Хорошо</string>
-    <string name="floattouch_help_button_title_1">Тап</string>
-    <string name="floattouch_help_button_summary_1">назад</string>
-    <string name="floattouch_help_button_title_2">Двойной тап</string>
-    <string name="floattouch_help_button_summary_2">сдвинуть экран вниз</string>
-    <string name="floattouch_help_button_title_3">Удержание</string>
-    <string name="floattouch_help_button_summary_3">перемещать кнопку</string>
-    <string name="floattouch_help_button_title_4">Вверх</string>
-    <string name="floattouch_help_button_summary_4">на главный экран</string>
-    <string name="floattouch_help_button_title_5">Вниз</string>
-    <string name="floattouch_help_button_summary_5">открыть панель уведомлений</string>
-    <string name="floattouch_help_button_title_6">В стороны</string>
-    <string name="floattouch_help_button_summary_6">переключение приложений</string>
-	<string name="WidgetLayoutExtend_Description_floattouch">СмартТач</string>
+    <string name="WidgetLayoutExtend_Description_floattouch">СмартТач</string>
 </resources>
