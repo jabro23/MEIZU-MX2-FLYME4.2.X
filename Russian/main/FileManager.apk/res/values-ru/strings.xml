@@ -302,7 +302,7 @@
     <string name="rename_mixed_error">%1$s файл(ов) уже существует, у %2$s файл(ов) слишком длинное имя</string>
     <string name="rename_title_text">Переименовать</string>
     <string name="rename_too_long">%1$d файл(ов) успешно переименовано, %2$d файл(ов) имеют слишком длинное имя</string>
-    <string name="renaming">Переименование</string>
+    <string name="renaming">Переименование...</string>
     <string name="retry_connect_after_wifi_ok">Wi-Fi не подключен, идет разъединение</string>
     <string name="safe_box_name">Хранилище</string>
     <string name="safe_box_photo_name">Фото</string>
