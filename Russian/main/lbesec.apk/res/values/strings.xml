@@ -141,7 +141,7 @@
     <string name="HIPS_Perm_Recorder_VoiceCall">record in-call audio</string>
     <string name="app_name">Менеджер разрешений</string>
     <string name="Generic_Copyright">Разработано LBE Privacy Guard</string>
-    <string name="Generic_Version">Версия: %1$s</string>
+    <string name="Generic_Version">Версия:␀%1$s</string>
     <string name="Generic_Configuration">Настройки</string>
     <string name="Generic_UserApp">Пользовательских приложений:(%d)</string>
     <string name="Generic_SystemApp">Системных приложений: (%d)</string>
