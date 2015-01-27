@@ -709,7 +709,7 @@
 
     move-result-object v1
 
-    const v2, 0x7f03004c
+    const v2, 0x7f03004d
 
     const/4 v3, 0x0
 
@@ -745,7 +745,7 @@
 
     move-result-object v3
 
-    const v4, 0x7f03006d
+    const v4, 0x7f03006e
 
     const/4 v5, 0x0
 
@@ -781,7 +781,7 @@
 
     const/4 v5, 0x3
 
-    const v3, 0x7f0b012b
+    const v3, 0x7f0b0130
 
     invoke-virtual {v0, v3}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -796,7 +796,7 @@
 
     const/4 v5, 0x4
 
-    const v3, 0x7f0b012c
+    const v3, 0x7f0b0131
 
     invoke-virtual {v0, v3}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -811,7 +811,7 @@
 
     const/4 v5, 0x5
 
-    const v3, 0x7f0b012d
+    const v3, 0x7f0b0132
 
     invoke-virtual {v0, v3}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -861,7 +861,7 @@
 
     aget-object v3, v3, v1
 
-    const v5, 0x7f0b0130
+    const v5, 0x7f0b0135
 
     invoke-virtual {v3, v5}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -878,7 +878,7 @@
 
     aget-object v3, v3, v1
 
-    const v5, 0x7f0b00d9
+    const v5, 0x7f0b00de
 
     invoke-virtual {v3, v5}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -895,7 +895,7 @@
 
     aget-object v3, v3, v1
 
-    const v5, 0x7f0b0131
+    const v5, 0x7f0b0136
 
     invoke-virtual {v3, v5}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -927,7 +927,7 @@
 
     aget-object v3, v3, v1
 
-    const v5, 0x7f0b0133
+    const v5, 0x7f0b0138
 
     invoke-virtual {v3, v5}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -963,7 +963,7 @@
 
     move-result-object v3
 
-    const v4, 0x7f03006d
+    const v4, 0x7f03006e
 
     const/4 v5, 0x0
 
@@ -999,7 +999,7 @@
 
     const/4 v5, 0x6
 
-    const v3, 0x7f0b012b
+    const v3, 0x7f0b0130
 
     invoke-virtual {v0, v3}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1014,7 +1014,7 @@
 
     const/4 v5, 0x7
 
-    const v3, 0x7f0b012c
+    const v3, 0x7f0b0131
 
     invoke-virtual {v0, v3}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1029,7 +1029,7 @@
 
     const/16 v5, 0x8
 
-    const v3, 0x7f0b012d
+    const v3, 0x7f0b0132
 
     invoke-virtual {v0, v3}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1079,7 +1079,7 @@
 
     aget-object v3, v3, v1
 
-    const v5, 0x7f0b0130
+    const v5, 0x7f0b0135
 
     invoke-virtual {v3, v5}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1096,7 +1096,7 @@
 
     aget-object v3, v3, v1
 
-    const v5, 0x7f0b00d9
+    const v5, 0x7f0b00de
 
     invoke-virtual {v3, v5}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1113,7 +1113,7 @@
 
     aget-object v3, v3, v1
 
-    const v5, 0x7f0b0131
+    const v5, 0x7f0b0136
 
     invoke-virtual {v3, v5}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1145,7 +1145,7 @@
 
     aget-object v3, v3, v1
 
-    const v5, 0x7f0b0133
+    const v5, 0x7f0b0138
 
     invoke-virtual {v3, v5}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1181,7 +1181,7 @@
 
     move-result-object v3
 
-    const v4, 0x7f03006d
+    const v4, 0x7f03006e
 
     const/4 v5, 0x0
 
@@ -1217,7 +1217,7 @@
 
     const/16 v5, 0x9
 
-    const v3, 0x7f0b012b
+    const v3, 0x7f0b0130
 
     invoke-virtual {v0, v3}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1232,7 +1232,7 @@
 
     const/16 v5, 0xa
 
-    const v3, 0x7f0b012c
+    const v3, 0x7f0b0131
 
     invoke-virtual {v0, v3}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1247,7 +1247,7 @@
 
     const/16 v5, 0xb
 
-    const v3, 0x7f0b012d
+    const v3, 0x7f0b0132
 
     invoke-virtual {v0, v3}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1297,7 +1297,7 @@
 
     aget-object v3, v3, v1
 
-    const v5, 0x7f0b0130
+    const v5, 0x7f0b0135
 
     invoke-virtual {v3, v5}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1314,7 +1314,7 @@
 
     aget-object v3, v3, v1
 
-    const v5, 0x7f0b00d9
+    const v5, 0x7f0b00de
 
     invoke-virtual {v3, v5}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1331,7 +1331,7 @@
 
     aget-object v3, v3, v1
 
-    const v5, 0x7f0b0131
+    const v5, 0x7f0b0136
 
     invoke-virtual {v3, v5}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1363,7 +1363,7 @@
 
     aget-object v3, v3, v1
 
-    const v5, 0x7f0b0133
+    const v5, 0x7f0b0138
 
     invoke-virtual {v3, v5}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -1828,7 +1828,7 @@
 
     iget-object v13, v0, Lcom/meizu/flyme/alarmclock/worldclock/WorldClockView;->mCurrentView:Landroid/view/View;
 
-    const v14, 0x7f0b0130
+    const v14, 0x7f0b0135
 
     invoke-virtual {v13, v14}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -1842,7 +1842,7 @@
 
     iget-object v13, v0, Lcom/meizu/flyme/alarmclock/worldclock/WorldClockView;->mCurrentView:Landroid/view/View;
 
-    const v14, 0x7f0b00d9
+    const v14, 0x7f0b00de
 
     invoke-virtual {v13, v14}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -1856,7 +1856,7 @@
 
     iget-object v13, v0, Lcom/meizu/flyme/alarmclock/worldclock/WorldClockView;->mCurrentView:Landroid/view/View;
 
-    const v14, 0x7f0b0133
+    const v14, 0x7f0b0138
 
     invoke-virtual {v13, v14}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -1975,7 +1975,7 @@
     .line 1422
     iget-object v7, p0, Lcom/meizu/flyme/alarmclock/worldclock/WorldClockView;->mCurrentView:Landroid/view/View;
 
-    const v8, 0x7f0b0130
+    const v8, 0x7f0b0135
 
     invoke-virtual {v7, v8}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -2349,7 +2349,7 @@
 
     move-result-object v18
 
-    const v19, 0x7f0c02d4
+    const v19, 0x7f0c02e3
 
     invoke-virtual/range {v18 .. v19}, Landroid/content/res/Resources;->getDimension(I)F
 
@@ -2738,7 +2738,7 @@
 
     .line 2862
     .local v8, "leftTag":Ljava/lang/Object;
-    const v20, 0x7f0b0130
+    const v20, 0x7f0b0135
 
     move-object/from16 v0, p1
 
@@ -2752,7 +2752,7 @@
 
     .line 2863
     .local v3, "leftClockLayout":Landroid/view/ViewGroup;
-    const v20, 0x7f0b00d9
+    const v20, 0x7f0b00de
 
     move-object/from16 v0, p1
 
@@ -2766,7 +2766,7 @@
 
     .line 2864
     .local v10, "leftTextView":Landroid/widget/TextView;
-    const v20, 0x7f0b0133
+    const v20, 0x7f0b0138
 
     move-object/from16 v0, p1
 
@@ -2824,7 +2824,7 @@
 
     .line 2878
     .local v16, "rightTag":Ljava/lang/Object;
-    const v20, 0x7f0b0130
+    const v20, 0x7f0b0135
 
     move-object/from16 v0, p2
 
@@ -2838,7 +2838,7 @@
 
     .line 2879
     .local v11, "rightClockLayout":Landroid/view/ViewGroup;
-    const v20, 0x7f0b00d9
+    const v20, 0x7f0b00de
 
     move-object/from16 v0, p2
 
@@ -2852,7 +2852,7 @@
 
     .line 2880
     .local v18, "rightTextView":Landroid/widget/TextView;
-    const v20, 0x7f0b0133
+    const v20, 0x7f0b0138
 
     move-object/from16 v0, p2
 
@@ -4745,7 +4745,7 @@
 
     move-result-object v18
 
-    const v19, 0x7f0c02ca
+    const v19, 0x7f0c02d9
 
     invoke-virtual/range {v18 .. v19}, Landroid/content/res/Resources;->getDimensionPixelSize(I)I
 
@@ -4988,7 +4988,7 @@
 
     move-result-object v19
 
-    const v20, 0x7f0e0159
+    const v20, 0x7f0e015a
 
     invoke-virtual/range {v19 .. v20}, Landroid/content/res/Resources;->getString(I)Ljava/lang/String;
 
@@ -5334,7 +5334,7 @@
 
     move-result-object v18
 
-    const v19, 0x7f0c02ca
+    const v19, 0x7f0c02d9
 
     invoke-virtual/range {v18 .. v19}, Landroid/content/res/Resources;->getDimensionPixelSize(I)I
 
@@ -5387,7 +5387,7 @@
 
     move-result-object v19
 
-    const v20, 0x7f0e0159
+    const v20, 0x7f0e015a
 
     invoke-virtual/range {v19 .. v20}, Landroid/content/res/Resources;->getString(I)Ljava/lang/String;
 
@@ -7032,7 +7032,7 @@
 
     .line 2984
     :cond_1
-    const v2, 0x7f0b00d9
+    const v2, 0x7f0b00de
 
     invoke-virtual {p1, v2}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -7042,7 +7042,7 @@
 
     .line 2985
     .local v1, "textView":Landroid/widget/TextView;
-    const v2, 0x7f0b0133
+    const v2, 0x7f0b0138
 
     invoke-virtual {p1, v2}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -7239,7 +7239,7 @@
 
     aget-object v2, v0, v5
 
-    const v3, 0x7f0e015a
+    const v3, 0x7f0e015b
 
     const v4, 0x7f0c005a
 
@@ -7295,7 +7295,7 @@
 
     iget-object v2, p0, Lcom/meizu/flyme/alarmclock/worldclock/WorldClockView;->mSingleWorldClockAddIcon:Landroid/widget/ImageView;
 
-    const v3, 0x7f0e015b
+    const v3, 0x7f0e015c
 
     const v4, 0x7f0c0059
 
@@ -7540,7 +7540,7 @@
     if-eqz v12, :cond_6
 
     .line 1833
-    const v30, 0x7f0b0130
+    const v30, 0x7f0b0135
 
     move/from16 v0, v30
 
@@ -7552,7 +7552,7 @@
 
     .line 1834
     .local v28, "view":Landroid/view/ViewGroup;
-    const v30, 0x7f0b00d9
+    const v30, 0x7f0b00de
 
     move/from16 v0, v30
 
@@ -7564,7 +7564,7 @@
 
     .line 1835
     .local v26, "textView":Landroid/widget/TextView;
-    const v30, 0x7f0b0133
+    const v30, 0x7f0b0138
 
     move/from16 v0, v30
 
@@ -7596,7 +7596,7 @@
     invoke-virtual {v0, v12}, Landroid/widget/LinearLayout;->setTag(Ljava/lang/Object;)V
 
     .line 1844
-    const v30, 0x7f0b012f
+    const v30, 0x7f0b0134
 
     move-object/from16 v0, v22
 
@@ -7610,7 +7610,7 @@
 
     .line 1845
     .local v23, "layout2":Landroid/widget/LinearLayout;
-    const v30, 0x7f0b0130
+    const v30, 0x7f0b0135
 
     move-object/from16 v0, v22
 
@@ -7624,7 +7624,7 @@
 
     .line 1846
     .local v29, "view2":Landroid/view/ViewGroup;
-    const v30, 0x7f0b00d9
+    const v30, 0x7f0b00de
 
     move-object/from16 v0, v22
 
@@ -7638,7 +7638,7 @@
 
     .line 1847
     .local v27, "textView2":Landroid/widget/TextView;
-    const v30, 0x7f0b0133
+    const v30, 0x7f0b0138
 
     move-object/from16 v0, v22
 
@@ -7679,7 +7679,7 @@
 
     move-result-object v30
 
-    const v31, 0x7f0e0159
+    const v31, 0x7f0e015a
 
     invoke-virtual/range {v30 .. v31}, Landroid/content/res/Resources;->getString(I)Ljava/lang/String;
 
@@ -7701,7 +7701,7 @@
     invoke-virtual {v0, v1}, Landroid/view/ViewGroup;->setBackgroundDrawable(Landroid/graphics/drawable/Drawable;)V
 
     .line 1856
-    const v30, 0x7f0b0131
+    const v30, 0x7f0b0136
 
     move-object/from16 v0, v22
 
@@ -7899,7 +7899,7 @@
 
     .line 1924
     .restart local v9    # "child":Landroid/widget/LinearLayout;
-    const v30, 0x7f0b0130
+    const v30, 0x7f0b0135
 
     move/from16 v0, v30
 
@@ -7911,7 +7911,7 @@
 
     .line 1925
     .restart local v28    # "view":Landroid/view/ViewGroup;
-    const v30, 0x7f0b00d9
+    const v30, 0x7f0b00de
 
     move/from16 v0, v30
 
@@ -7923,7 +7923,7 @@
 
     .line 1926
     .restart local v26    # "textView":Landroid/widget/TextView;
-    const v30, 0x7f0b0133
+    const v30, 0x7f0b0138
 
     move/from16 v0, v30
 
@@ -7950,7 +7950,7 @@
     if-eqz v10, :cond_c
 
     .line 1933
-    const v30, 0x7f0b0130
+    const v30, 0x7f0b0135
 
     move/from16 v0, v30
 
@@ -7962,7 +7962,7 @@
 
     .line 1934
     .restart local v29    # "view2":Landroid/view/ViewGroup;
-    const v30, 0x7f0b00d9
+    const v30, 0x7f0b00de
 
     move/from16 v0, v30
 
@@ -7974,7 +7974,7 @@
 
     .line 1935
     .restart local v27    # "textView2":Landroid/widget/TextView;
-    const v30, 0x7f0b0133
+    const v30, 0x7f0b0138
 
     move/from16 v0, v30
 
@@ -8022,7 +8022,7 @@
 
     move-result-object v30
 
-    const v31, 0x7f0e0159
+    const v31, 0x7f0e015a
 
     invoke-virtual/range {v30 .. v31}, Landroid/content/res/Resources;->getString(I)Ljava/lang/String;
 
@@ -8044,7 +8044,7 @@
     invoke-virtual {v0, v1}, Landroid/view/ViewGroup;->setBackgroundDrawable(Landroid/graphics/drawable/Drawable;)V
 
     .line 1944
-    const v30, 0x7f0b0131
+    const v30, 0x7f0b0136
 
     move/from16 v0, v30
 
@@ -8519,7 +8519,7 @@
 
     move-result-object v30
 
-    const v31, 0x7f0e0159
+    const v31, 0x7f0e015a
 
     invoke-virtual/range {v30 .. v31}, Landroid/content/res/Resources;->getString(I)Ljava/lang/String;
 
@@ -8541,7 +8541,7 @@
     invoke-virtual {v0, v1}, Landroid/view/ViewGroup;->setBackgroundDrawable(Landroid/graphics/drawable/Drawable;)V
 
     .line 1983
-    const v30, 0x7f0b0131
+    const v30, 0x7f0b0136
 
     move/from16 v0, v30
 
@@ -8671,7 +8671,7 @@
     if-eqz v7, :cond_1
 
     .line 1562
-    const v22, 0x7f0b0130
+    const v22, 0x7f0b0135
 
     move/from16 v0, v22
 
@@ -8683,7 +8683,7 @@
 
     .line 1563
     .local v20, "view":Landroid/view/ViewGroup;
-    const v22, 0x7f0b00d9
+    const v22, 0x7f0b00de
 
     move/from16 v0, v22
 
@@ -8695,7 +8695,7 @@
 
     .line 1564
     .local v17, "textView":Landroid/widget/TextView;
-    const v22, 0x7f0b0133
+    const v22, 0x7f0b0138
 
     move/from16 v0, v22
 
@@ -8717,7 +8717,7 @@
 
     move-result-object v22
 
-    const v23, 0x7f0e0159
+    const v23, 0x7f0e015a
 
     invoke-virtual/range {v22 .. v23}, Landroid/content/res/Resources;->getString(I)Ljava/lang/String;
 
@@ -8730,7 +8730,7 @@
     invoke-virtual {v0, v1}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
 
     .line 1569
-    const v22, 0x7f0b0131
+    const v22, 0x7f0b0136
 
     move/from16 v0, v22
 
@@ -8965,7 +8965,7 @@
     invoke-virtual {v8, v0}, Landroid/view/View;->setTag(Ljava/lang/Object;)V
 
     .line 1602
-    const v22, 0x7f0b00d9
+    const v22, 0x7f0b00de
 
     move/from16 v0, v22
 
@@ -8977,7 +8977,7 @@
 
     .line 1603
     .local v19, "tv":Landroid/widget/TextView;
-    const v22, 0x7f0b0130
+    const v22, 0x7f0b0135
 
     move/from16 v0, v22
 
@@ -8989,7 +8989,7 @@
 
     .line 1604
     .local v10, "clockImage":Landroid/view/ViewGroup;
-    const v22, 0x7f0b0131
+    const v22, 0x7f0b0136
 
     move/from16 v0, v22
 
@@ -9001,7 +9001,7 @@
 
     .line 1605
     .restart local v4    # "addLayout":Landroid/widget/FrameLayout;
-    const v22, 0x7f0b0133
+    const v22, 0x7f0b0138
 
     move/from16 v0, v22
 
@@ -9064,7 +9064,7 @@
 
     .line 1617
     .local v9, "childViewNext":Landroid/view/View;
-    const v22, 0x7f0b00d9
+    const v22, 0x7f0b00de
 
     move/from16 v0, v22
 
@@ -9077,7 +9077,7 @@
 
     .line 1618
     .restart local v19    # "tv":Landroid/widget/TextView;
-    const v22, 0x7f0b0130
+    const v22, 0x7f0b0135
 
     move/from16 v0, v22
 
@@ -9155,7 +9155,7 @@
     invoke-virtual {v8, v0}, Landroid/view/View;->setTag(Ljava/lang/Object;)V
 
     .line 1627
-    const v22, 0x7f0b0130
+    const v22, 0x7f0b0135
 
     move/from16 v0, v22
 
@@ -9167,7 +9167,7 @@
 
     .line 1628
     .restart local v20    # "view":Landroid/view/ViewGroup;
-    const v22, 0x7f0b00d9
+    const v22, 0x7f0b00de
 
     move/from16 v0, v22
 
@@ -9179,7 +9179,7 @@
 
     .line 1629
     .restart local v17    # "textView":Landroid/widget/TextView;
-    const v22, 0x7f0b0133
+    const v22, 0x7f0b0138
 
     move/from16 v0, v22
 
@@ -9204,7 +9204,7 @@
     if-eqz v22, :cond_8
 
     .line 1633
-    const v22, 0x7f0b0130
+    const v22, 0x7f0b0135
 
     move/from16 v0, v22
 
@@ -9216,7 +9216,7 @@
 
     .line 1634
     .local v21, "viewGroup2":Landroid/view/ViewGroup;
-    const v22, 0x7f0b00d9
+    const v22, 0x7f0b00de
 
     move/from16 v0, v22
 
@@ -9228,7 +9228,7 @@
 
     .line 1635
     .local v18, "textView2":Landroid/widget/TextView;
-    const v22, 0x7f0b0133
+    const v22, 0x7f0b0138
 
     move/from16 v0, v22
 
@@ -9265,7 +9265,7 @@
 
     move-result-object v22
 
-    const v23, 0x7f0e0159
+    const v23, 0x7f0e015a
 
     invoke-virtual/range {v22 .. v23}, Landroid/content/res/Resources;->getString(I)Ljava/lang/String;
 
@@ -9278,7 +9278,7 @@
     invoke-virtual {v0, v1}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
 
     .line 1643
-    const v22, 0x7f0b0131
+    const v22, 0x7f0b0136
 
     move/from16 v0, v22
 
@@ -9398,7 +9398,7 @@
 
     move-result-object v22
 
-    const v23, 0x7f0c02ca
+    const v23, 0x7f0c02d9
 
     invoke-virtual/range {v22 .. v23}, Landroid/content/res/Resources;->getDimensionPixelSize(I)I
 
@@ -9568,7 +9568,7 @@
     invoke-virtual/range {v20 .. v20}, Landroid/view/ViewGroup;->removeAllViews()V
 
     .line 1673
-    const v22, 0x7f0b0130
+    const v22, 0x7f0b0135
 
     move/from16 v0, v22
 
@@ -9580,7 +9580,7 @@
 
     .line 1674
     .restart local v21    # "viewGroup2":Landroid/view/ViewGroup;
-    const v22, 0x7f0b00d9
+    const v22, 0x7f0b00de
 
     move/from16 v0, v22
 
@@ -9592,7 +9592,7 @@
 
     .line 1675
     .restart local v18    # "textView2":Landroid/widget/TextView;
-    const v22, 0x7f0b0133
+    const v22, 0x7f0b0138
 
     move/from16 v0, v22
 
@@ -9673,7 +9673,7 @@
 
     move-result-object v22
 
-    const v23, 0x7f0e0159
+    const v23, 0x7f0e015a
 
     invoke-virtual/range {v22 .. v23}, Landroid/content/res/Resources;->getString(I)Ljava/lang/String;
 
@@ -9686,7 +9686,7 @@
     invoke-virtual {v0, v1}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
 
     .line 1690
-    const v22, 0x7f0b0131
+    const v22, 0x7f0b0136
 
     move/from16 v0, v22
 
@@ -10764,7 +10764,7 @@
 
     move-result-object v33
 
-    const v35, 0x7f0c02d5
+    const v35, 0x7f0c02e4
 
     move-object/from16 v0, v33
 
@@ -10786,7 +10786,7 @@
 
     move-result-object v33
 
-    const v35, 0x7f0c02d3
+    const v35, 0x7f0c02e2
 
     move-object/from16 v0, v33
 
@@ -10848,7 +10848,7 @@
 
     move-result-object v33
 
-    const v35, 0x7f0c02e7
+    const v35, 0x7f0c02f6
 
     move-object/from16 v0, v33
 
@@ -11121,7 +11121,7 @@
 
     move-result-object v33
 
-    const v35, 0x7f0c02c8
+    const v35, 0x7f0c02d7
 
     move-object/from16 v0, v33
 
@@ -11143,7 +11143,7 @@
 
     move-result-object v33
 
-    const v35, 0x7f0c02c7
+    const v35, 0x7f0c02d6
 
     move-object/from16 v0, v33
 
@@ -11165,7 +11165,7 @@
 
     move-result-object v33
 
-    const v35, 0x7f0c02c9
+    const v35, 0x7f0c02d8
 
     move-object/from16 v0, v33
 
@@ -12299,7 +12299,7 @@
 
     move-result-object v34
 
-    const v36, 0x7f0c02d5
+    const v36, 0x7f0c02e4
 
     move-object/from16 v0, v34
 
@@ -12321,7 +12321,7 @@
 
     move-result-object v34
 
-    const v36, 0x7f0c02d3
+    const v36, 0x7f0c02e2
 
     move-object/from16 v0, v34
 
@@ -12383,7 +12383,7 @@
 
     move-result-object v34
 
-    const v36, 0x7f0c02e7
+    const v36, 0x7f0c02f6
 
     move-object/from16 v0, v34
 
@@ -12679,7 +12679,7 @@
 
     move-result-object v34
 
-    const v36, 0x7f0c02c8
+    const v36, 0x7f0c02d7
 
     move-object/from16 v0, v34
 
@@ -12701,7 +12701,7 @@
 
     move-result-object v34
 
-    const v36, 0x7f0c02c7
+    const v36, 0x7f0c02d6
 
     move-object/from16 v0, v34
 
@@ -12723,7 +12723,7 @@
 
     move-result-object v34
 
-    const v36, 0x7f0c02c9
+    const v36, 0x7f0c02d8
 
     move-object/from16 v0, v34
 
@@ -14081,7 +14081,7 @@
 
     .line 184
     .local v2, "inflater":Landroid/view/LayoutInflater;
-    const v5, 0x7f03006f
+    const v5, 0x7f030070
 
     const/4 v6, 0x0
 
@@ -14091,7 +14091,7 @@
 
     .line 185
     .local v3, "view":Landroid/view/View;
-    const v5, 0x7f0b00ee
+    const v5, 0x7f0b00f3
 
     invoke-virtual {v3, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -14102,7 +14102,7 @@
     iput-object v5, p0, Lcom/meizu/flyme/alarmclock/worldclock/WorldClockView;->mSingleWorldClockLayout:Landroid/widget/RelativeLayout;
 
     .line 186
-    const v5, 0x7f0b00f2
+    const v5, 0x7f0b00f7
 
     invoke-virtual {v3, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -14113,7 +14113,7 @@
     iput-object v5, p0, Lcom/meizu/flyme/alarmclock/worldclock/WorldClockView;->mSingleWorldClockAddIcon:Landroid/widget/ImageView;
 
     .line 187
-    const v5, 0x7f0b00ef
+    const v5, 0x7f0b00f4
 
     invoke-virtual {v3, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -14133,7 +14133,7 @@
     iput-object v5, p0, Lcom/meizu/flyme/alarmclock/worldclock/WorldClockView;->mDragController:Lcom/meizu/flyme/alarmclock/worldclock/DragController;
 
     .line 189
-    const v5, 0x7f0b0134
+    const v5, 0x7f0b0139
 
     invoke-virtual {v3, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -14158,7 +14158,7 @@
     .line 193
     iget-object v6, p0, Lcom/meizu/flyme/alarmclock/worldclock/WorldClockView;->mLinearLayouts:[Landroid/widget/LinearLayout;
 
-    const v5, 0x7f0b0138
+    const v5, 0x7f0b013d
 
     invoke-virtual {v3, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -14173,7 +14173,7 @@
 
     const/4 v7, 0x1
 
-    const v5, 0x7f0b012b
+    const v5, 0x7f0b0130
 
     invoke-virtual {v3, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -14188,7 +14188,7 @@
 
     const/4 v7, 0x2
 
-    const v5, 0x7f0b012c
+    const v5, 0x7f0b0131
 
     invoke-virtual {v3, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -14199,7 +14199,7 @@
     aput-object v5, v6, v7
 
     .line 198
-    const v5, 0x7f0b0135
+    const v5, 0x7f0b013a
 
     invoke-virtual {v3, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -14210,7 +14210,7 @@
     iput-object v5, p0, Lcom/meizu/flyme/alarmclock/worldclock/WorldClockView;->mRecentLayout:Landroid/widget/LinearLayout;
 
     .line 200
-    const v5, 0x7f0b0136
+    const v5, 0x7f0b013b
 
     invoke-virtual {v3, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -14231,7 +14231,7 @@
     invoke-virtual {v4, v8}, Lcom/meizu/flyme/alarmclock/worldclock/WorkspaceItem;->setHapticFeedbackEnabled(Z)V
 
     .line 205
-    const v5, 0x7f0b0139
+    const v5, 0x7f0b013e
 
     invoke-virtual {v3, v5}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -14263,7 +14263,7 @@
 
     aget-object v5, v5, v1
 
-    const v7, 0x7f0b0130
+    const v7, 0x7f0b0135
 
     invoke-virtual {v5, v7}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -14280,7 +14280,7 @@
 
     aget-object v5, v5, v1
 
-    const v7, 0x7f0b00d9
+    const v7, 0x7f0b00de
 
     invoke-virtual {v5, v7}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -14297,7 +14297,7 @@
 
     aget-object v5, v5, v1
 
-    const v7, 0x7f0b0131
+    const v7, 0x7f0b0136
 
     invoke-virtual {v5, v7}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -14329,7 +14329,7 @@
 
     aget-object v5, v5, v1
 
-    const v7, 0x7f0b0133
+    const v7, 0x7f0b0138
 
     invoke-virtual {v5, v7}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -14754,7 +14754,7 @@
 
     move-result-object v4
 
-    const v8, 0x7f0c02d4
+    const v8, 0x7f0c02e3
 
     invoke-virtual {v4, v8}, Landroid/content/res/Resources;->getDimension(I)F
 
@@ -16761,7 +16761,7 @@
 
     move-result-object v23
 
-    const v24, 0x7f0c02ca
+    const v24, 0x7f0c02d9
 
     invoke-virtual/range {v23 .. v24}, Landroid/content/res/Resources;->getDimensionPixelSize(I)I
 
@@ -16935,7 +16935,7 @@
 
     move-result-object v24
 
-    const v25, 0x7f0e0159
+    const v25, 0x7f0e015a
 
     invoke-virtual/range {v24 .. v25}, Landroid/content/res/Resources;->getString(I)Ljava/lang/String;
 
@@ -17266,7 +17266,7 @@
 
     move-result-object v23
 
-    const v24, 0x7f0c02ca
+    const v24, 0x7f0c02d9
 
     invoke-virtual/range {v23 .. v24}, Landroid/content/res/Resources;->getDimensionPixelSize(I)I
 
@@ -17409,7 +17409,7 @@
 
     move-result-object v24
 
-    const v25, 0x7f0e0159
+    const v25, 0x7f0e015a
 
     invoke-virtual/range {v24 .. v25}, Landroid/content/res/Resources;->getString(I)Ljava/lang/String;
 
@@ -17638,7 +17638,7 @@
 
     aget-object v3, v3, v1
 
-    const v4, 0x7f0b00d9
+    const v4, 0x7f0b00de
 
     invoke-virtual {v3, v4}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -17652,7 +17652,7 @@
 
     aget-object v3, v3, v1
 
-    const v4, 0x7f0b0133
+    const v4, 0x7f0b0138
 
     invoke-virtual {v3, v4}, Landroid/widget/LinearLayout;->findViewById(I)Landroid/view/View;
 
@@ -17701,7 +17701,7 @@
 
     .prologue
     .line 798
-    const v2, 0x7f0b00d9
+    const v2, 0x7f0b00de
 
     invoke-virtual {p1, v2}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -17716,7 +17716,7 @@
 
     .line 802
     :cond_0
-    const v2, 0x7f0b0133
+    const v2, 0x7f0b0138
 
     invoke-virtual {p1, v2}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
