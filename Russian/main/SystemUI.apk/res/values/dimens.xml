@@ -159,9 +159,9 @@
     <dimen name="recent_cell_padding_right_port">20.0dip</dimen>
     <dimen name="recent_cell_padding_left_land">0.0dip</dimen>
     <dimen name="recent_cell_padding_right_land">20.0dip</dimen>
-    <dimen name="floattouch_prepare">20.0dip</dimen>
+    <dimen name="floattouch_optimizeWhenBoundary">12.0dip</dimen>
     <dimen name="floattouch_show_width">65.0dip</dimen>
-    <dimen name="floattouch_show_height">55.0dip</dimen>
+    <dimen name="floattouch_show_height">60.0dip</dimen>
     <dimen name="mz_slidingmenu_menu_width">256.0dip</dimen>
     <dimen name="mz_card_list_item_padding_left">0.0dip</dimen>
     <dimen name="mz_card_list_item_padding_right">0.0dip</dimen>
@@ -387,7 +387,8 @@
     <dimen name="mc_slide_notice_no_titlebar_height">62.0dip</dimen>
     <dimen name="mc_slide_notice__padding">6.0dip</dimen>
     <dimen name="mc_slide_notice_no_titlebar_padding_top">31.0dip</dimen>
-    <dimen name="mc_slide_notice_height">37.0dip</dimen>
+    <dimen name="mc_slide_notice_height">32.0dip</dimen>
+    <dimen name="mc_slide_notice_height_no_title_bar">37.0dip</dimen>
     <dimen name="mc_slide_notice_textview_margin_top">25.0dip</dimen>
     <dimen name="mc_pullRefresh_radius">10.0dip</dimen>
     <dimen name="mc_pullRefresh_ringwidth">1.5dip</dimen>
