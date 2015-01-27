@@ -33,7 +33,7 @@
     <string name="cloud_guide_sub_text">Always sync files</string>
     <string name="cloud_item_open_text">Opening</string>
     <string name="cloud_name">Cloud</string>
-    <string name="cloud_storage_name">Cloud</string>
+    <string name="cloud_storage_name">Cloud Drive</string>
     <string name="cloud_title_login">Log in to cloud disk</string>
     <string name="cloudstorage_notification_title">File transfer manager</string>
     <string name="comma">，</string>
@@ -79,6 +79,9 @@
     <string name="download_to">Download to</string>
     <string name="downloaded_files_title_text">Downloaded files</string>
     <string name="downloading">Downloading</string>
+    <string name="drag_move_ext_device_limit_tip">Not allow to move to here for the device contains more than one disk</string>
+    <string name="drag_move_limit_tip">Not allow to move to here</string>
+    <string name="emoji_limit_tip">Filename does not support the expression</string>
     <string name="empty_folder_text">Empty folder</string>
     <string name="empty_name">Name cannot be blank</string>
     <string name="err_copy">Copying failed</string>
@@ -90,6 +93,7 @@
     <string name="error_file_path">Invalid file</string>
     <string name="extension_title">Format:  </string>
     <string name="extract">Extract</string>
+    <string name="extract_calculate_tip">Analysing</string>
     <string name="extract_dialog_psw_hint">Password</string>
     <string name="extract_extracting_canceled">Extraction canceled</string>
     <string name="extract_extracting_failed">Extraction failed</string>
@@ -113,6 +117,7 @@
     <string name="file_not_exist">File does not exist</string>
     <string name="file_type">Type</string>
     <string name="filename_invalid">Invalid filename</string>
+    <string name="files_limit_tip">Choose %s files at most</string>
     <string name="finish">Done</string>
     <string name="folder_div">" / "</string>
     <string name="folder_space_info" formatted="false">%s item(s); Space used: %s</string>
@@ -423,6 +428,9 @@
     <string name="test_file_filter_view">File filter test</string>
     <string name="test_get_diskinfo">getDiskInfo</string>
     <string name="test_multi_choose_text">Multi File Choose</string>
+    <string name="test_saf_create_document">SAF:Create Document</string>
+    <string name="test_saf_get_content">SAF:Get Content</string>
+    <string name="test_saf_manage_root">SAF:Manage Root</string>
     <string name="test_saf_open_document">SAF:Open Document</string>
     <string name="test_single_choose_text">Single File Choose</string>
     <string name="test_text">test</string>
