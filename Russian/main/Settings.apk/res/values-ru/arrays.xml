@@ -541,7 +541,7 @@
         <item>0</item>
     </string-array>
     <string-array name="smart_touch_behavior_long_entries">
-        <item>Переместить</item>
+        <item>Перем. кнопку</item>
         <item>Выкл</item>
     </string-array>
     <string-array name="smart_touch_behavior_long_values">
@@ -575,7 +575,7 @@
         <item>-1</item>
     </string-array>
     <string-array name="smart_touch_behavior_left_right_entries">
-        <item>Перекл. между задачами</item>
+        <item>Перекл. прилож.</item>
         <item>Выкл</item>
     </string-array>
     <string-array name="smart_touch_behavior_left_right_values">
