@@ -277,9 +277,9 @@
     <string name="installing_formatted">Установка %s</string>
     <string name="insufficient_storage">Недостаточно места</string>
     <string name="internal_error">Internal error</string>
-    <string name="international_continue">CONTINUE</string>
-    <string name="international_exit">EXIT</string>
-    <string name="international_tips">Only Chinese content is available now, more language will be coming soon.</string>
+    <string name="international_continue">Продолжить</string>
+    <string name="international_exit">Выйти</string>
+    <string name="international_tips">Сейчас доступен только китайский контент, больше языков появится в скором времени.</string>
     <string name="invalid_apk">Invalid APK</string>
     <string name="invalid_install_location">Invalid installation path</string>
     <string name="invalid_uri">Invalid APK path</string>
