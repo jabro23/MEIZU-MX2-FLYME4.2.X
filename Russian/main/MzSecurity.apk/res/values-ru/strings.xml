@@ -323,8 +323,8 @@
     <string name="used_all_dialog_positive_button">Остановить сейчас</string>
     <string name="BG_Description">Фоновая картинка</string>
     <string name="inint_stat_circle">Фоновый звук при инициации</string>
-    <string name="allow_mobile_data_usage">Рейтинг данных за месяц</string>
-    <string name="network_switch">Переключить трафик</string>
+    <string name="allow_mobile_data_usage">Рейтинг за месяц</string>
+    <string name="network_switch">Разрешить</string>
     <string name="traffic_correct">Базовые настройки</string>
     <string name="Senior">Расширенные настройки</string>
     <string name="question">Калибровка через оператора</string>
@@ -503,4 +503,10 @@
     <string name="see_detail">Нажмите для подробностей</string>
     <string name="scanned_result">Обнаружено %1$s мусора</string>
     <string name="already_clean_memory">%1$s Процессов и сервисов остановлено</string>
+	<string name="traffic_tab_wifi_title">WI-FI нтернет</string>
+    <string name="traffic_tab_mobile_title">Мобильный интернет</string>
+	<string name="traffic_day_wifi_list_summary">Рейтинг за сутки</string>
+    <string name="traffic_day_allow_mobile_data_usage">Рейтинг за сутки</string>
+	<string name="traffic_wifi_list_summary">Рейтинг за месяц</string>
+    <string name="traffic_wifi_swtich_summary">Разрешить</string>
 </resources>
