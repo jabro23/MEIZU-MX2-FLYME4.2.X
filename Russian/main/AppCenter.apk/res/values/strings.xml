@@ -574,7 +574,7 @@
     <string name="update_all_confirm">Confirm to update all?</string>
     <string name="update_all_format" />
     <string name="update_downloaded">Downloaded</string>
-    <string name="update_downloaded_guide">Have been downloaded over Wi-Fi!</string>
+    <string name="update_downloaded_guide">Будет загружено при подключении по WI-FI</string>
     <string name="update_error">Failed to update</string>
     <string name="update_error_formatted">Failed to update: %s</string>
     <string name="update_exclude_activity_title">App-update Excluded</string>
