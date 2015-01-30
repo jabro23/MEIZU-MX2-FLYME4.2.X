@@ -44,7 +44,7 @@
     <string name="all_update">Обновить все</string>
     <string name="confirm_update_themes">Обновить все темы?</string>
     <string name="all_theme">Загруженные: %s</string>
-	<string name="download_history">Нет на устройстве: %s</string>
+    <string name="download_history">Нет на устройстве: %s</string>
     <string name="setting">Установить</string>
     <string name="autoUpate">Автообновление через Wi-Fi</string>
     <string name="updateNotify">Уведомления об обновлениях</string>
@@ -84,11 +84,14 @@
     <string name="sdcard_unmount_update_theme">USB-устройство не подключено</string>
     <string name="setting_theme">Настройка темы</string>
     <string name="copy_theme">Применение...</string>
+    <string name="copy_module">Применение: %s</string>
     <string name="def_theme_name">Система по умолчанию</string>
     <string name="sdk_version_not_match">Тема не совместима с данной версией системы, пожалуйста, обновите</string>
     <string name="set_theme_succ">Тема успешно установлена</string>
     <string name="set_theme_error">Ошибка установки темы</string>
     <string name="check_license_failed">Не удалось проверить подлинность, загрузите эту тему повторно</string>
+    <string name="set_module_succ">Успешно применено: %s</string>
+    <string name="set_module_error">Ошибка применения: %s</string>
     <string name="online_theme">Детали темы</string>
     <string name="online_theme_un_existed">Тема больше не существует</string>
     <string name="online_theme_old">Онлайн-версия темы слишком старая</string>
@@ -301,7 +304,7 @@
     <string name="mc_pm_online_intenert">Интернет</string>
     <string name="payment_cancel">Отмена покупки</string>
     <string name="obtaining_balance">Баланс: Недоступен</string>
-    <string name="copy_module">Применение: %s</string>
-    <string name="set_module_succ">Успешно применено: %s</string>
-    <string name="set_module_error">Ошибка применения: %s</string>
+    <string name="no_international_language">Сейчас доступен только китайский контент, больше языков появится в скором времени.</string>
+    <string name="negative_exit">Выйти</string>
+    <string name="positive_continue">Продолжить</string>
 </resources>
