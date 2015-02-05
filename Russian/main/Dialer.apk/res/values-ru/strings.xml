@@ -509,7 +509,7 @@
     <string name="respond_via_sms_canned_response_3">Я перезвоню вам позже.</string>
     <string name="respond_via_sms_canned_response_4">Не могу говорить. Позвоните позже.</string>
     <string name="respond_via_sms_custom_message">Ваш ответ…</string>
-    <string name="custom_message_cancel">Отмена</string>
+    <string name="custom_message_cancel">Отменить</string>
     <string name="custom_message_send">Отправить</string>
     <string name="respond_via_sms_setting_title">Быстрые ответы</string>
     <string name="respond_via_sms_setting_title_2">Быстрые ответы</string>
@@ -718,7 +718,7 @@
     <string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы.</string>
     <string name="savingDisplayGroups">Сохранение настроек...</string>
     <string name="menu_done">Готово</string>
-    <string name="menu_doNotSave">Отмена</string>
+    <string name="menu_doNotSave">Отменить</string>
     <string name="listAllContactsInAccount">Контакты в %s</string>
     <string name="listCustomView">Пользовательский фильтр</string>
     <string name="listSingleContact">1 контакт</string>
@@ -1265,7 +1265,7 @@
     <string name="dialpad_9_number">9</string>
     <string name="show_all_contacts_button_text">Все контакты</string>
     <string name="favorite_hidden">Контакт удален из избранных</string>
-    <string name="favorite_hidden_undo">Отмена</string>
+    <string name="favorite_hidden_undo">Отменить</string>
     <string name="search_shortcut_call_number">Позвонить: %s</string>
     <string name="search_shortcut_add_to_contacts">Добавить в контакты</string>
     <string name="num_missed_calls">Пропущенных вызовов: %s</string>
@@ -1302,7 +1302,7 @@
     <string name="mc_pattern_today">Сегодня</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_yes">ОК</string>
-    <string name="mc_cancel">Отмена</string>
+    <string name="mc_cancel">Отменить</string>
     <string name="mc_hour">Час.</string>
     <string name="mc_minute">Мин.</string>
     <string name="mc_second">Сек.</string>
@@ -1352,7 +1352,7 @@
     <string name="mc_pm_allow_check_app">Разрешить</string>
     <string name="mc_pm_not_allow_check_app">Запретить</string>
     <string name="mc_pm_dlg_ok">ОК</string>
-    <string name="mc_pm_dlg_cancel">Отмена</string>
+    <string name="mc_pm_dlg_cancel">Отменить</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_dialog_push">Вспылвающий Push</string>
@@ -1372,48 +1372,48 @@
     <string name="description_dial_phone_number">Позвонить, контакт: %1$s</string>
     <string name="noContactsHelpText">"Нет контактов для показа.
 
-Чтобы добавить контакты, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите один из вариантов.
+Чтобы добавить контакты, нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>" и выберите один из вариантов.
  
-"<b><font fgcolor="#ffffffff"><li>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт: добавление контакта.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
 
-Чтобы добавить контакты, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите один из вариантов.
+Чтобы добавить контакты, нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>" и выберите один из вариантов.
 
-"<b><font fgcolor="#ffffffff"><li>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Фильтр контактов: настройка параметров показа контактов.
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Фильтр контактов: настройка параметров показа контактов.
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт: добавление контакта.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Нет контактов для показа.
 
-Чтобы добавить контакты, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите один из вариантов.
+Чтобы добавить контакты, нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>" и выберите один из вариантов.
  
-"<b><font fgcolor="#ffffffff"><li>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SD-карты.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт: добавление контакта.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт: импорт контактов с SD-карты.
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
 
-Чтобы добавить контакты, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите один из вариантов.
+Чтобы добавить контакты, нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>" и выберите один из вариантов.
 
-"<b><font fgcolor="#ffffffff"><li>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Фильтр контактов: настройка параметров показа контактов.
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SD-карты.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Фильтр контактов: настройка параметров показа контактов.
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт: добавление контакта.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт: импорт контактов с SD-карты.
+"</b></font></li></string>
     <string name="addto_spam_address">В спам</string>
     <string name="addto_spam_address_confirm_delete_contacts_message">Удалить данные?</string>
     <string name="callAgain">Позвонить снова</string>
@@ -1466,4 +1466,5 @@
     <string name="show_favorites_only">Только часто используемые</string>
     <string name="call_log_activity_title">История</string>
     <string name="show_all_contacts_title">Все контакты</string>
+	<string name="cancel_sms_list">Отменить</string>
 </resources>
