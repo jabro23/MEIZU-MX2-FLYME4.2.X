@@ -22,7 +22,7 @@
     <string name="close">Закрыть</string>
     <string name="use_eq">Использовать эквалайзер</string>
     <string name="eq_enable_tip">Пожалуйста, вставьте наушники</string>
-    <string name="headset">Данная функция требует подключения наушников</string>
+    <string name="headset">Требуется подключение наушников</string>
     <string name="reseteq">Сброс</string>
     <string name="pop">Поп</string>
     <string name="metal">Метал</string>
