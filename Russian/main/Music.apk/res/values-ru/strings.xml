@@ -342,7 +342,7 @@
     <string name="pattern_year_month_day_hour_minute" formatted="false">%Y/%-m/%-e %H:%M</string>
     <string name="pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %p %I:%M</string>
     <string name="pattern_yesterday">Вчера</string>
-    <string name="personal_menu_title">Пресональный центр</string>
+    <string name="personal_menu_title">Персональный центр</string>
     <string name="phone_busy">Вызов</string>
     <string name="play_by3g_alert">Использовать мобильную сеть для прослушивания?</string>
     <string name="play_count_songs_failed">Ошибка воспроизведения %d треков</string>
@@ -461,7 +461,7 @@
     <string name="wait_tip">Пожалуйста, подождите</string>
     <string name="waiting_download">Ожидание загрузки</string>
     <string name="will_expire">Истекает</string>
-    <string name="yuan_title">RMB%s</string>
+    <string name="yuan_title">RMB: %s</string>
     <string name="action_add_to_favorite">Избранное</string>
     <string name="action_delete_from_favorite">Отменить избранное</string>
     <string name="action_remove_from_recently_play">Удалить из плейлиста</string>
