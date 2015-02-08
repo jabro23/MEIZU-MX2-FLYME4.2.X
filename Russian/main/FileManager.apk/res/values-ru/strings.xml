@@ -93,7 +93,7 @@
     <string name="extract_preview">Просмотр</string>
     <string name="extract_title">Извлечь в</string>
     <string name="extract_to">Извлечь в</string>
-    <string name="extracting">Извлечение</string>
+    <string name="extracting">Извлечение...</string>
     <string name="file">Файлы</string>
     <string name="file_exists">Имя файла уже существует</string>
     <string name="file_exists_1">Имя файла</string>
