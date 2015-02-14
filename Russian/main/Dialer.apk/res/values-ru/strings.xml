@@ -27,7 +27,7 @@
     <string name="confCall">Конференц-вызов</string>
     <string name="call_lost">Вызов был утрачен.</string>
     <string name="ok">ОК</string>
-    <string name="audio_mode_speaker">Динамик</string>
+    <string name="audio_mode_speaker">Громк. связь</string>
     <string name="audio_mode_earpiece">Динамик гарнитуры</string>
     <string name="audio_mode_wired_headset">Проводная гарнитура</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -402,7 +402,7 @@
     <string name="ota_title_activate_success">Телефон активирован.</string>
     <string name="ota_title_problem_with_activation">Неполадки при активации</string>
     <string name="ota_listen">Следуйте голосовым инструкциям, пока вам не сообщат, что активация завершена.</string>
-    <string name="ota_speaker">Динамик</string>
+    <string name="ota_speaker">Громк. связь</string>
     <string name="ota_progress">Дождитесь завершения программирования.</string>
     <string name="ota_failure">Сбой при программировании</string>
     <string name="ota_successful">Ваш телефон активирован. Включение службы может занять до 15 минут.</string>
