@@ -553,7 +553,7 @@
     <string name="waitingcall_answer_and_hangup_all">Hang up other calls + Answer</string>
     <string name="deline_call">Отклонить</string>
     <string name="onscreenRecordText">Запись</string>
-    <string name="onscreenRecordNumText">Номер записи</string>
+    <string name="onscreenRecordNumText">Новая заметка</string>
     <string name="record_return_normal">Возврат к вызову</string>
     <string name="record_end_call">Завершить</string>
     <string name="hang_up_record">Отбой \"запись сообщения</string>
@@ -570,9 +570,9 @@
     <string name="forwardedCallText">Переадресация вызова</string>
     <string name="add_call">Новый вызов</string>
     <string name="mute_call">Без звука</string>
-    <string name="speaker">Динамик</string>
-    <string name="record_num">Номер записи</string>
-    <string name="dialpad">клавиатура</string>
+    <string name="speaker">Громк. связь</string>
+    <string name="record_num">Новая заметка</string>
+    <string name="dialpad">Клавиатура</string>
     <string name="record">Запись</string>
     <string name="merge_call">Соединить вызовы</string>
     <string name="swap_call">Подкачка вызова</string>
