@@ -503,10 +503,11 @@
     <string name="see_detail">Нажмите для подробностей</string>
     <string name="scanned_result">Обнаружено %1$s мусора</string>
     <string name="already_clean_memory">%1$s Процессов и сервисов остановлено</string>
-	<string name="traffic_tab_wifi_title">WI-FI нтернет</string>
+    <string name="traffic_tab_wifi_title">WI-FI нтернет</string>
     <string name="traffic_tab_mobile_title">Мобильный интернет</string>
-	<string name="traffic_day_wifi_list_summary">Рейтинг за сутки</string>
+    <string name="traffic_day_wifi_list_summary">Рейтинг за сутки</string>
     <string name="traffic_day_allow_mobile_data_usage">Рейтинг за сутки</string>
-	<string name="traffic_wifi_list_summary">Рейтинг за месяц</string>
+    <string name="traffic_wifi_list_summary">Рейтинг за месяц</string>
     <string name="traffic_wifi_swtich_summary">Разрешить</string>
+    <string name="memory_clear">Процессы и сервисы</string>
 </resources>
