@@ -169,7 +169,7 @@
     <string name="text_no_app">Нет приложений для управления</string>
     <string name="text_loading">Загрузка</string>
     <string name="text_accept">Разрешить</string>
-    <string name="text_reject">Отменить</string>
+    <string name="text_reject">Запретить</string>
     <string name="text_prompt">Спросить</string>
     <string name="SUM_PERM_ID_CALLPHONE">: приложениям разрешено совершать, принимать и завершать вызовы</string>
     <string name="SUM_PERM_ID_SENDSMS">: приложениям разрешено отправлять SMS</string>
