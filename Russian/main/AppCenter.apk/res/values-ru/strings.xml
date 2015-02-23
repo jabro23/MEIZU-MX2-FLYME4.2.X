@@ -360,7 +360,7 @@
     <string name="please_wait">Пожалуйста, подождите</string>
     <string name="publicDate">Дата:</string>
     <string name="publish_date_version_format" formatted="false">%s релиз %s версия</string>
-    <string name="purchase_title">Купить:␀￥%s</string>
+    <string name="purchase_title">Купить:￥%s</string>
     <string name="reDownload">Повтор</string>
     <string name="regetRestoreDb">Нажмите для повтора</string>
     <string name="related_recommend_no_data_remind_text">Нет связанных рекомендаций</string>
