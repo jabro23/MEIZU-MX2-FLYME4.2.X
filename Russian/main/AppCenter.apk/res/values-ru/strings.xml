@@ -64,7 +64,7 @@
     <string name="apps_update">Обновление приложения</string>
     <string name="autoUpdate">Автообн. приложений по Wi-Fi</string>
     <string name="autoUpdateTip">Только через Wi-Fi</string>
-    <string name="auto_install_wish">Автоуст. из спис.желаний(Wi-Fi)</string>
+    <string name="auto_install_wish">Автоуст. из спис. желаний по Wi-Fi</string>
     <string name="average">Средне</string>
     <string name="backupChecking">Проверка приложения резервного копирования</string>
     <string name="backupComfirmMsg">Резервное копирование текущего рабочего стола заменит существующую копию в облаке</string>
