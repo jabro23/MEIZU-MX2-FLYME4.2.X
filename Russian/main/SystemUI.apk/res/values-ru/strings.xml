@@ -218,7 +218,7 @@
     <string name="mz_nfc_p2p_connected">Соединение NFC установлено, выберите тип обмена:</string>
     <string name="nfc_drag_share_step1">Долгое нажатие, чтобы перетащить файл в строку состояния для отправки</string>
     <string name="nfc_drag_share_step2">Удерживайте и тяните файл(ы) в строку состояния для отправки</string>
-    <string name="external_storage_mounted_title">Безопасное отключение внешнего накопителя</string>
+    <string name="external_storage_mounted_title">Безопасное извлечение</string>
     <string name="external_storage_mounted_ticker">%s был подключен</string>
     <string name="external_storage_checking_title">Подключение внешнего накопителя</string>
     <string name="external_storage_checking_ticker">Подключение внешнего накопителя</string>
@@ -230,7 +230,7 @@
     <string name="external_storage_mountfailed_ticker">Ошибка монтирования</string>
     <string name="never_show_again">не показывать снова</string>
     <string name="open_usb_device">Открыть USB-устройство?</string>
-    <string name="unmount_externalstorage">Отключить внешний накопитель?</string>
+    <string name="unmount_externalstorage">Извлечь внешний накопитель?</string>
     <string name="external_storage_open_button">Открыть</string>
     <string name="external_storage_remove_button">Извлечь</string>
     <string name="unuser_widget_message">Эта функция не может быть использована в режиме полета.</string>
