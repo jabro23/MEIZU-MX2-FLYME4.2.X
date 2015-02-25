@@ -510,4 +510,7 @@
     <string name="traffic_wifi_list_summary">Рейтинг за месяц</string>
     <string name="traffic_wifi_swtich_summary">Разрешить</string>
     <string name="memory_clear">Процессы и сервисы</string>
+    <string name="memory_shortcut">Добавить ярлык для очистки на раб. стол</string>
+    <string name="memory_clear_toast">Очищено %1$s памяти</string>
+    <string name="just_memory_clear">Очистка уже была произведена</string>
 </resources>
