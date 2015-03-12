@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">SMS/MMS</string>
+    <string name="app_label">Сообщения</string>
     <string name="new_message">SMS/MMS</string>
     <string name="menu_preferences">Настройки</string>
     <string name="menu_search">Поиск</string>
