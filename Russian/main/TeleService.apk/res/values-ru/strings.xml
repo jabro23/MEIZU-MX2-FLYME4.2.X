@@ -618,7 +618,7 @@
     <string name="mz_mobile_networks">Мобильная сеть</string>
     <string name="network">Сети</string>
     <string name="settings">Настройки</string>
-    <string name="auto_record_title">Запись сообщения</string>
+    <string name="auto_record_title">Автоответчик</string>
     <string name="call_title">Вызов</string>
     <string name="sip_call">Интернет-телефония</string>
     <string name="onscreenRecordText">Запись</string>
