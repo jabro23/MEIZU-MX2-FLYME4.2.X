@@ -71,13 +71,13 @@
         <item>В закладки</item>
     </string-array>
     <string-array name="calendar_week_title">
-        <item>Вс</item>
-        <item>Пн</item>
-        <item>Вт</item>
-        <item>Ср</item>
-        <item>Чт</item>
-        <item>Пт</item>
-        <item>Сб</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
     </string-array>
     <string-array name="smartbar_left_right_padding">
         <item>160px</item>
