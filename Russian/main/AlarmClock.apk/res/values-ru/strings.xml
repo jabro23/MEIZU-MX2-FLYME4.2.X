@@ -69,10 +69,10 @@
     <string name="go_on">Продолжить</string>
     <string name="hour">1 час</string>
     <string name="hours">%s ч.</string>
-    <string name="keyguard_alarm_delay_fifteen">Напомнить через 15 мин</string>
-    <string name="keyguard_alarm_delay_five">Напомнить через 5 мин</string>
-    <string name="keyguard_alarm_delay_ten">Напомнить через 10 мин</string>
-    <string name="keyguard_alarm_delay_thirty">Напомнить через 30 мин</string>
+    <string name="keyguard_alarm_delay_fifteen">Повтор через 15 минут</string>
+    <string name="keyguard_alarm_delay_five">Повтор через 5 минут</string>
+    <string name="keyguard_alarm_delay_ten">Повтор через 10 минут</string>
+    <string name="keyguard_alarm_delay_thirty">Повтор через 30 минут</string>
     <string name="keyguard_alarm_press_to_delay">Нажать для напоминания позднее</string>
     <string name="keyguard_alarm_stop_alarm">↑ Выключить будильник</string>
     <string name="label">Название</string>
@@ -310,4 +310,5 @@
     <string name="world_clock_long_click_tip">Используйте долгое нажатие для перемещения/удаления часов</string>
     <string name="world_clock_single_add_tip">Нажмите здесь для добавления</string>
     <string name="yesterday">Вчера</string>
+    <string name="ringtone_file_dir">Короткие рингтоны</string>
 </resources>
