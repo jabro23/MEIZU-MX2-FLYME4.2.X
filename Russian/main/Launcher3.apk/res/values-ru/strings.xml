@@ -84,7 +84,7 @@
     <string name="all_apps_cling_add_item">Чтобы добавить приложение на главный экран, нажмите на значок и удерживайте его.</string>
     <string name="folder_cling_title">Это папка</string>
     <string name="folder_cling_create_folder">Чтобы создать папку, нажмите и удерживайте значок приложения, а затем перетащите его на другой значок.</string>
-    <string name="cling_dismiss">пацвердзіць</string>
+    <string name="cling_dismiss">Подтвердить</string>
     <string name="folder_opened">Папка открыта, %1$d x %2$d</string>
     <string name="folder_tap_to_close">Нажмите, чтобы закрыть папку</string>
     <string name="folder_tap_to_rename">Нажмите, чтобы подтвердить переименование</string>
@@ -104,7 +104,7 @@
     <string name="share">Передать</string>
     <string name="system_tools">Служебные</string>
     <string name="widgets_tab_label_click">Удерживать для добавления виджета</string>
-    <string name="uninstall_title">Удалить приложение</string>
+    <string name="uninstall_title">Удалить приложение?</string>
     <string name="uninstall_notice">Автоочистка остаточных файлов после удаления</string>
     <string name="top_alignment">Выровнять сверху</string>
     <string name="bottom_alignment">Выровнять снизу</string>
