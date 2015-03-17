@@ -550,7 +550,7 @@
     <string name="vibrate_on_connected_toggle_summary">Вибрировать при соединении с абонентом</string>
     <string name="toggle_auto_insert_prefix_title">Автопостановка префикса</string>
     <string name="toggle_auto_insert_prefix_summary">Долгое нажатие клавиши набора для автоматического добавления префикса IP</string>
-    <string name="toggle_auto_insert_prefix">Нажать для автопостановки префикса</string>
+    <string name="toggle_auto_insert_prefix">Долгое нажатие клавиши набора автоматически добавит префикс:</string>
     <string name="labelBtnInsertPrefixNumber">Префикс IP номера</string>
     <string name="auto_record_when_calling_title">Запись вызова</string>
     <string name="auto_record_when_calling_summary">Не работает при использовании Bluetooth-гарнитуры</string>
