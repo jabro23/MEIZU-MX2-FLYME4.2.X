@@ -14,6 +14,8 @@
     <string name="setting_key_voice_input">settings_voice_input</string>
     <string name="setting_key_voice_input_google">voice_input_google</string>
     <string name="setting_key_voice_input_iflytek">voice_input_iflytek</string>
+    <string name="setting_key_cloud_input">cloud_input</string>
+    <string name="setting_key_cloud_input_only_wlan">cloud_input_only_wlan</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="create">Create</string>
@@ -108,7 +110,9 @@
     <string name="bluetooth_only_visible_to_paired_devices">Only visible to paired devices</string>
     <string name="bluetooth_visibility_timeout">Visibility timeout</string>
     <string name="bluetooth_lock_voice_dialing">Lock voice dialing</string>
-    <string name="bluetooth_lock_voice_dialing_summary">Prevent use of the bluetooth dialer when the screen is locked</string>
+    <string name="bluetooth_lock_voice_dialing_summary">"
+ Prevent use of the bluetooth dialer when the screen is locked
+"</string>
     <string name="bluetooth_devices">Bluetooth devices</string>
     <string name="bluetooth_device_name">Device: %1$s</string>
     <string name="bluetooth_device_details">Device settings</string>
@@ -117,7 +121,7 @@
     <string name="bluetooth_scan_for_devices">Scan</string>
     <string name="bluetooth_rename_device">Rename phone</string>
     <string name="bluetooth_rename_button">Rename</string>
-    <string name="bluetooth_disconnect_title">Disconnect bluetooth device?</string>
+    <string name="bluetooth_disconnect_title">Disconnect bluetooth device</string>
     <string name="bluetooth_disconnect_all_profiles">End bluetooth connection with: %1$s</string>
     <string name="bluetooth_disable_profile_title">Disable profile?</string>
     <string name="bluetooth_disable_profile_message">This will disable:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>From:&lt;br>&lt;b>%2$s&lt;/b></string>
@@ -320,13 +324,20 @@
     <string name="crypt_keeper_confirm_title">Encrypt?</string>
     <string name="crypt_keeper_final_desc">"The encryption operation is irreversible and if it is interrupted, you'll lose data. Encryption takes an hour or more, during which the phone will restart several times."</string>
     <string name="crypt_keeper_setup_title">Encrypting</string>
-    <string name="crypt_keeper_setup_description">Wait while your phone is being encrypted. ^1% complete.</string>
+    <string name="crypt_keeper_setup_description">"Wait while your phone
+ is being encrypted. ^1% complete."</string>
     <string name="crypt_keeper_cooldown">Try again in ^1 seconds.</string>
     <string name="crypt_keeper_enter_password">Type your password</string>
     <string name="crypt_keeper_failed_title">Encryption unsuccessful</string>
-    <string name="crypt_keeper_failed_summary">"Encryption was interrupted and can't complete. As a result, the data on your phone is no longer accessible. 
+    <string name="crypt_keeper_failed_summary">"
+ Encryption was interrupted and can't complete. As a result, the data on
+ your phone is no longer accessible.
+ 
 
-To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you'll have an opportunity to restore any data that was backed up to your Google Account."</string>
+To resume using your phone, you need to perform a factory reset.
+ When you set up your phone after the reset, you'll have an opportunity
+ to restore any data that was backed up to your Google Account.
+"</string>
     <string name="crypt_keeper_switch_input_method">Switch input method</string>
     <string name="lock_settings_picker_title">Choose screen lock</string>
     <string name="backup_lock_settings_picker_title">Choose backup lock</string>
@@ -385,8 +396,14 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="manage_notification_access">Notification access</string>
     <string name="manage_notification_access_summary_zero">Apps cannot read notifications</string>
     <string name="no_notification_listeners">No notification listeners are installed.</string>
-    <string name="notification_listener_security_warning_title">Enable %1$s?</string>
-    <string name="notification_listener_security_warning_summary">%1$s will be able to read all notifications posted by the system or any installed app, which may include personal information such as contact names and the text of messages sent to you. It will also be able to dismiss these notifications or touch action buttons within them.</string>
+    <string name="notification_listener_security_warning_title">"Enable
+ %1$s?"</string>
+    <string name="notification_listener_security_warning_summary">"
+ %1$s will be able to
+ read all notifications posted by the system or any installed app, which may include personal
+ information such as contact names and the text of messages sent to you. It will also be able
+ to dismiss these notifications or touch action buttons within them.
+"</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">Turn on Bluetooth</string>
     <string name="bluetooth_settings">Bluetooth</string>
@@ -484,8 +501,6 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="wifi_display_listen_channel">Listen channel</string>
     <string name="wifi_display_operating_channel">Operating channel</string>
     <string name="nfc_quick_toggle_title">NFC</string>
-    <string name="nfc_quick_toggle_summary_on">On</string>
-    <string name="nfc_quick_toggle_summary_off">Off</string>
     <string name="nfc_quick_toggle_summary">Allow data exchange when the phone touches another device</string>
     <string name="android_beam_settings_title">Android Beam</string>
     <string name="android_beam_on_summary">Ready to transmit app content via NFC</string>
@@ -495,24 +510,6 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="android_beam_explained">"When it is enabled, you can beam your device to another NFC-supported device by holding the devices together. For example, you can beam Browser pages, YouTube videos, contacts, and more. 
 
  Just hold them together (generally back to back) and then touch your display. The app determines what is beamed."</string>
-    <string name="nfc_settings">NFC setting</string>
-    <string name="nfc_settings_summary">Set and manage NFC</string>
-    <string name="meizu_beam_settings_title">NFC sharing</string>
-    <string name="meizu_beam_on_summary">Enable it to send files through NFC.</string>
-    <string name="meizu_beam_off_summary">Off</string>
-    <string name="meizu_beam_disabled_summary">Unavailable because NFC is disabled</string>
-    <string name="meizu_beam_label">MEIZU Beam</string>
-    <string name="meizu_beam_explained">"Enable it, hold the phone with another NFC-enabled phone back to back , and then scroll up to share files (including images in the gallery, contacts, web pages and notes).  
-
- If the connection is established between two Meizu phones, you can share the desktop apps by dragging the desktop app to the status bar. 
-"</string>
-    <string name="meizu_beam_conn">Connection</string>
-    <string name="meizu_beam_conn_explained">Put two phones back to back.</string>
-    <string name="meizu_beam_touch_share">Simple sharing</string>
-    <string name="meizu_beam_touch_share_explained">Put the devices close together and tap thumbnail pictures to share.</string>
-    <string name="meizu_beam_drag_share">Super sharing</string>
-    <string name="meizu_beam_drag_share_explained1">Long press the selected item and drag it to the status bar.</string>
-    <string name="meizu_beam_drag_share_explained2">This sharing applies only to gallery, videos, documents, notes, recordings and desktop applications.</string>
     <string name="nsd_quick_toggle_title">Network service discovery</string>
     <string name="nsd_quick_toggle_summary">Allow apps on other devices to discover apps on this device</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
@@ -597,7 +594,7 @@ Please check password or certificates"</string>
     <string name="wifi_wapi_user_certificate">User certificate</string>
     <string name="wifi_ip_settings">IP settings</string>
     <string name="wifi_unchanged">(unchanged)</string>
-    <string name="wifi_unspecified">(unspecified)</string>
+    <string name="wifi_unspecified">unspecified</string>
     <string name="wifi_password_error_hint">Password incorrect</string>
     <string name="wifi_remembered">Saved</string>
     <string name="wifi_disabled_generic">Disabled</string>
@@ -682,7 +679,7 @@ Allow this for all apps that want to scan?"</string>
     <string name="wifi_p2p_cancel_connect_message">Do you want to cancel invitation to connect with %1$s?</string>
     <string name="wifi_p2p_delete_group_message">Do not save the group?</string>
     <string name="wifi_tether_checkbox_text">Portable Wi-Fi hotspot</string>
-    <string name="wifi_ap_hide_ssid_txt">Скрытая сеть</string>
+    <string name="wifi_ap_hide_ssid_txt">Hidden network</string>
     <string name="wifi_tether_not_available_with_wifi_on">WLAN tethering is not available when WLAN is enabled</string>
     <string name="wifi_tether_starting">Turning hotspot on…</string>
     <string name="wifi_tether_stopping">Turning hotspot off…</string>
@@ -740,7 +737,7 @@ Allow this for all apps that want to scan?"</string>
     <string name="dock_settings_summary">Audio settings for the attached dock</string>
     <string name="dtmf_tone_enable_title">Dialpad tones</string>
     <string name="sound_effects_enable_title">Touch sounds</string>
-    <string name="sound_system_tips">Звуки системы</string>
+    <string name="sound_system_tips">System sounds</string>
     <string name="lock_sounds_enable_title">Screen lock sound</string>
     <string name="haptic_feedback_enable_title">Haptic feedback</string>
     <string name="audio_record_proc_title">Noise cancellation</string>
@@ -790,8 +787,8 @@ Allow this for all apps that want to scan?"</string>
     <string name="screensaver_settings_button">Settings</string>
     <string name="automatic_brightness">Automatic brightness</string>
     <string name="title_font_size">Font size</string>
-    <string name="blur_view_switch_title">Blur эффект</string>
-    <string name="blur_view_switch_summary">Эффект мутного стекла. Отключение данной функции сэкономит заряд батареи.</string>
+    <string name="blur_view_switch_title">Dynamic blurring</string>
+    <string name="blur_view_switch_summary">"Realtime background blurring can facilitate user's reading; disable this function can save battery"</string>
     <string name="screen_save_mode_summary">Battery savings can be up to 50% based on the displaying contents, but this sometimes might lead to color distortion</string>
     <string name="screen_save_mode_title">Screen power-saving mode</string>
     <string name="summary_font_size">%1$s</string>
@@ -826,7 +823,7 @@ Allow this for all apps that want to scan?"</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="firmware_version">Android version</string>
     <string name="model_number">Model number:</string>
-    <string name="model_detail">Детали</string>
+    <string name="model_detail">Detail</string>
     <string name="fcc_equipment_id">Device ID</string>
     <string name="baseband_version">Baseband version:</string>
     <string name="kernel_version">Kernel version</string>
@@ -897,7 +894,7 @@ Allow this for all apps that want to scan?"</string>
     <string name="usb_mtp_notification">USB Connection Notification</string>
     <string name="usb_mtp_tip_normal">To transfer files on Mac under MTP see:%s</string>
     <string name="usb_mtp_tip_url">http://www.android.com/filetransfer</string>
-    <string name="usb_conntection_category_title">Другое</string>
+    <string name="usb_conntection_category_title">Other</string>
     <string name="usb_connection_category">Connect as</string>
     <string name="usb_mtp_title">Media device (MTP)</string>
     <string name="usb_mtp_summary">Transfer media files on PC</string>
@@ -1009,18 +1006,18 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="bluetooth_tethering_overflow_error">"Can't tether to more than %1$d devices."</string>
     <string name="bluetooth_untether_blank">%1$s will be untethered.</string>
     <string name="tethering_help_button_text">Help</string>
-    <string name="tethered_device_list_title">Подключенные устройства</string>
-    <string name="obtain_device_info_txt">Получение информации...</string>
+    <string name="tethered_device_list_title">Connected deives</string>
+    <string name="obtain_device_info_txt">Obtainning device info...</string>
     <string name="tether_wps_connect_title">WPS connect</string>
     <string name="wifi_tether_wps_in_progress">Setting up…</string>
     <string name="wifi_tether_wps_error">Error</string>
-    <string name="wifi_tether_disconnect_device_message">Блокировать данное устройство для подключения к моей точке доступа: %1$s</string>
-    <string name="wifi_tether_disconnect_device_title">Блокировать устройство?</string>
-    <string name="wifi_tether_disconnect_btn_txt">Блокировать</string>
-    <string name="tether_power_save_notice_txt">Точка доступа будет отключена, если не будет использована в течение 5 мин.</string>
+    <string name="wifi_tether_disconnect_device_message">Block following device to connect to my WLAN hotspot: %1$s</string>
+    <string name="wifi_tether_disconnect_device_title">Block device?</string>
+    <string name="wifi_tether_disconnect_btn_txt">Disconnect</string>
+    <string name="tether_power_save_notice_txt">Hotspot will be turned off, if no device connected in 5 minutes</string>
     <string name="network_settings_title">Networks</string>
     <string name="manage_mobile_plan_title">Mobile plan</string>
-    <string name="sms_application_title">Приложение для SMS</string>
+    <string name="sms_application_title">Default SMS app</string>
     <string name="sms_change_default_dialog_title">Change SMS app?</string>
     <string name="sms_change_default_dialog_text" formatted="false">Use %s instead of %s as your SMS app?</string>
     <string name="sms_change_default_no_previous_dialog_text">Use %s as your SMS app?</string>
@@ -1045,7 +1042,7 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="location_mode_sensors_only_description">Use GPS to determine your location</string>
     <string name="location_loading_injected_setting">Retrieving…</string>
     <string name="location_network_based">Location determined by Wi-Fi or mobile network</string>
-    <string name="location_permission">Позиционирование</string>
+    <string name="location_permission">Location permissions</string>
     <string name="location_neighborhood_level">Allow apps to use Google location service to quick-locate you. Anonymous location data will be collected and sent to Google.</string>
     <string name="location_neighborhood_level_wifi">Location via Wi-Fi</string>
     <string name="location_gps">GPS</string>
@@ -1122,7 +1119,10 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="applications_settings_header">App settings</string>
     <string name="install_applications">Unknown sources</string>
     <string name="install_unknown_applications">Allow installation of apps from unknown sources</string>
-    <string name="install_all_warning">Your phone and personal data are vulnerable to attack by apps from unknown sources. You are solely responsible for any damage to your phone or loss of data caused by using such apps.</string>
+    <string name="install_all_warning">"Your phone and personal data are vulnerable to attack by apps
+ from unknown sources. You are solely responsible for any
+ damage to your phone or loss of data caused by using
+ such apps."</string>
     <string name="verify_applications">Verify apps</string>
     <string name="verify_applications_summary">Disallow or give warning before installing apps that may cause harm</string>
     <string name="advanced_settings">Advanced settings</string>
@@ -1132,7 +1132,7 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="auto_launch_label">Launch by default</string>
     <string name="auto_launch_label_generic">Defaults</string>
     <string name="screen_compatibility_label">Screen compatibility</string>
-    <string name="permissions_label">Разрешения</string>
+    <string name="permissions_label">Permissions</string>
     <string name="cache_header_label">Cache</string>
     <string name="clear_cache_btn_text">Clear cache</string>
     <string name="cache_size_label">Cache</string>
@@ -1154,7 +1154,8 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="always_allow_bind_appwidgets_text">"You've chosen to allow this app to create widgets and access their data."</string>
     <string name="auto_launch_disable_text">No defaults set</string>
     <string name="clear_activities">Clear defaults</string>
-    <string name="screen_compatibility_text">This app may not be designed for your screen. You can control how it adjusts to your screen here.</string>
+    <string name="screen_compatibility_text">"This app may not be designed for your screen. You can control how it
+ adjusts to your screen here."</string>
     <string name="ask_compatibility">Ask when launched</string>
     <string name="enable_compatibility">Scale app</string>
     <string name="unknown">Unknown</string>
@@ -1166,10 +1167,15 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="reset_app_preferences_title">Reset app preferences?</string>
     <string name="reset_app_preferences_desc">"This will reset all preferences for:
 
+
  "<li>Disabled apps</li>"
+
  "<li>Disabled app notifications</li>"
+
  "<li>Default applications for actions</li>"
+
  "<li>Background data restrictions for apps</li>"
+
 
  You will not lose any app data."</string>
     <string name="reset_app_preferences_button">Reset apps</string>
@@ -1199,7 +1205,10 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="clear_failed_dlg_title">Clear data</string>
     <string name="clear_failed_dlg_text">"Couldn't clear data for app."</string>
     <string name="security_settings_desc">This app can access the following on your phone:</string>
-    <string name="security_settings_desc_multi">This app can access the following on your phone. In order to improve performance and reduce memory usage, some of these permissions are available to %1$s because it runs in the same process as %2$s:</string>
+    <string name="security_settings_desc_multi">"This app can access the following on your phone.
+ In order to improve performance and reduce memory usage, some of these permissions
+ are available to %1$s
+ because it runs in the same process as %2$s:"</string>
     <string name="join_two_items">%1$s and %2$s</string>
     <string name="join_many_items_last">%1$s and %2$s</string>
     <string name="join_many_items_first">%1$s, %2$s</string>
@@ -1226,11 +1235,14 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="app_install_location_title">Preferred install location</string>
     <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
     <string name="app_disable_dlg_title">Disable built-in app?</string>
-    <string name="app_disable_dlg_text">If you disable a built-in app, other apps may misbehave.</string>
+    <string name="app_disable_dlg_text">"If you disable a built-in app, other apps
+ may misbehave."</string>
     <string name="app_special_disable_dlg_title">Delete data and disable app?</string>
     <string name="app_special_disable_dlg_text">If you disable a built-in app, others may fail. Your data will be deleted.</string>
     <string name="app_disable_notifications_dlg_title">Turn off notifications?</string>
-    <string name="app_disable_notifications_dlg_text">If you turn off notifications for this app, you may miss important alerts and updates.</string>
+    <string name="app_disable_notifications_dlg_text">"
+ If you turn off notifications for this app, you may miss important alerts and updates.
+"</string>
     <string name="app_ops_settings">App operations</string>
     <string name="app_ops_running">Running</string>
     <string name="app_ops_never_used">(Never used)</string>
@@ -1249,25 +1261,38 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="service_process_name">%1$s</string>
     <string name="running_process_item_user_label">"User: %1$s "</string>
     <string name="running_process_item_removed_user_label">User removed</string>
-    <string name="running_processes_item_description_s_s">%1$d process and %2$d service</string>
-    <string name="running_processes_item_description_s_p">%1$d process and %2$d services</string>
-    <string name="running_processes_item_description_p_s">%1$d processes and %2$d service</string>
-    <string name="running_processes_item_description_p_p">%1$d processes and %2$d services</string>
+    <string name="running_processes_item_description_s_s">"%1$d
+ process and %2$d service"</string>
+    <string name="running_processes_item_description_s_p">"%1$d
+ process and %2$d services"</string>
+    <string name="running_processes_item_description_p_s">"%1$d
+ processes and %2$d service"</string>
+    <string name="running_processes_item_description_p_p">"%1$d
+ processes and %2$d services"</string>
     <string name="runningservicedetails_settings_title">Running app</string>
     <string name="no_services">Not active</string>
     <string name="runningservicedetails_services_title">Services</string>
     <string name="runningservicedetails_processes_title">Processes</string>
     <string name="service_stop">Stop</string>
     <string name="service_manage">Settings</string>
-    <string name="service_stop_description">This service was started by its app. Stopping it may cause the app to fail.</string>
-    <string name="heavy_weight_stop_description">"This app can't safely be stopped. If you stop it, you may lose some of your current work."</string>
-    <string name="background_process_stop_description">"This is an old app process that is still running in case it's needed again. There is usually no reason to stop it."</string>
-    <string name="service_manage_description">%1$s: currently in use. Touch Settings to control it.</string>
+    <string name="service_stop_description">"This service was started by its
+ app. Stopping it may cause the app to fail."</string>
+    <string name="heavy_weight_stop_description">"This app can't safely
+ be stopped. If you stop it, you may lose some of your current work."</string>
+    <string name="background_process_stop_description">"This is an old app
+ process that is still running in case it's needed again.
+ There is usually no reason to stop it."</string>
+    <string name="service_manage_description">"%1$s:
+ currently in use. Touch Settings to control it."</string>
     <string name="main_running_process_description">Main process in use.</string>
-    <string name="process_service_in_use_description">Service %1$s is in use.</string>
-    <string name="process_provider_in_use_description">Provider %1$s is in use.</string>
+    <string name="process_service_in_use_description">"Service %1$s
+ is in use."</string>
+    <string name="process_provider_in_use_description">"Provider %1$s
+ is in use."</string>
     <string name="runningservicedetails_stop_dlg_title">Stop system service?</string>
-    <string name="runningservicedetails_stop_dlg_text">If you stop this service, some features of your phone may stop working correctly until you power it off and then on again.</string>
+    <string name="runningservicedetails_stop_dlg_text">"If you stop this service, some
+ features of your phone may stop working correctly until you power it off
+ and then on again."</string>
     <string name="language_settings">Language and time</string>
     <string name="language_keyboard_settings_title">Language and input method</string>
     <string name="language_settings_category">Language settings</string>
@@ -1283,7 +1308,11 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="auto_punctuate_summary">Press Space key twice to insert \".\"</string>
     <string name="show_password">Make passwords visible</string>
     <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s.</string>
-    <string name="spellchecker_security_warning">This spell checker may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this spell checker?</string>
+    <string name="spellchecker_security_warning">"This spell checker may be able to collect
+ all the text you type, including personal data like passwords and credit
+ card numbers. It comes from the app
+ %1$s.
+ Use this spell checker?"</string>
     <string name="spellchecker_quick_settings">Settings</string>
     <string name="spellchecker_language">Language</string>
     <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
@@ -1409,8 +1438,8 @@ Some apps may not work until updated by their developers."</string>
     <string name="accessibility_screen_magnification_summary">"When this feature is enabled, you can zoom in and out by triple-tapping the screen.  
 
  While zoomed in, you can: 
-"<ul><li>" Pan: Drag two or more fingers across the screen. 
-"<li> Adjust zooming level: Pinch two or more fingers together or spread them apart. </li></li></ul>" 
+"<li><ul>" Pan: Drag two or more fingers across the screen. 
+"<li> Adjust zooming level: Pinch two or more fingers together or spread them apart. </li></ul></li>" 
 
  You can also temporarily magnify what's under your finger by triple-tapping and holding. When the display is zoomed in, you can scroll up and down to view  different parts of the display. Release your fingers to return to your previous state. 
 
@@ -1461,21 +1490,29 @@ Some apps may not work until updated by their developers."</string>
     <string name="color_yellow">Yellow</string>
     <string name="color_magenta">Magenta</string>
     <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
-    <string name="enable_service_title">Use %1$s?</string>
-    <string name="capabilities_list_title">%1$s needs to:</string>
+    <string name="enable_service_title">"Use
+ %1$s?"</string>
+    <string name="capabilities_list_title">"%1$s
+ needs to:"</string>
     <string name="capability_title_receiveAccessibilityEvents">Observe your actions</string>
-    <string name="capability_desc_receiveAccessibilityEvents">"Receive notifications when you're interacting with an app."</string>
+    <string name="capability_desc_receiveAccessibilityEvents">"Receive notifications when you're
+ interacting with an app."</string>
     <string name="disable_service_title">Stop %1$s?</string>
-    <string name="disable_service_message">Touching OK will stop %1$s.</string>
+    <string name="disable_service_message">"Touching OK will
+ stop %1$s."</string>
     <string name="accessibility_no_services_installed">No services installed</string>
     <string name="accessibility_service_no_apps_title">Need a screen reader?</string>
-    <string name="accessibility_service_no_apps_message">TalkBack provides spoken feedback to help blind and low-vision users. Do you want to install it for free from Android Market?</string>
+    <string name="accessibility_service_no_apps_message">"TalkBack provides spoken feedback to
+ help blind and low-vision users. Do you want to install it for free from Android
+ Market?"</string>
     <string name="accessibility_service_default_description">No description provided.</string>
     <string name="settings_button">Settings</string>
     <string name="print_settings">Printing</string>
     <string name="print_settings_title">Print services</string>
-    <string name="print_service_security_warning_title">Use %1$s?</string>
-    <string name="print_service_security_warning_summary">Your document may pass through one or more servers on its way to the printer.</string>
+    <string name="print_service_security_warning_title">"Use
+ %1$s?"</string>
+    <string name="print_service_security_warning_summary">"Your document may pass through
+ one or more servers on its way to the printer."</string>
     <string name="print_no_services_installed">No services installed</string>
     <string name="print_no_printers_found">No printers found</string>
     <string name="print_menu_item_settings">Settings</string>
@@ -1517,7 +1554,8 @@ Some apps may not work until updated by their developers."</string>
     <string name="awake">Device awake time</string>
     <string name="wifi_on_time">Wi-Fi on time</string>
     <string name="bluetooth_on_time">Wi-Fi on time</string>
-    <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
+    <string name="usage_name_percent">"%1$s - 
+ %2$s%%"</string>
     <string name="history_details_title">History details</string>
     <string name="details_title">Use details</string>
     <string name="details_subtitle">Use details</string>
@@ -1574,11 +1612,13 @@ Some apps may not work until updated by their developers."</string>
     <string name="process_stats_summary_title">Process Stats</string>
     <string name="process_stats_summary">Geeky stats about running processes</string>
     <string name="app_memory_use">Memory use</string>
-    <string name="process_stats_total_duration">%1$s apps over %2$s</string>
+    <string name="process_stats_total_duration">"%1$s apps over
+ %2$s"</string>
     <string name="process_stats_type_background">Background</string>
     <string name="process_stats_type_foreground">Foreground</string>
     <string name="process_stats_type_cached">Cached</string>
-    <string name="process_stats_memory_status">Device memory is currently %1$s</string>
+    <string name="process_stats_memory_status">"Device memory is currently
+ %1$s"</string>
     <string name="process_stats_avg_ram_use">Average RAM use</string>
     <string name="process_stats_max_ram_use">Maximum RAM use</string>
     <string name="process_stats_run_time">Run time</string>
@@ -1625,7 +1665,10 @@ Some apps may not work until updated by their developers."</string>
     <string name="tts_engine_error">"The engine you chose can't run."</string>
     <string name="tts_engine_error_config">Configure</string>
     <string name="tts_engine_error_reselect">Choose another engine</string>
-    <string name="tts_engine_security_warning">This speech synthesis engine may be able to collect all the text that will be spoken, including personal data like passwords and credit card numbers. It comes from the %s engine. Enable the use of this speech synthesis engine?</string>
+    <string name="tts_engine_security_warning">"This speech synthesis engine may be able to collect
+ all the text that will be spoken, including personal data like passwords and credit
+ card numbers. It comes from the %s engine.
+ Enable the use of this speech synthesis engine?"</string>
     <string name="tts_engine_network_required">This language requires a working network connection for text-to-speech output.</string>
     <string name="tts_default_sample_string">This is an example of speech synthesis</string>
     <string name="tts_status_title">Default language status</string>
@@ -1722,15 +1765,19 @@ Some apps may not work until updated by their developers."</string>
     <string name="device_admin_not_actived">Not Activated</string>
     <string name="device_admin_notice">Notice</string>
     <string name="device_admin_add_title">Device administrator</string>
-    <string name="device_admin_warning">Activating this administrator will allow the app %1$s to perform the following operations:</string>
-    <string name="device_admin_status">This administrator is active and allows the app %1$s to perform the following operations:</string>
+    <string name="device_admin_warning">"Activating this administrator will allow
+ the app %1$s to perform the
+ following operations:"</string>
+    <string name="device_admin_status">"This administrator is active and allows
+ the app %1$s to perform the
+ following operations:"</string>
     <string name="untitled_apn">Untitled</string>
     <string name="sound_category_sound_title">General</string>
     <string name="sound_category_calls_and_notification_title">Ringtone &amp; notifications</string>
     <string name="sound_category_notification_title">Notifications</string>
     <string name="sound_category_call_ringtone_vibrate_title">Call ringtone &amp; vibrate</string>
     <string name="sound_category_system_title">Sound and feedback</string>
-    <string name="sound_system_title">Звуки</string>
+    <string name="sound_system_title">System sound</string>
     <string name="wifi_setup_title">Wi-Fi settings</string>
     <string name="wifi_setup_title_editing_network">Connected to Wi-Fi network %s</string>
     <string name="wifi_setup_title_connecting_network">Connected to Wi-Fi network %s</string>
@@ -1823,13 +1870,15 @@ Some apps may not work until updated by their developers."</string>
     <string name="select_application">Select application</string>
     <string name="no_application">Nothing</string>
     <string name="wait_for_debugger">Wait for debugger</string>
-    <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
+    <string name="wait_for_debugger_summary">"Debugged application waits for debugger to
+ attach before executing"</string>
     <string name="debug_input_category">Input</string>
     <string name="debug_drawing_category">Drawing</string>
     <string name="debug_hw_drawing_category">Hardware accelerated rendering</string>
     <string name="debug_monitoring_category">Monitoring</string>
     <string name="strict_mode">Strict mode enabled</string>
-    <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
+    <string name="strict_mode_summary">"Flash screen when apps do long operations
+ on main thread"</string>
     <string name="pointer_location">Pointer location</string>
     <string name="pointer_location_summary">Screen overlay showing current touch data</string>
     <string name="show_touches">Show touches</string>
@@ -1862,10 +1911,12 @@ Some apps may not work until updated by their developers."</string>
     <string name="overlay_display_devices_title">Simulate assistant display</string>
     <string name="debug_applications_category">Apps</string>
     <string name="immediately_destroy_activities">"Don't keep activities"</string>
-    <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
+    <string name="immediately_destroy_activities_summary">"Destroy every activity as soon as
+ the user leaves it"</string>
     <string name="app_process_limit_title">Background process limit</string>
     <string name="show_all_anrs">Show all ANRs</string>
-    <string name="show_all_anrs_summary">Show App Not Responding dialog for background apps</string>
+    <string name="show_all_anrs_summary">"Show App Not Responding dialog
+ for background apps"</string>
     <string name="data_usage_summary_title">Data usage</string>
     <string name="data_usage_cycle">Data cycle</string>
     <string name="data_usage_menu_roaming">Data roaming</string>
@@ -2104,18 +2155,18 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="user_account_title">Content account</string>
     <string name="user_picture_title">Photo ID</string>
     <string name="cell_broadcast_settings">Cell broadcasts</string>
-    <string name="root_allowing_title">%s запрашивает root доступ.</string>
-    <string name="root_warning_title">Внимание!</string>
-    <string name="root_warning_msg">Не предоставляйте root доступ, если вы не доверяете приложению. В противном случае, ваши данные могут быть скомпрометированы вредоносным программным обеспечением.</string>
-    <string name="root_permission_title">ROOT доступ</string>
-    <string name="root_permission_disallowed">Запретить</string>
-    <string name="root_permission_ask">Спросить</string>
-    <string name="root_permission_allowed">Разрешить</string>
-    <string name="root_category_disallowed">%d приложениям запрещён</string>
-    <string name="root_category_ask">%d приложениям необходимо спросить</string>
-    <string name="root_category_allowed">%d приложениям разрешен</string>
-    <string name="root_remember">запомнить мой выбор</string>
-    <string name="root_permission_still_allowed">Разрешить</string>
+    <string name="root_allowing_title">Allow %s to request root privilege.</string>
+    <string name="root_warning_title">WARNING !</string>
+    <string name="root_warning_msg">Do NOT accept unless you trust the application. Otherwise, you run the risk of having your data compromised by a malicious software.</string>
+    <string name="root_permission_title">ROOT permission</string>
+    <string name="root_permission_disallowed">Disallow</string>
+    <string name="root_permission_ask">Ask</string>
+    <string name="root_permission_allowed">Allow</string>
+    <string name="root_category_disallowed">%dapp(s) disallowed</string>
+    <string name="root_category_ask">%dapp(s) need ask</string>
+    <string name="root_category_allowed">%dapp(s) allowed</string>
+    <string name="root_remember">remember my choice</string>
+    <string name="root_permission_still_allowed">Still Allow</string>
     <string name="pppoe_setting_title">PPPoE dial-up</string>
     <string name="pppoe_setting_summary">Set PPPoE username and password</string>
     <string name="pppoe_status_title">PPPoE status</string>
@@ -2139,8 +2190,8 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="pppoe_wifi_not_connected">WLAN is not connected, PPPoE is unavailable</string>
     <string name="vpn_settings">VPN</string>
     <string name="vpn_settings_summary">Set and manage VPN</string>
-    <string name="vpn_summary_on">Включено</string>
-    <string name="vpn_summary_off">Выключено</string>
+    <string name="vpn_summary_on">On</string>
+    <string name="vpn_summary_off">Off</string>
     <string name="vpn_reconnect_msg">Save and reconnect VPN</string>
     <string name="vpn_statusbar_checkbox_text">Show a notification bar switch</string>
     <string name="vpn_dns_hint">8.8.8.8</string>
@@ -2177,14 +2228,14 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="regulatory_info_text" />
     <string name="custom_settings_title">Customize</string>
     <string name="gallery_wallpaper">Gallery wallpapers</string>
-    <string name="system_wallpaper">Системные обои</string>
-    <string name="online_wallpaper">Онлайн обои</string>
-    <string name="theme">Темы</string>
-    <string name="live_wallpaper">Живые обои</string>
+    <string name="system_wallpaper">System wallpapers</string>
+    <string name="online_wallpaper">Online wallpapers</string>
+    <string name="theme">Theme</string>
+    <string name="live_wallpaper">Live wallpapers</string>
     <string name="default_launcher">Default Launcher</string>
     <string name="not_set_default_launcher">No default</string>
     <string name="choose_def_launcher">choose default Launcher</string>
-    <string name="use_flyme_icon_title">Иконки в стиле Flyme</string>
+    <string name="use_flyme_icon_title">Flyme style icons</string>
     <string name="brightness_category_title">Brightness</string>
     <string name="button_brightness_title">Home LED</string>
     <string name="statusbar_power_percent">Battery percent</string>
@@ -2239,8 +2290,8 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="wifi_wps_failed">WPS authentication failed, try again.</string>
     <string name="wifi_password_exceed">Password should not exceed 64 characters</string>
     <string name="wifi_setting_sleep_policy_sum">To reduce power consumption</string>
-    <string name="tether_method_wifi">Настройки беспроводн. точки доступа</string>
-    <string name="tether_method_others">Другие точки доступа</string>
+    <string name="tether_method_wifi">WLAN sharing</string>
+    <string name="tether_method_others">Other sharing</string>
     <string name="tether_no_config">Please choose at least one sharing mode.</string>
     <string name="tether_usb_not_con">The USB binding is not Available. Please connect USB first.</string>
     <string name="tether_is_in_progress">Setting, please try again later</string>
@@ -2266,6 +2317,7 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="wifi_display_summary_disabled">Disabled</string>
     <string name="wifi_display_need_wifi">To use wifi display,enable wifi first</string>
     <string name="wifi_display_device_not_found">No available device near</string>
+    <string name="add_hiden_ssid">Add Hidden SSID</string>
     <string name="wifi_mac">MAC addr</string>
     <string name="wifi_certinstall_ins">Install certificate</string>
     <string name="wifi_certinstall_view">View certificate</string>
@@ -2320,79 +2372,9 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="locked_items_text">Locked items</string>
     <string name="unlocked_items_text">Unlocked items</string>
     <string name="fast_scroll_alphabet">\#ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
-    <string name="nfc_contact_info">Contact</string>
-    <string name="nfc_select_contact">Select contact</string>
-    <string name="nfc_write_contact_info">Write Information</string>
-    <string name="nfc_removed_contact_info">Excess tag capaticy cannot be written</string>
-    <string name="nfc_select_contact_title">Contact</string>
-    <string name="nfc_writing_content_msg">Writing, wait a moment...</string>
-    <string name="nfc_data_null_err">The writing data is null, please secelet a contact</string>
-    <string name="nfc_contact_name_too_long_err">"The selected contact's name field is too long, please cut shot it and select again."</string>
-    <string name="nfc_email_removed_msg">"The contact's size is larger than the tag's capaticy, some email fileds will not be written"</string>
-    <string name="nfc_phone_removed_msg">"The contact's size is larger than the tag's capaticy, some phone fileds will not be written"</string>
-    <string name="nfc_email_and_phone_removed_msg">"The contact's size is larger than the tag's capaticy, some email and phone fileds will not be written"</string>
-    <string name="nfc_tag_not_supported">Fail to write. This tag is not supported.</string>
-    <string name="nfc_shortcuts_title">Notification bar display switch</string>
-    <string name="nfc_profile_settings">Items to be Activated</string>
-    <string name="recovery_profile_unlock">Cancel sleep mode when unlocking screen</string>
-    <string name="nfc_write_tag_sleep_model">Sleep Mode</string>
-    <string name="nfc_write_tag_meet_model">Meeting Mode</string>
-    <string name="nfc_write_tag_drive_model">Driving Mode</string>
-    <string name="nfc_write_tag_wifi_ap_model">WLAN Networks</string>
-    <string name="nfc_write_tag_wlan_ap_title">WLAN Connection</string>
-    <string name="nfc_write_tag_wlan_ap_pic_summury">Use the back of the phone to write an NFC tag</string>
-    <string name="nfc_write_tag_contacts_model">Contacts</string>
-    <string name="nfc_write_tag_custom_model">Custom Mode</string>
-    <string name="nfc_wlan_write_tage_category">Write to network</string>
-    <string name="nfc_wlan_write_tage_no_network">Please choose a network</string>
-    <string name="nfc_wlan_write_tage_not_config_well">The network is not configured correctly</string>
     <string name="wlan_tether_no_encypt">Open</string>
     <string name="wifi_tether_subtext">%1$s encrypt</string>
-    <string name="nfc_write_tag_air_plane_str">AirPlane Mode</string>
-    <string name="nfc_write_tag_soundless_str">Silent</string>
-    <string name="nfc_write_tag_shake_str">Vibrate</string>
-    <string name="nfc_write_tag_mobile_network_str">Mobile Data</string>
-    <string name="nfc_write_tag_wlan_str">WLAN</string>
-    <string name="nfc_write_tag_vpn_str">VPN</string>
-    <string name="nfc_write_tag_bt_str">Bluetooth</string>
-    <string name="nfc_write_tag_gps_str">GPS</string>
-    <string name="nfc_write_tag_gravity_str">Gravity Sensor</string>
-    <string name="select_favor_title">Tap to enable or cancel</string>
-    <string name="enable_cancel_sleep_mode_when_unlock_str">Cancel Sleep Mode When Unlocking Screen</string>
-    <string name="enable_not_wakeup_screen_str">Forbid Waking Up Screen by Notification</string>
-    <string name="enable_cancel_dri_mode_when_bt_discon_str">Disable Driving Mode When the Bluetooth is disconnected</string>
-    <string name="profile_write_success">Write Tag Successfully!</string>
-    <string name="profile_write_failed">Write Tag Failed!</string>
-    <string name="nfc_write_tag_notify_title">" Started"</string>
-    <string name="nfc_write_tag_exit_profile">"Exit "</string>
-    <string name="nfc_write_tag_launch_activity">Launch Activity</string>
-    <string name="nfc_write_tag_launch_music">Music</string>
-    <string name="nfc_write_tag_launch_video">Video</string>
-    <string name="nfc_write_tag_launch_browser">Browser</string>
-    <string name="nfc_write_tag_launch_baidumap">Map</string>
-    <string name="nfc_write_tag_launch_none">None</string>
-    <string name="nfc_write_tag_launch_not_installed">Can Not Found</string>
-    <string name="nfc_setting_pref_cato_title">Write NFC Tag</string>
-    <string name="nfc_setting_custom_edit_name_hint">Type The Name of Mode</string>
-    <string name="nfc_setting_custom_edit_name_title">Mode Name</string>
-    <string name="nfc_setting_custom_edit_name_duplicat">" Already Exist"</string>
-    <string name="nfc_custom_mode_not_init">Custom mode has not been set</string>
-    <string name="nfc_write_tag_prompt_not_change">These settings are only available when tags are read</string>
-    <string name="nfc_tag_profile_exit">Disable %1$s?</string>
-    <string name="nfc_tag_profile_exit_prompt">Click to exit</string>
-    <string name="nfc_tag_enter_profile_tst_msg">Read tag successfully，enter %1$s</string>
-    <string name="nfc_tag_sel_app_none">None</string>
-    <string name="wlan_write_tag_enable_wifi_summary">You need to connect to Wi-Fi in order to upload something onto the network</string>
-    <string name="add_hiden_ssid">Add Hidden SSID</string>
-    <string name="nfc_wlan_ap_connected">already connected</string>
-    <string name="nfc_se_settings">Security module position</string>
-    <string name="nfc_ese">Mobile embedded security modules</string>
-    <string name="nfc_sim_se">SIM card security mode</string>
-    <string name="nfc_se_td_tips">The SIM card security module is needed when the mobile wallet of SIM card is swiped. Others swiping card need to use the mobile embedded security module.</string>
-    <string name="nfc_se_w_tips">The SIM card security module is needed when the mobile wallet of SIM card is swiped. Others swiping card need to use the mobile embedded security module.</string>
     <string name="notification_text_app_name_default">App Name</string>
-    <string name="nfc_user_guider">User guider</string>
-    <string name="nfc_user_guider_tip">Bluetooth will be turned on or Wlan will be binded during NFC share.</string>
     <string name="register_automatically">Auto registering…</string>
     <string name="label_available">Available networks</string>
     <string name="load_networks_progress">Searching</string>
@@ -2429,7 +2411,7 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="preferred_network_mode_dialogtitle">Preferred network mode</string>
     <string name="data_usage_total_during_range_mz">%1$s this month used</string>
     <string name="allow_mobile_data_usage">allow to use mobile data</string>
-    <string name="more_settings_title">Другое</string>
+    <string name="more_settings_title">Other</string>
     <string name="adjust_settings">Calibrate</string>
     <string name="start_adjust">Calibrate</string>
     <string name="adjust_error">Calibration failed. Please try again.</string>
@@ -2461,6 +2443,7 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="unacceptable_char">Can not contain invalid characters |\\/:*?\"&lt;></string>
     <string name="mxdemo_not_allow_format">Experience machine does not allow formatting</string>
     <string name="show_hide_files">Show \"Coffer\" on PC</string>
+    <string name="backup_phone_data">Backup phone data</string>
     <string name="erase_btn">Start Cleaning</string>
     <string name="reset_phone">Clean phone data</string>
     <string name="reset_phone_dlg_title">Factory reset</string>
@@ -2494,8 +2477,8 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="hardware_accelerated">Hardware acceleration</string>
     <string name="call">Call</string>
     <string name="call_log">Read CallLog</string>
-    <string name="system_app">Системное</string>
-    <string name="applock_header_title">Защищенные приложения</string>
+    <string name="system_app">System App</string>
+    <string name="applock_header_title">Encrypted options</string>
     <string name="contacts">Read Contacts</string>
     <string name="r_sms">Read SMS</string>
     <string name="s_sms">Send SMS</string>
@@ -2518,18 +2501,18 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="dlg_check_app_control_toast" formatted="false">You have allowed %s to access %s</string>
     <string name="dump_cell_env">Dump cell env</string>
     <string name="onscreenPageNrHint">page to dump</string>
-    <string name="passcode_complex">Сложный пароль</string>
+    <string name="passcode_complex">Complex passcode</string>
     <string name="password_contains_illegal">Password contains illegal characters</string>
     <string name="please_input_more_than_four_password">Please enter four or more characters</string>
-    <string name="password_at_least_contains_one_letter">Содержащий как минимум одну букву</string>
-    <string name="enter_new_complex_password_tip">Введите новый 4-17-значный пароль</string>
+    <string name="password_at_least_contains_one_letter">Comprising one lettter at least</string>
+    <string name="enter_new_complex_password_tip">Enter a new 4-to-17-digit passcode</string>
     <string name="guest_mode_summary">A visitor mode entrance appears on the screen lock interface.</string>
     <string name="guest_mode_summary2">The selected apps will be hidden</string>
     <string name="guest_mode_hide">Hidden</string>
     <string name="guest_mode_nohide">Not Hidden</string>
-    <string name="guest_password">Пароль гостя</string>
+    <string name="guest_password">Guest Password</string>
     <string name="guest_password_def">Default:0000</string>
-    <string name="guest_mode_enter_password">Введите новый 4-значный пароль гостя</string>
+    <string name="guest_mode_enter_password">Enter a new 4 digit guest passcode</string>
     <string name="guest_mode_can_not_equal_screen_pwd">"Password of guest mode can't be the same as screen password"</string>
     <string name="screen_pwd_can_not_equal_guest_mode_pwd">"Password of screen can't be the same as guest mode"</string>
     <string name="autorun_enable">AutoRun-Enabled</string>
@@ -2542,16 +2525,16 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="notification_settings">Notice</string>
     <string name="notification_text_opened">Notice enabled</string>
     <string name="notification_text_closed">Notice disabled</string>
-    <string name="battery_consumption_title">Статистика батареи</string>
-    <string name="battery_consumption_category">Подробный отчёт</string>
-    <string name="battery_consumption_category_title">Режим производительности</string>
-    <string name="battery_consumption_balance_title">Баланс</string>
-    <string name="battery_consumption_saving_title">Энергосбережение</string>
-    <string name="battery_consumption_performance_title">Производительность</string>
-    <string name="battery_consumption_summary">От батареи: %1$s</string>
+    <string name="battery_consumption_title">Battery consumption</string>
+    <string name="battery_consumption_category">Battery consumption summary</string>
+    <string name="battery_consumption_category_title">Power mode</string>
+    <string name="battery_consumption_balance_title">Balance mode</string>
+    <string name="battery_consumption_saving_title">Power-saving mode</string>
+    <string name="battery_consumption_performance_title">Performance mode</string>
+    <string name="battery_consumption_summary">Used%1$s</string>
     <string name="battery_history_item_title">100%</string>
-    <string name="tips_apps_lock">Необходимо ввести пароль при попытке открытия заблокированного приложения</string>
-    <string name="tips_guest_mode">Введите пароль гостя на экране блокировки и отмеченные приложения станут недоступны</string>
+    <string name="tips_apps_lock">Need to enter your passcode when you are trying to open a locked APP</string>
+    <string name="tips_guest_mode">Set guest mode passcode first, enter guest passcode at lock screen, you will be in guest mode</string>
     <string name="setting_main_title">Keyboard</string>
     <string name="setting_prev_title">Language and keyboard</string>
     <string name="setting_title_auto_cap">Auto capitalization</string>
@@ -2586,6 +2569,10 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="setting_title_voice_iflytek">Iflytek voice</string>
     <string name="setting_title_voice_baidu">Baidu voice</string>
     <string name="setting_title_voice_google">Google voice</string>
+    <string name="setting_title_cloud_input">Cloud Input</string>
+    <string name="setting_title_only_wlan">Only Wlan</string>
+    <string name="setting_summary_cloud_on">On</string>
+    <string name="setting_summary_cloud_off">Off</string>
     <string name="setting_dialog_delete">Delete</string>
     <string name="setting_toast_max_input_num_limit">You can only add up to four input methods.</string>
     <string name="setting_input_language_en">English</string>
@@ -2593,8 +2580,9 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="setting_input_traditional_ch">Traditional Chinese</string>
     <string name="setting_input_simplified_ch">Simplified Chinese</string>
     <string name="keyboard_other_settings_category">Other keyboards</string>
+    <string name="input_third_protocol_hint">The third-party input method can access all typed data. Please read carefully the third-party developer service protocol and privacy policy.</string>
     <string name="warning">Warning</string>
-    <string name="device_admin_permission">Give the following permissions：</string>
+    <string name="device_admin_permission">Give the following permissions</string>
     <string name="activate_stats_title">Activate Stats</string>
     <string name="ignore">Ignore</string>
     <string name="output_title">OUTPUT</string>
@@ -2603,10 +2591,10 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="corproation_details">Meizu Technology Service information</string>
     <string name="no_corproation_details">No service information</string>
     <string name="corprotation_tag">:</string>
-    <string name="memory_other">Прочее</string>
-    <string name="memory_picture">Фото</string>
-    <string name="memory_video">Видео</string>
-    <string name="memory_audio">Аудио</string>
+    <string name="memory_other">Others</string>
+    <string name="memory_picture">Pictures</string>
+    <string name="memory_video">Videos</string>
+    <string name="memory_audio">Audios</string>
     <string name="corproation_address_tag">Address:</string>
     <string name="corproation_number_tag">Tel.</string>
     <string name="corproation_postcode_tag">Post code</string>
@@ -2638,7 +2626,7 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="corporation_info_type_address">Add</string>
     <string name="no_content">none</string>
     <string name="expenses_free">(free of charge)</string>
-    <string name="data_collection_category_title">Программа помощи разработчикам</string>
+    <string name="data_collection_category_title">User Experience Program</string>
     <string name="data_collection_title">Join User Experience Improvement Program</string>
     <string name="data_collection_summary">The program collects product usage data to improve our products without infringing upon privacy</string>
     <string name="settings_copyright_activity_title">Legal statement</string>
@@ -2648,7 +2636,7 @@ A trusted credential installed on your device is making this possible."</string>
 
  Warning: This device ships with an open bootloader. Although it is possible to root the device, there are certain risks involved. Those risks include but are not limited to the failure of Phone Finder, lost files, password disclosure, or other security issues; it can also lead to decreased system stability. Meizu shall not be held liable for any consequences involving rooted devices. Meizu advices customers to exercise strict caution when determining whether or not to root their devices.  
 
- © 2003-2014 Meizu Technology Co., Ltd. All rights reserved."</string>
+ © 2015 Meizu Technology Co., Ltd. All rights reserved."</string>
     <string name="filter_apps_cached">Cached</string>
     <string name="apps_used_ram">%1$s RAM used</string>
     <string name="apps_free_ram">%1$s free RAM</string>
@@ -2697,13 +2685,13 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="top_message">This firmware is only for experience,please use within reasonable limits</string>
     <string name="message_ringtong_picker_flyme">Put ringtone files into \"Disk/Music\"</string>
     <string name="message_ringtong_picker_no_file">Not any files</string>
-    <string name="ringtone_file_dir">Короткие рингтоны</string>
-    <string name="flyme_music_dir">Моя музыка</string>
-    <string name="permission">Разрешения</string>
-    <string name="permiss_detail_summary">%d разрешений</string>
-    <string name="permiss_manager_summary">Уведомления, напоминания, местоположение, IMEI, и т.д.</string>
-    <string name="permiss_detail">Подробнее о разрешениях</string>
-    <string name="permiss_manager">Управл. разрешениями</string>
+    <string name="ringtone_file_dir">Ringtones</string>
+    <string name="flyme_music_dir">Flyme Music</string>
+    <string name="permission">Permission</string>
+    <string name="permiss_detail_summary">%d permissions</string>
+    <string name="permiss_manager_summary">Notification bar, prompt, location, IMEI, and etc.</string>
+    <string name="permiss_detail">Permission Details</string>
+    <string name="permiss_manager">Permission Management</string>
     <string name="intelligent_voice">Smart voice</string>
     <string name="intelligent_voice_wakeup_by_home_title">Home button activation</string>
     <string name="intelligent_voice_wakeup_by_home_summary">Hold Home button to activate</string>
@@ -2713,9 +2701,9 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="intelligent_voice_wakeup_by_home_off_toast">Hold the Home button to switch to screen locking</string>
     <string name="intelligent_voice_wakeup_by_headset_on_toast">Hold the headset middle key to switch to Smart Voice activation</string>
     <string name="intelligent_voice_wakeup_by_headset_off_toast">Hold the headset middle key to switch to screen locking</string>
-    <string name="quick_wakeup_title">Quick wakeup</string>
+    <string name="quick_wakeup_title">Gesture wakeup</string>
     <string name="quick_wakeup_category_title">Items</string>
-    <string name="quick_wakeup_double_click_title">Двойной тап</string>
+    <string name="quick_wakeup_double_click_title">Double-tap</string>
     <string name="quick_wakeup_double_click_summary">Light up the screen</string>
     <string name="quick_wakeup_slide_up_title">Slide upward</string>
     <string name="quick_wakeup_slide_down_title">Slide downward</string>
@@ -2737,9 +2725,11 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="quick_wakeup_choose_app">Choose an app to activate</string>
     <string name="quick_wakeup_tips">Slide the dark screen to wake up the phone</string>
     <string name="home_key_behavior">Hold the Home button</string>
-    <string name="auto_hide_smartbar_title">Скрыть СмартБар</string>
-    <string name="auto_hide_smartbar_message">СмартБар будет автоматически скрыт для несовместимых приложений; сдвиньте вверх от кольца для возврата назад</string>
-    <string name="light_feedback_enable_title">Подсветка кольца</string>
+    <string name="quick_wakeup_slide_left_right_title">Horizontal sliding</string>
+    <string name="quick_wakeup_slide_left_right_summary">Switch songs</string>
+    <string name="auto_hide_smartbar_title">Intelligently hide Smartbar</string>
+    <string name="auto_hide_smartbar_message">Smartbar would be automatically hided for incompatible apps; slide up the Home button to return to the previous page</string>
+    <string name="light_feedback_enable_title">Home LED</string>
     <string name="light_feedback_enable_summary">More power consumption</string>
     <string name="accessibility_current_network_speed_title">Current Network Speed</string>
     <string name="drive_mode_title">Drive assistant</string>
@@ -2751,14 +2741,18 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="drive_mode_bluetooth_trigger_category">Bluetooth trigger</string>
     <string name="drive_mode_bluetooth_trigger_title">Start drive mode after specified bluetooth connected</string>
     <string name="drive_mode_bluetooth_devices">Bluetooth device</string>
+    <string name="drive_mode_bluetooth_devices_none">None</string>
     <string name="drive_mode_edittext_title">Reply message</string>
+    <string name="mz_drive_mode_title">Drive assistant started</string>
+    <string name="mz_drive_mode_message">Click to show details</string>
     <string name="sound_category_music_effects">Music effects</string>
     <string name="hifi_title">Hi-Fi</string>
-    <string name="hifi_describe">Hi-Fi Sound adopts top DAC and OPA of 32-bits, and it supports 16/24bits sound source from 44.1K to 192K. Users can choose to adjust the gain or test the earphone impedance so as to provide premium Hi-Fi experience with a wide range of earphones.</string>
+    <string name="hifi_describe">Hi-Fi Sound adopts top DAC and OPA of 32-bits, and it supports 16/24bits sound source from 44.1K to 192K. Users can choose to adjust the gain or test the earphone impedance so as to provide premium Hi-Fi experience with a wide range of earphones. (For earphones with impedance under 20 ohm, low gain is set by default, maximum volume will be adopted in line out and the volume is unadjustable.)</string>
     <string name="hifi_sound_effects_title">Hi-Fi Sound</string>
-    <string name="hifi_valide_with_headset_pluged">Come into effect with earphone plugged in.</string>
+    <string name="hifi_valide_with_headset_pluged">Come into effect with earphone plugged in</string>
     <string name="hifi_on">HiFi on</string>
     <string name="hifi_off">HiFi off</string>
+    <string name="hifi_hint">This feature requires earphone</string>
     <string name="hifi_mode">Hi-Fi mode</string>
     <string name="hifi_auto">Auto</string>
     <string name="hifi_auto_summary">Intelligent match</string>
@@ -2776,14 +2770,17 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="do_not_disturb_notification_content">Check</string>
     <string name="do_not_disturb_notification_title">DND mode enabled</string>
     <string name="do_not_disturb_title">DND mode</string>
-    <string name="do_not_disturb_tips">Mute all incoming calls and SMS without vibrating</string>
+    <string name="do_not_disturb_tips">Shielding all incoming calls and disable sound,vibrate and notification</string>
+    <string name="do_not_disturb_options">Options</string>
     <string name="notification_wakeup_screen">Notification wake up disabled</string>
+    <string name="wakeup_breathing_light">Wakeup breathing light</string>
     <string name="repeat_coming_call_notify">Repeat call alert</string>
     <string name="repeat_coming_call_notify_tips">Contact calls within the same again five minutes from DND restrictions</string>
-    <string name="coming_call_white_list">White list of DND mode</string>
+    <string name="coming_call_white_list">Incoming call White list</string>
     <string name="coming_call_white_list_none">None</string>
     <string name="coming_call_white_list_summary">%d contacts</string>
     <string name="coming_call_white_list_tips">Unlimited calls selected contacts</string>
+    <string name="do_not_disturb_enable_mannully">Enable Manually</string>
     <string name="do_not_disturb_time_category_title">Enable on schedule</string>
     <string name="do_not_disturb_time_switch_title">Enable on schedule</string>
     <string name="do_not_disturb_start_time">Begin</string>
@@ -2797,10 +2794,10 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="b41">B41</string>
     <string name="setband">Set Band</string>
     <string name="blank">NULL</string>
-    <string name="network_state_current">текущая</string>
-    <string name="network_state_forbidden">запрещенная</string>
-    <string name="network_state_available">доступная</string>
-    <string name="network_state_unknow">неизвестная</string>
+    <string name="network_state_current">current</string>
+    <string name="network_state_forbidden">forbidden</string>
+    <string name="network_state_available">available</string>
+    <string name="network_state_unknow">unknow</string>
     <string name="mms">mms</string>
     <string name="smart_voice_wakeup">Smart Voice wakeup</string>
     <string name="smart_voice_wakeup_tips">You can use the command to wakeup the SmartVoice when the screen is off</string>
@@ -2816,6 +2813,17 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="wave_save_toast_limit_tip">Within 10 characters!</string>
     <string name="custom_command_title">Custom command</string>
     <string name="custom_command_summary">custom</string>
+    <string name="smart_touch_title">SmartTouch</string>
+    <string name="smart_touch_tips">Users can achieve return, suspend and other functions by Smart Touch.</string>
+    <string name="smart_touch_switch_title">SmartTouch</string>
+    <string name="smart_touch_category_title">features</string>
+    <string name="smart_touch_behavior_click_title">Click</string>
+    <string name="smart_touch_behavior_doubleclick_title">Double Click</string>
+    <string name="smart_touch_behavior_long_title">Hold</string>
+    <string name="smart_touch_behavior_up_title">Slide Up</string>
+    <string name="smart_touch_behavior_down_title">Slide Down</string>
+    <string name="smart_touch_behavior_left_right_title">Slide Left or Right</string>
+    <string name="smart_touch_opacity">Opacity</string>
     <string name="mz_fp_header_title">Fingerprint and security</string>
     <string name="mz_fp_category_title">Fingerprint identification</string>
     <string name="mz_fp_for_unlock_title">Use as unlock password</string>
@@ -2827,6 +2835,7 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="mz_fp_max_count_tips">Up to 5 fingerprints can be added</string>
     <string name="mz_fp_prefix">Fingerprint %d</string>
     <string name="mz_fp_add_tip_continue">Rest your finger on the Home button</string>
+    <string name="mz_fp_add_tip_summary_head_tips">You can use the fingerprint reader at the bottom of the phone to:Unlock screen,encrypted apps and documents and pay in Flyme account</string>
     <string name="mz_fp_add_tip_summary_head">You can use the fingerprint reader at the bottom of the phone to:</string>
     <string name="mz_fp_add_tip_summary_content">"1. Unlock screen
 2. Unlock encrypted apps and documents
@@ -2847,26 +2856,46 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="mz_fp_verify_succeed">Fingerprint successfully verified</string>
     <string name="mz_fp_verify_failed">"Fingerprints don't match"</string>
     <string name="mz_fp_for_unlock_tip">Fingerprint identification applies to all locked scenarios such as locked screen and encrypted apps and documents</string>
-    <string name="mz_fp_exit_adding_fp_dlg_title">Exit scanning?</string>
-    <string name="mz_fp_exit_adding_fp_dlg_msg">"The fingerprint you scanning cann't not be saved"</string>
+    <string name="mz_fp_exit_adding_fp_dlg_title">Exit scanning</string>
+    <string name="mz_fp_exit_adding_fp_dlg_msg">"The fingerprint you scanning can't be saved"</string>
     <string name="mz_fp_exit_adding_fp_dlg_postive_btn_text">Exit</string>
+    <string name="mz_fp_not_support">This scenario fingerprint is not supported</string>
+    <string name="mz_fp_summary">The fingerprint reader at the bottom of the phone,can be uesed to unlock screen,encrypted apps,documents and pay in Flyme account.</string>
     <string name="flashlight">Flashlight</string>
-    <string name="category_title_other">Другое</string>
+    <string name="category_title_other">Other</string>
     <string name="vertual_home_key">Vertual home key</string>
     <string name="vertual_home_key_tips">Through virtual primary key, you can achieve returns, the screen hover, and so easy to operate the drop-down notification bar</string>
     <string name="home_key_touch">Home key touch</string>
-    <string name="full_scrren_quick_access">Жесты в полноэкр. прил.</string>
-    <string name="full_scrren_quick_access_summary">Раскрытие панели уведомлений и диспетчера задач в полноэкранных приложениях</string>
-    <string name="pref_summary_default_message_is_system_own">Системное</string>
+    <string name="full_scrren_quick_access">Full screen access</string>
+    <string name="full_scrren_quick_access_summary">Using notification bar and multi-task</string>
+    <string name="pref_summary_default_message_is_system_own">System own</string>
     <string name="lock_screen_slide_right_custom">Slide rightward in lock screen</string>
+    <string name="lock_screen_slide_right_select_app_title">Choose start application</string>
     <string name="lock_screen_slide_right_custom_tips">Slide rightward in lock screen can quickstart application</string>
-    <string name="apn_reset">Сброс</string>
-    <string name="show_sf_fps_summary">Отображать surfaceflinger FPS</string>
-    <string name="show_sf_fps">Показывать FPS</string>
-    <string name="clean_rubbish">Очистка мусора</string>
-    <string name="root_allow_title">Allow</string>
-    <string name="root_prompt">%s attempts to acquire root permission.</string>
-    <string name="root_warning">Do NOT accept unless you trust the application. Otherwise, you run the risk of having your data compromised by a malicious software.</string>
+    <string name="apn_reset">RESET</string>
+    <string name="show_sf_fps_summary">Show surfaceflinger FPS</string>
+    <string name="show_sf_fps">Show FPS</string>
+    <string name="clean_rubbish">Clean rubbish</string>
+    <string name="low_dpi_title">Screen saving</string>
+    <string name="low_dpi_off">Close screen saving</string>
+    <string name="low_dpi_on">Open screen saving</string>
+    <string name="low_dpi_tips">By reducing the accuracy of the screen to reduce power consumption, you need to restart</string>
+    <string name="low_dpi_dlg_msg">System would like to restart</string>
+    <string name="wait_to_reboot_msg">Rebooting</string>
+    <string name="hapic_feedback_type">Hapic feedback type</string>
+    <string name="default_theme_name">Default</string>
+    <string name="gsensor_calibrate_text">calibrate acceleration and gyro</string>
+    <string name="gensor_calibrate_tip_text">Place the phone horizontally stationary</string>
+    <string name="enable_cancel_dri_mode_when_bt_discon_str">Disable Driving Mode When the Bluetooth is disconnected</string>
+    <string name="enable_cancel_sleep_mode_when_unlock_str">Cancel Sleep Mode When Unlocking Screen</string>
+    <string name="enable_not_wakeup_screen_str">Forbid Waking Up Screen by Notification</string>
+    <string name="profile_write_failed">Write Tag Failed!</string>
+    <string name="profile_write_success">Write Tag Successfully!</string>
+    <string name="recovery_profile_unlock">Cancel sleep mode when unlocking screen</string>
+    <string name="select_favor_title">Tap to enable or cancel</string>
+    <string name="wlan_write_tag_enable_wifi_summary">You need to connect to Wi-Fi in order to upload something onto the network</string>
+    <string name="nfc_user_guider">User guide</string>
+    <string name="nfc_user_guider_tip">Bluetooth will be turned on or Wlan will be binded during NFC share.</string>
     <string name="wave_wake_keyword_tag">Save voice command</string>
     <string name="wave_wake_keyword_tag_dialog">Input wakeup command</string>
     <string name="wave_wake_acquire_keyword_fail">Fail toacquire wakeup command</string>
@@ -2889,6 +2918,98 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="wave_wake_tip_other_error">Voiceprint input error, please try again</string>
     <string name="wave_wake_save_hint">Command</string>
     <string name="wave_wake_tip_condition">Please input within 10cm to the phone in a quiet surrounding</string>
+    <string name="nfc_quick_toggle_summary_on">On</string>
+    <string name="nfc_quick_toggle_summary_off">Off</string>
+    <string name="nfc_settings">NFC setting</string>
+    <string name="nfc_settings_summary">Set and manage NFC</string>
+    <string name="meizu_beam_settings_title">NFC sharing</string>
+    <string name="meizu_beam_on_summary">Enable it to send files through NFC.</string>
+    <string name="meizu_beam_off_summary">Off</string>
+    <string name="meizu_beam_disabled_summary">Unavailable because NFC is disabled</string>
+    <string name="meizu_beam_label">MEIZU Beam</string>
+    <string name="meizu_beam_explained">"Enable it, hold the phone with another NFC-enabled phone back to back , and then scroll up to share files (including images in the gallery, contacts, web pages and notes).  
+
+ If the connection is established between two Meizu phones, you can share the desktop apps by dragging the desktop app to the status bar. 
+"</string>
+    <string name="meizu_beam_conn">Connection</string>
+    <string name="meizu_beam_conn_explained">Put two phones back to back.</string>
+    <string name="meizu_beam_touch_share">Simple sharing</string>
+    <string name="meizu_beam_touch_share_explained">Put the devices close together and tap thumbnail pictures to share.</string>
+    <string name="meizu_beam_drag_share">Super sharing</string>
+    <string name="meizu_beam_drag_share_explained1">Long press the selected item and drag it to the status bar. This sharing applies only to gallery, videos, documents, notes, recordings and desktop applications.</string>
+    <string name="nfc_contact_info">Contact</string>
+    <string name="nfc_select_contact">Select contact</string>
+    <string name="nfc_write_contact_info">Write Information</string>
+    <string name="nfc_removed_contact_info">Excess tag capaticy cannot be written</string>
+    <string name="nfc_select_contact_title">Contact</string>
+    <string name="nfc_writing_content_msg">Writing, wait a moment...</string>
+    <string name="nfc_data_null_err">The writing data is null, please secelet a contact</string>
+    <string name="nfc_contact_name_too_long_err">"The selected contact's name field is too long, please cut shot it and select again."</string>
+    <string name="nfc_email_removed_msg">"The contact's size is larger than the tag's capaticy, some email fileds will not be written"</string>
+    <string name="nfc_phone_removed_msg">"The contact's size is larger than the tag's capaticy, some phone fileds will not be written"</string>
+    <string name="nfc_email_and_phone_removed_msg">"The contact's size is larger than the tag's capaticy, some email and phone fileds will not be written"</string>
+    <string name="nfc_tag_not_supported">Fail to write. This tag is not supported.</string>
+    <string name="nfc_shortcuts_title">Notification bar display switch</string>
+    <string name="nfc_profile_settings">Items to be Activated</string>
+    <string name="nfc_write_tag_sleep_model">Sleep Mode</string>
+    <string name="nfc_write_tag_meet_model">Meeting Mode</string>
+    <string name="nfc_write_tag_drive_model">Driving Mode</string>
+    <string name="nfc_write_tag_wifi_ap_model">WLAN Networks</string>
+    <string name="nfc_write_tag_wlan_ap_title">WLAN Connection</string>
+    <string name="nfc_write_tag_wlan_ap_pic_summury">Use the back of the phone to write an NFC tag</string>
+    <string name="nfc_write_tag_contacts_model">Contacts</string>
+    <string name="nfc_write_tag_custom_model">Custom Mode</string>
+    <string name="nfc_wlan_write_tage_category">Write to network</string>
+    <string name="nfc_wlan_write_tage_no_network">Please choose a network</string>
+    <string name="nfc_wlan_write_tage_not_config_well">The network is not configured correctly</string>
+    <string name="nfc_write_tag_air_plane_str">AirPlane Mode</string>
+    <string name="nfc_write_tag_soundless_str">Silent</string>
+    <string name="nfc_write_tag_shake_str">Vibrate</string>
+    <string name="nfc_write_tag_mobile_network_str">Mobile Data</string>
+    <string name="nfc_write_tag_wlan_str">WLAN</string>
+    <string name="nfc_write_tag_vpn_str">VPN</string>
+    <string name="nfc_write_tag_bt_str">Bluetooth</string>
+    <string name="nfc_write_tag_gps_str">GPS</string>
+    <string name="nfc_write_tag_gravity_str">Gravity Sensor</string>
+    <string name="nfc_write_tag_notify_title">" Started"</string>
+    <string name="nfc_write_tag_exit_profile">"Exit "</string>
+    <string name="nfc_write_tag_launch_activity">Launch Activity</string>
+    <string name="nfc_write_tag_launch_music">Music</string>
+    <string name="nfc_write_tag_launch_video">Video</string>
+    <string name="nfc_write_tag_launch_browser">Browser</string>
+    <string name="nfc_write_tag_launch_baidumap">Map</string>
+    <string name="nfc_write_tag_launch_none">None</string>
+    <string name="nfc_write_tag_launch_not_installed">Can Not Found</string>
+    <string name="nfc_setting_pref_cato_title">Write NFC Tag</string>
+    <string name="nfc_setting_custom_edit_name_hint">Type The Name of Mode</string>
+    <string name="nfc_setting_custom_edit_name_title">Mode Name</string>
+    <string name="nfc_setting_custom_edit_name_duplicat">" Already Exist"</string>
+    <string name="nfc_custom_mode_not_init">Custom mode has not been set</string>
+    <string name="nfc_write_tag_prompt_not_change">These settings are only available when tags are read</string>
+    <string name="nfc_tag_profile_exit">Disable %1$s?</string>
+    <string name="nfc_tag_profile_exit_prompt">Click to exit</string>
+    <string name="nfc_tag_enter_profile_tst_msg">Read tag successfully，enter %1$s</string>
+    <string name="nfc_tag_sel_app_none">None</string>
+    <string name="nfc_wlan_ap_connected">already connected</string>
+    <string name="nfc_se_settings">Security module position</string>
+    <string name="nfc_ese">Mobile embedded security modules</string>
+    <string name="nfc_sim_se">SIM card security mode</string>
+    <string name="nfc_se_td_tips">The SIM card security module is needed when the mobile wallet of SIM card is swiped. Others swiping card need to use the mobile embedded security module.</string>
+    <string name="nfc_se_w_tips">The SIM card security module is needed when the mobile wallet of SIM card is swiped. Others swiping card need to use the mobile embedded security module.</string>
+    <string name="nfc_drive_mode_title">Drive assistant</string>
+    <string name="nfc_drive_mode_incall_voice">Read incoming call numbers</string>
+    <string name="nfc_drive_mode_inmsg_voice">Read new messages</string>
+    <string name="nfc_drive_mode_msg_reply_title">Send message after rejecting an incoming call</string>
+    <string name="nfc_drive_mode_msg_reply_content">Driving now, not convenient to answer your call</string>
+    <string name="nfc_drive_mode_autoplay_music">Play music automatically</string>
+    <string name="nfc_notification_wakeup_screen">Notification wake up disabled</string>
+    <string name="nfc_repeat_coming_call_notify">Repeat call alert</string>
+    <string name="nfc_repeat_coming_call_notify_tips">Contact calls within the same again five minutes from DND restrictions</string>
+    <string name="nfc_coming_call_white_list">Incoming call White list</string>
+    <string name="nfc_coming_call_white_list_summary">%d contacts</string>
+    <string name="nfc_coming_call_white_list_tips">Unlimited calls selected contacts</string>
+    <string name="no_pay_apps">No payment apps</string>
+    <string name="select_favourite_app">Choose a payment app</string>
     <string name="mz_numeric_date_format_ymd">yyyy/M/d, EEE</string>
     <string name="mz_numeric_date_format_ydm">yyyy/d/M, EEE</string>
     <string name="mz_numeric_date_format_mdy">EEE, M/d/yyyy</string>
@@ -3011,4 +3132,6 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="mc_is_Refreshing">Refreshing</string>
     <string name="mc_go_Refreshing">Go refresh</string>
     <string name="mc_selectionbutton_all">All</string>
+    <string name="mc_search">Search</string>
+    <string name="mc_time_picker_leap">Leap</string>
 </resources>
