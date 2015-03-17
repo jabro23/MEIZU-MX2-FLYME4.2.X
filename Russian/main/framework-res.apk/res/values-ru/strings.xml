@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cancel">Отмена</string>
-    <string name="copy">Копировать</string>
-    <string name="copyUrl">Копировать URL</string>
-    <string name="cut">Вырезать</string>
+    <string name="copy">Копир.</string>
+    <string name="copyUrl">Копир. URL</string>
+    <string name="cut">Вырез.</string>
     <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="emptyPhoneNumber">(Нет номера телефона)</string>
@@ -11,9 +11,9 @@
     <string name="httpErrorUnsupportedScheme">Протокол не поддерживается</string>
     <string name="no">Отмена</string>
     <string name="ok">ОК</string>
-    <string name="paste">Вставить</string>
+    <string name="paste">Встав.</string>
     <string name="search_go">Поиск</string>
-    <string name="selectAll">Выбрать все</string>
+    <string name="selectAll">Выбр.всё</string>
     <string name="unknownName">(Неизвестно)</string>
     <string name="untitled">&lt;Без названия></string>
     <string name="VideoView_error_button">ОК</string>
@@ -22,7 +22,7 @@
     <string name="yes">ОК</string>
     <string name="dialog_alert_title">Внимание</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Это видео не предназначено для потокового воспроизведения на данном устройстве.</string>
-    <string name="selectTextMode">Выбрать текст</string>
+    <string name="selectTextMode">Выбр.</string>
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
     <string name="month_day_year" formatted="false">%-e %B %Y г.</string>
@@ -155,7 +155,7 @@
     <string name="no_recent_tasks">Нет недавних приложений</string>
     <string name="global_actions">Параметры телефона</string>
     <string name="global_action_lock">Блокировка экрана</string>
-    <string name="global_action_power_off">Отключить питание</string>
+    <string name="global_action_power_off">Выключить</string>
     <string name="global_action_bug_report">Отчет об ошибке</string>
     <string name="bugreport_title">Создание отчета об ошибке</string>
     <string name="bugreport_message">Информация о текущем состоянии вашего устройства будет собрана и отправлена по электронной почте. Подготовка отчета займет некоторое время.</string>
@@ -1067,8 +1067,8 @@
     <string name="dlg_confirm_kill_storage_users_text">При подключении USB-накопителя некоторые приложения могут прекратить работу и оставаться недоступными до его отключения.</string>
     <string name="dlg_error_title">Ошибка при подключении USB</string>
     <string name="dlg_ok">ОК</string>
-    <string name="usb_mtp_notification_title">Подключен как устройство хранения данных</string>
-    <string name="usb_ptp_notification_title">Подключен как камера</string>
+    <string name="usb_mtp_notification_title">USB хранение данных</string>
+    <string name="usb_ptp_notification_title">USB камера</string>
     <string name="usb_cd_installer_notification_title">Подключен как установщик</string>
     <string name="usb_accessory_notification_title">USB-устройство подключено</string>
     <string name="usb_notification_message">Нажмите, чтобы открыть список опций.</string>
@@ -1150,7 +1150,7 @@
     <string name="submit">Отправить</string>
     <string name="car_mode_disable_notification_title">Включен режим \"Штурман\"</string>
     <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь.</string>
-    <string name="tethered_notification_title">USB-модем/точка доступа Wi-Fi используется</string>
+    <string name="tethered_notification_title">USB-модем/точка доступа Wi-Fi</string>
     <string name="tethered_notification_message">Нажмите для настройки</string>
     <string name="back_button_label">Назад</string>
     <string name="next_button_label">Далее</string>
@@ -1608,13 +1608,13 @@
     <string name="w_call_log_c">Изменять историю вызовов</string>
     <string name="d_call_log">Удалять историю вызовов</string>
     <string name="d_call_log_c">Удалять историю вызовов</string>
-    <string name="r_sms">Чтение SMS</string>
+    <string name="r_sms">Читать SMS</string>
     <string name="r_sms_c">Читать ваши SMS</string>
     <string name="w_sms">Изменять историю SMS</string>
     <string name="w_sms_c">Изменять входящие SMS</string>
     <string name="d_sms">Удалять историю SMS</string>
     <string name="d_sms_c">Удалять входящие SMS</string>
-    <string name="r_mms">Чтение MMS</string>
+    <string name="r_mms">Читать MMS</string>
     <string name="r_mms_c">Читать ваши MMS</string>
     <string name="w_mms">Изменять историю MMS</string>
     <string name="w_mms_c">Изменять входящие MMS</string>
@@ -1630,8 +1630,8 @@
     <string name="op_imei_c">Получить ID телефона</string>
     <string name="op_setting">Настройки</string>
     <string name="op_setting_c">Изменять системные настройки</string>
-    <string name="usb_mtp_summary">Передача медиафайлов на ПК</string>
-    <string name="usb_ptp_summary">Передача изображений на ПК</string>
+    <string name="usb_mtp_summary">Передача файлов на ПК</string>
+    <string name="usb_ptp_summary">Передача фото на ПК</string>
     <string name="nfc_activity_not_found_err">NFC-передача не активна</string>
     <string name="vpn_no_network">Отсутствует сетевое подключение, повторите позже.</string>
     <string name="vpn_can_not_load_credential">Отсутствует сертификат</string>
@@ -1706,4 +1706,9 @@
     <string name="pattern_day_month_year" formatted="false">%-e/%-m/%Y</string>
     <string name="pattern_day_month_year_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
     <string name="pattern_day_month_year_hour_minute_12" formatted="false">%-e/%-m/%Y %p %I:%M</string>
+    <string name="tethered_notification_title_one_device">Интернет раздаётся %1$d устройству</string>
+    <string name="tethered_notification_title_devices">Интернет раздаётся %1$d устройствам</string>
+    <string name="recommend_search_mstore">Поиск в AppCenter</string>
+    <string name="recommend_search_gooleplay">Поиск %s</string>
+    <string name="recommend_open_mstore_faile">Ошибка при открытии AppCenter</string>
 </resources>
