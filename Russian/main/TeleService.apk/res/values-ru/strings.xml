@@ -685,7 +685,7 @@
     <string name="auto_record_summary">Когда не отвечаю</string>
     <string name="voice_email_closed">Отключено</string>
     <string name="toast_set_voicemail_fail">Ошибка настройки</string>
-    <string name="flyme_settings_title">Flyme Связь</string>
+    <string name="flyme_settings_title">Flyme-соединение</string>
     <string name="record_status_category_title">Настройки записи</string>
     <string name="record_pref_title">Автозапись разговоров</string>
     <string name="record_object_title">Объекты записи вызовов</string>
