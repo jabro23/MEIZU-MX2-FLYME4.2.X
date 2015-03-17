@@ -766,7 +766,7 @@
     <string name="mc_pm_recordaudio_phone">Записи разговоров</string>
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
     <string name="mc_pm_open">Открыть</string>
-    <string name="mc_pm_close">Закрыть</string>
+    <string name="mc_pm_close">Отключена</string>
     <string name="mc_pm_allow_check_app">Разрешить</string>
     <string name="mc_pm_not_allow_check_app">Запретить</string>
     <string name="mc_pm_dlg_ok">ОК</string>
