@@ -334,8 +334,8 @@
         <item>ART (отладка)</item>
     </string-array>
     <string-array name="select_runtime_summaries">
-        <item>Использовать Dalvik</item>
-        <item>Использовать ART</item>
+        <item>Dalvik</item>
+        <item>ART</item>
         <item>Использовать отладочную версию ART</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
@@ -389,21 +389,21 @@
         <item>Список вызовов в glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Откл.</item>
-        <item>Непрямоугольное усечение синим</item>
-        <item>Тест. команды рисования зеленым</item>
+        <item>Выкл</item>
+        <item>Усечение синим</item>
+        <item>Рисование зелёным</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Отключить</item>
+        <item>Выкл</item>
         <item>На экране в виде полос</item>
         <item>На экране в виде линий</item>
         <item>В adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>ВЫКЛ</item>
-        <item>Показывать области наложения</item>
-        <item>Выделять области определенного цвета</item>
-        <item>Показывать число объектов</item>
+        <item>Выкл</item>
+        <item>Области наложения</item>
+        <item>Области опред. цвета</item>
+        <item>Число объектов</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Стандарт</item>
@@ -476,7 +476,7 @@
         <item>очень низкий</item>
     </string-array>
     <string-array name="entries_meizu_app_font_size">
-        <item>Small</item>
+        <item>Мелкий</item>
         <item>Обычный</item>
         <item>Средний</item>
         <item>Крупный</item>
@@ -498,46 +498,46 @@
         <item>Приоритет 4G</item>
     </string-array>
     <string-array name="home_key_behavior_entries">
-        <item>Активация голосом</item>
+        <item>Откр. Smart Voice</item>
         <item>Выключить экран</item>
     </string-array>
     <string-array name="home_key_touch_entries">
         <item>Не отвечает</item>
         <item>Назад</item>
-        <item>На десктоп</item>
+        <item>На раб.стол</item>
     </string-array>
     <string-array name="smart_touch_behavior_click_entries">
         <item>Назад</item>
-        <item>Выкл.</item>
+        <item>Выкл</item>
     </string-array>
     <string-array name="smart_touch_behavior_doubleclick_entries">
-        <item>Потянуть вниз</item>
-        <item>Панель уведомлений</item>
-        <item>Блокировка экрана</item>
-        <item>Диспетчер задач</item>
-        <item>Выкл.</item>
+        <item>Сдвинуть экр. вниз</item>
+        <item>Опустить шторку</item>
+        <item>Заблок. экран</item>
+        <item>Откр. дисп. задач</item>
+        <item>Выкл</item>
     </string-array>
     <string-array name="smart_touch_behavior_long_entries">
-        <item>Перем.</item>
-        <item>Выкл.</item>
+        <item>Перем. кнопку</item>
+        <item>Выкл</item>
     </string-array>
     <string-array name="smart_touch_behavior_up_entries">
-        <item>Блокировка экрана</item>
-        <item>Завершить текущую задачу</item>
-        <item>Переключение между задачами</item>
-        <item>Возврат на десктоп</item>
-        <item>Выкл.</item>
+        <item>Заблок. экран</item>
+        <item>Закр. текущее прил.</item>
+        <item>Перекл. прилож.</item>
+        <item>На раб.стол</item>
+        <item>Выкл</item>
     </string-array>
     <string-array name="smart_touch_behavior_down_entries">
-        <item>Потянуть вниз</item>
-        <item>Панель уведомлений</item>
-        <item>Блокировка экрана</item>
-        <item>Завершить текущую задачу</item>
-        <item>Выкл.</item>
+        <item>Сдвинуть экр. вниз</item>
+        <item>Опустить шторку</item>
+        <item>Заблок. экран</item>
+        <item>Закр. текущее прил.</item>
+        <item>Выкл</item>
     </string-array>
     <string-array name="smart_touch_behavior_left_right_entries">
-        <item>Переключение между задачами</item>
-        <item>Выкл.</item>
+        <item>Перекл. прилож.</item>
+        <item>Выкл</item>
     </string-array>
     <string-array name="blur_effect_entries">
         <item>Высокое</item>
