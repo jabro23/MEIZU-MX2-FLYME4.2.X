@@ -34,7 +34,7 @@
     <string name="puk_unlocked">SIM-карта разблокирована. Осуществляется разблокировка телефона...</string>
     <string name="label_ndp">PIN для разблокировки сети SIM-карты</string>
     <string name="sim_ndp_unlock_text">Разблокировать</string>
-    <string name="sim_ndp_dismiss_text">Выкл.</string>
+    <string name="sim_ndp_dismiss_text">Выкл</string>
     <string name="requesting_unlock">Запрос разблокировки сети...</string>
     <string name="unlock_failed">Запрос на разблокировку сети не выполнен.</string>
     <string name="unlock_success">Разблокировка сети успешно завершена.</string>
@@ -422,7 +422,7 @@
     <string name="progress_dialog_exiting_ecm">Выход из режима экстренных обратных вызовов</string>
     <string name="alert_dialog_yes">Да</string>
     <string name="alert_dialog_no">Нет</string>
-    <string name="alert_dialog_dismiss">Выкл.</string>
+    <string name="alert_dialog_dismiss">Выкл</string>
     <string name="voicemail_provider">Служба</string>
     <string name="voicemail_settings">Настройка</string>
     <string name="voicemail_number_not_set">&lt;Не задано></string>
@@ -460,7 +460,7 @@
     <string name="sip_menu_discard">Отменить</string>
     <string name="alert_dialog_close">Закройте профиль</string>
     <string name="alert_dialog_ok">ОК</string>
-    <string name="close_profile">Выкл.</string>
+    <string name="close_profile">Отключена</string>
     <string name="primary_account_summary_with">Основной аккаунт. %s</string>
     <string name="registration_status_checking_status">Проверка состояния...</string>
     <string name="registration_status_registering">Регистрация...</string>
@@ -546,12 +546,12 @@
     <string name="preference_category_ringtone">Рингтон и вибросигнал</string>
     <string name="incomingcall_settings_title">Входящий</string>
     <string name="misccall_settings_title">Другие</string>
-    <string name="vibrate_on_connected_toggle_title">Вибрация при соединении</string>
-    <string name="vibrate_on_connected_toggle_summary">Вибрация при соединении с абонентом</string>
+    <string name="vibrate_on_connected_toggle_title">Вибрировать при соединении</string>
+    <string name="vibrate_on_connected_toggle_summary">Вибрировать при соединении с абонентом</string>
     <string name="toggle_auto_insert_prefix_title">Автопостановка префикса</string>
-    <string name="toggle_auto_insert_prefix_summary">Долгое удержание номера для автопостановки префикса</string>
+    <string name="toggle_auto_insert_prefix_summary">Долгое нажатие клавиши набора для автоматического добавления префикса IP</string>
     <string name="toggle_auto_insert_prefix">Нажать для автопостановки префикса</string>
-    <string name="labelBtnInsertPrefixNumber">Префикс IP</string>
+    <string name="labelBtnInsertPrefixNumber">Префикс IP номера</string>
     <string name="auto_record_when_calling_title">Запись вызова</string>
     <string name="auto_record_when_calling_summary">Не работает при использовании Bluetooth-гарнитуры</string>
     <string name="epnp_disableallcf">Отключить всю переадресацию</string>
@@ -686,7 +686,7 @@
     <string name="voice_email_closed">Отключено</string>
     <string name="toast_set_voicemail_fail">Ошибка настройки</string>
     <string name="flyme_settings_title">Flyme Связь</string>
-    <string name="record_status_category_title">Статус записи</string>
+    <string name="record_status_category_title">Настройки записи</string>
     <string name="record_pref_title">Автозапись разговоров</string>
     <string name="record_object_title">Объекты записи вызовов</string>
     <string name="record_object_summary">%d контактов</string>
