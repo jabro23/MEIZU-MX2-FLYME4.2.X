@@ -169,8 +169,8 @@
     <dimen name="recent_cell_name_margin_bottom">25.399994dip</dimen>
     <dimen name="recent_cell_lock_margin_top">32.0dip</dimen>
     <dimen name="floattouch_optimizeWhenBoundary">12.0dip</dimen>
-    <dimen name="floattouch_show_width">60.0dip</dimen>
-    <dimen name="floattouch_show_height">55.0dip</dimen>
+    <dimen name="floattouch_show_width">65.0dip</dimen>
+    <dimen name="floattouch_show_height">60.0dip</dimen>
     <dimen name="mz_slidingmenu_menu_width">256.0dip</dimen>
     <dimen name="mz_card_list_item_padding_left">0.0dip</dimen>
     <dimen name="mz_card_list_item_padding_right">0.0dip</dimen>
