@@ -576,9 +576,9 @@ Try again or call customer service for more options."</string>
     <string name="dial_pad_autocomplete">Dial pad autocomplete</string>
     <string name="preference_category_ringtone">Ringtone &amp; Vibrate</string>
     <string name="call_settings_title_font_family">sans-serif-light</string>
-    <string name="incomingcall_settings_title">Incoming calls</string>
+    <string name="incomingcall_settings_title">Входящий вызов</string>
     <string name="misccall_settings_title">Others</string>
-    <string name="vibrate_on_connected_toggle_title">Vibrate on connection</string>
+    <string name="vibrate_on_connected_toggle_title">Вибрация при соединении</string>
     <string name="vibrate_on_connected_toggle_summary">Vibrate when call is connected</string>
     <string name="toggle_auto_insert_prefix_title">Auto-add prefix/IP number</string>
     <string name="toggle_auto_insert_prefix_summary">Hold Call to auto-add prefix/IP number</string>
@@ -653,7 +653,7 @@ Try again or call customer service for more options."</string>
     <string name="network">Networks</string>
     <string name="settings">Settings</string>
     <string name="auto_record_title">Voice messages</string>
-    <string name="call_title">Dial</string>
+    <string name="call_title">Исходящий вызов</string>
     <string name="sip_call">Internet telephone</string>
     <string name="onscreenRecordText">Record</string>
     <string name="onscreenRecordNumTextHint">Record Numbers</string>
@@ -686,8 +686,8 @@ Try again or call customer service for more options."</string>
 flyme message and file transfer、contact
  synchronization"</string>
     <string name="flyme_button_open_warning">Mobile Network data traffic generated</string>
-    <string name="contact_title">Accounts and Contacts</string>
-    <string name="account_title">Accounts and Contacts Management</string>
+    <string name="contact_title">Аккаунты и контакты</string>
+    <string name="account_title">Управл. аккаунтами и контактами</string>
     <string name="prior_select_network">Prior Selected Network</string>
     <string name="network_index">Network Index</string>
     <string name="network_name">Network Name</string>
@@ -710,8 +710,8 @@ flyme message and file transfer、contact
     <string name="store">store</string>
     <string name="quit">quit</string>
     <string name="add">add</string>
-    <string name="auto_record_all">All calls</string>
-    <string name="auto_record_specify">Specify the contact</string>
+    <string name="auto_record_all">Все вызовы</string>
+    <string name="auto_record_specify">Отдельные контакты</string>
     <string name="puk2_left_count">Remaining time</string>
     <string name="puk2_requested_new">Enter PUK2 to change PIN2.</string>
     <string name="sms_fast_reply">Drag upward for Quick Reply</string>
@@ -722,7 +722,7 @@ flyme message and file transfer、contact
     <string name="respond_via_sms_canned_response_meizu_3">"Can't talk now. Call me later?"</string>
     <string name="lable_call_barring">Call barring</string>
     <string name="auto_record_summary">Enable when no answer</string>
-    <string name="voice_email_closed">Turned off</string>
+    <string name="voice_email_closed">Отключена</string>
     <string name="toast_set_voicemail_fail">Setup fails</string>
     <string name="flyme_settings_title">Flyme Communications</string>
     <string name="record_status_category_title">Recording status</string>
@@ -730,8 +730,8 @@ flyme message and file transfer、contact
     <string name="record_object_title">Recording call objects</string>
     <string name="record_object_summary">%d contacts</string>
     <string name="lable_not_available">"App isn't installed"</string>
-    <string name="notification_filter">filter</string>
-    <string name="notification_delete">delete</string>
+    <string name="notification_filter">Фильтр</string>
+    <string name="notification_delete">Очистить</string>
     <string name="flyme_settings_open">open</string>
     <string name="flyme_settings_close">close</string>
     <string name="msg_guest_mode_toast">Message app not available in Guset Mode</string>
