@@ -1302,7 +1302,7 @@ Put ringtone files into /SDcard/Music or SDcard/Ringtones"</string>
     <string name="add_number_to_spam">Add number to spam</string>
     <string name="delete_number_from_spam">Delete number from spam</string>
     <string name="menu_next">next</string>
-    <string name="import_contacts_text_one">"1. Включите Bluetooth на другом устройстве"</string>
+    <string name="import_contacts_text_one">1. Включите Bluetooth на другом устройстве</string>
     <string name="import_contacts_text_one_first">•На Android устройствах Bluetooth обычно находится в разделе настроек беспроводных сетей</string>
     <string name="import_contacts_text_one_second">•На IOS устройствах со старой версией ПО, Bluetooth можно найти в разделе «основных» настроек</string>
     <string name="import_contacts_text_two">2. Включите обнаружение по Bluetooth</string>
@@ -1312,7 +1312,7 @@ Put ringtone files into /SDcard/Music or SDcard/Ringtones"</string>
     <string name="bluetooth_tips_one">Пожалуйста, держите устройства как можно ближе, во избежание разрыва Bluetooth соединения.</string>
     <string name="stop_trans_string">Остановить передачу</string>
     <string name="import_contact_fail">Ошибка импорта</string>
-    <string name="import_fail_tips_one">"Не удалось импортировать контакты по Bluetooth, вы можете попробовать импорт с SIM карты"</string>
+    <string name="import_fail_tips_one">Не удалось импортировать контакты по Bluetooth, вы можете попробовать импорт с SIM карты</string>
     <string name="import_contacts_from_sim">Импорт контактов с SIM карты</string>
     <string name="transporting">Приём...</string>
     <string name="import_finish">Импорт завершён</string>
