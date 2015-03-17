@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="status_bar_edge_ignore">5.0dip</dimen>
+    <dimen name="status_bar_status_label_max_width">150.0dip</dimen>
+    <dimen name="status_bar_status_label_max_width_operator">185.0dip</dimen>
+    <dimen name="status_bar_status_label_max_width_lid_closed_common">150.0dip</dimen>
+    <dimen name="status_bar_status_label_max_width_lid_closed_chinamobile">140.0dip</dimen>
+    <dimen name="status_bar_status_label_max_width_lid_closed_chinaunicom">125.0dip</dimen>
     <dimen name="status_bar_recents_app_icon_max_width">48.0dip</dimen>
     <dimen name="status_bar_recents_app_icon_max_height">48.0dip</dimen>
     <dimen name="status_bar_recents_thumbnail_width">164.0dip</dimen>
@@ -135,7 +140,7 @@
     <dimen name="notification_header_height">32.0dip</dimen>
     <dimen name="mz_recent_height">137.5dip</dimen>
     <dimen name="notification_divider_width">350.0dip</dimen>
-    <dimen name="mz_recent_icon_size">52.0dip</dimen>
+    <dimen name="mz_recent_icon_size">60.0dip</dimen>
     <dimen name="horizon_padding_portrait">4.75dip</dimen>
     <dimen name="horizon_padding_landscape">10.5dip</dimen>
     <dimen name="vertical_padding">2.5dip</dimen>
@@ -144,7 +149,7 @@
     <dimen name="recent_item_width">89.0dip</dimen>
     <dimen name="recent_celll_layout_padding">14.0dip</dimen>
     <dimen name="mz_third_icon_size">52.0dip</dimen>
-    <dimen name="holster_mode_statusbar_padding">44.75dip</dimen>
+    <dimen name="holster_mode_statusbar_padding">36.0dip</dimen>
     <dimen name="mz_recent_icon_text_size">5.0sp</dimen>
     <dimen name="dlg_view_fp_text_size">14.0sp</dimen>
     <dimen name="dlg_view_checkbox_text_size">16.0sp</dimen>
@@ -159,9 +164,13 @@
     <dimen name="recent_cell_padding_right_port">20.0dip</dimen>
     <dimen name="recent_cell_padding_left_land">0.0dip</dimen>
     <dimen name="recent_cell_padding_right_land">20.0dip</dimen>
+    <dimen name="recent_cell_layout_margin_left">-10.0dip</dimen>
+    <dimen name="recent_cell_lock_margin_right">0.0dip</dimen>
+    <dimen name="recent_cell_name_margin_bottom">25.399994dip</dimen>
+    <dimen name="recent_cell_lock_margin_top">32.0dip</dimen>
     <dimen name="floattouch_optimizeWhenBoundary">12.0dip</dimen>
-    <dimen name="floattouch_show_width">65.0dip</dimen>
-    <dimen name="floattouch_show_height">60.0dip</dimen>
+    <dimen name="floattouch_show_width">60.0dip</dimen>
+    <dimen name="floattouch_show_height">55.0dip</dimen>
     <dimen name="mz_slidingmenu_menu_width">256.0dip</dimen>
     <dimen name="mz_card_list_item_padding_left">0.0dip</dimen>
     <dimen name="mz_card_list_item_padding_right">0.0dip</dimen>
@@ -242,14 +251,18 @@
     <dimen name="mz_preference_seekbar_padding_left">28.0dip</dimen>
     <dimen name="mz_preference_seekbar_padding_right">28.0dip</dimen>
     <dimen name="mz_preference_list_popup_padding_right">14.0dip</dimen>
+    <dimen name="mz_preference_list_popup_item_padding_left">28.0dip</dimen>
+    <dimen name="mz_preference_list_popup_item_padding_right">21.0dip</dimen>
     <dimen name="mz_text_size_normal">16.0sp</dimen>
     <dimen name="mz_text_size_large">22.0sp</dimen>
     <dimen name="mz_text_size_medium">18.0sp</dimen>
     <dimen name="mz_text_size_small">14.0sp</dimen>
-    <dimen name="mz_preferencefragment_category_margin_top">10.0dip</dimen>
-    <dimen name="mz_preferencefragment_margin_top">15.0dip</dimen>
+    <dimen name="mz_preferencefragment_category_margin_top">15.0dip</dimen>
+    <dimen name="mz_preferencefragment_margin_top">20.0dip</dimen>
     <dimen name="mz_preference_icon_width_normal">40.0dip</dimen>
     <dimen name="mz_preference_icon_height_normal">40.0dip</dimen>
+    <dimen name="mz_popup_menu_item_min_width">232.0dip</dimen>
+    <dimen name="mz_popup_menu_item_height">48.0dip</dimen>
     <dimen name="mc_activity_horizontal_margin">16.0dip</dimen>
     <dimen name="mc_activity_vertical_margin">16.0dip</dimen>
     <dimen name="mc_empty_image_top_port">147.6dip</dimen>
@@ -258,6 +271,15 @@
     <dimen name="mc_empty_tips_top_land">12.0dip</dimen>
     <dimen name="mc_empty_tips_text_size_dark">18.0sp</dimen>
     <dimen name="mc_empty_tips_text_size_light">18.0sp</dimen>
+    <dimen name="mc_date_picker_normal_lunar_size">16.0sp</dimen>
+    <dimen name="mc_date_picker_selected_lunar_size">20.0sp</dimen>
+    <dimen name="mc_custom_time_picker_height">150.0dip</dimen>
+    <dimen name="mc_custom_time_picker_unit_margin_l">24.5dip</dimen>
+    <dimen name="mc_custom_time_picker_unit_w">37.0dip</dimen>
+    <dimen name="mc_custom_time_picker_padding">17.0dip</dimen>
+    <dimen name="mc_custom_time_picker_padding_land">28.0dip</dimen>
+    <dimen name="mc_custom_time_picker_select_h_land">41.599976dip</dimen>
+    <dimen name="mc_custom_time_picker_select_h">59.599976dip</dimen>
     <dimen name="mc_picker_normal_number_size">18.0sp</dimen>
     <dimen name="mc_picker_selected_number_size">22.0sp</dimen>
     <dimen name="mc_picker_unselected_ampm_size">14.0sp</dimen>
@@ -401,6 +423,7 @@
     <dimen name="mc_pullRefresh_textsize">14.0dip</dimen>
     <dimen name="mc_pullRefresh_textmargintop">15.0dip</dimen>
     <dimen name="mc_pullRefresh_paintoffset">1.0dip</dimen>
+    <dimen name="mc_drawable_tip_radius">2.5dip</dimen>
     <dimen name="mc_search_icon_width">20.0dip</dimen>
     <dimen name="mc_search_icon_margin_left">10.0dip</dimen>
     <dimen name="mc_search_edit_margin_left">39.0dip</dimen>
@@ -413,4 +436,8 @@
     <dimen name="mc_search_margin_right">67.0dip</dimen>
     <dimen name="mc_search_margin_right_land">100.5dip</dimen>
     <dimen name="mc_search_margin_right_land_none">77.5dip</dimen>
+    <dimen name="mc_drawerscaledrawable_path_thickness">2.5dip</dimen>
+    <dimen name="mc_drawerscaledrawable_path_distance">4.0dip</dimen>
+    <dimen name="mc_drawerscaledrawable_path_length">9.0dip</dimen>
+    <dimen name="mc_drawerscaledrawable_path_min_length">4.0dip</dimen>
 </resources>
