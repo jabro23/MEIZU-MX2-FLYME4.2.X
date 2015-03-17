@@ -693,8 +693,8 @@
     <string name="lable_not_available">Приложение не установлено</string>
     <string name="notification_filter">Фильтр</string>
     <string name="notification_delete">Удалить</string>
-    <string name="flyme_settings_open">Вкл.</string>
-    <string name="flyme_settings_close">Выкл.</string>
+    <string name="flyme_settings_open">Включено</string>
+    <string name="flyme_settings_close">Отключено</string>
     <string name="msg_guest_mode_toast">Сообщения недоступны в гостевом режиме</string>
     <string name="mz_date_time_month">м</string>
     <string name="mz_date_time_year">г</string>
