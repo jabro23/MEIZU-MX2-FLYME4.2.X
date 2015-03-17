@@ -20,6 +20,7 @@
     <string name="alarm_alert_snooze_set">Отсрочка будильника на %d мин.</string>
     <string name="alarm_alert_snooze_stop">Будильник %d временно отключен</string>
     <string name="alarm_alert_snooze_text">Дремать</string>
+    <string name="alarm_boot">Телефон будет включен!</string>
     <string name="alarm_clock">Будильник</string>
     <string name="alarm_delete">Удалить</string>
     <string name="alarm_dismissed">Отключено</string>
@@ -62,15 +63,19 @@
     <string name="early_for_hour_and_minute">%1$s ч. %2$s м. ранее</string>
     <string name="edit_timer_event">Изменить</string>
     <string name="every_day">Ежедневно</string>
-    <string name="flyme_music_dir">Моя музыка</string>
+    <string name="flyme_music_dir">Flyme music</string>
     <string name="friday">ПТ</string>
     <string name="friday_l">ПТН</string>
     <string name="go_on">Продолжить</string>
     <string name="hour">1 час</string>
     <string name="hours">%s ч.</string>
+    <string name="keyguard_alarm_delay_fifteen">Напомнить через 15 мин</string>
+    <string name="keyguard_alarm_delay_five">Напомнить через 5 мин</string>
+    <string name="keyguard_alarm_delay_ten">Напомнить через 10 мин</string>
+    <string name="keyguard_alarm_delay_thirty">Напомнить через 30 мин</string>
     <string name="keyguard_alarm_press_to_delay">Нажать для напоминания позднее</string>
-    <string name="keyguard_alarm_stop_alarm">↑ Выключить будильник</string>
-    <string name="label">Название</string>
+    <string name="keyguard_alarm_stop_alarm">Выключить будильник</string>
+    <string name="label">Ярлык</string>
     <string name="lap">Круг</string>
     <string name="late_for_hour">%1s ч. позднее</string>
     <string name="late_for_hour_and_minute">%1$s ч. %2$s м. позднее</string>
@@ -92,7 +97,9 @@
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_every_day">Ежедневно</string>
     <string name="mc_friday">ПТ</string>
+    <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_hour">Час.</string>
+    <string name="mc_is_Refreshing">Обновление</string>
     <string name="mc_minute">Мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Единожды</string>
@@ -100,7 +107,16 @@
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %p %I:%M</string>
     <string name="mc_pattern_today">Сегодня</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %p %I:%M</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %p %I:%M</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %2$s, %3$d разрешений</string>
@@ -132,8 +148,10 @@
     <string name="mc_pm_set_gprs_on">Включить передачу данных</string>
     <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
     <string name="mc_pm_wlan">Wi-Fi</string>
+    <string name="mc_pull_refresh">Вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
     <string name="mc_saturday">СБ</string>
+    <string name="mc_search">Поиск</string>
     <string name="mc_second">Сек.</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
@@ -143,8 +161,8 @@
     <string name="mc_working_day">Рабочие дни</string>
     <string name="mc_yes">ОК</string>
     <string name="meizu_ringtone_broken_toast">Аудиофайл не распознан</string>
-    <string name="message_ringtong_picker">Поместите рингтон в папку \"Storage/ Ringtones\"</string>
-    <string name="message_ringtong_picker_flyme">Поместите рингтон в папку \"Storage/Music\"</string>
+    <string name="message_ringtong_picker">Поместите файл рингтона в\"Диск/Ringtones\"в проводнике</string>
+    <string name="message_ringtong_picker_flyme">Поместите файл рингтона в\"Диск/Музыка\"в проводнике</string>
     <string name="message_ringtong_picker_no_file">Файлов не найдено</string>
     <string name="minute">1 мин.</string>
     <string name="minutes">%s мин.</string>
@@ -207,6 +225,7 @@
     <string name="ok_text">ОК</string>
     <string name="pause">Пауза</string>
     <string name="quick_count_time">Быстрый таймер</string>
+    <string name="random_play_music">Вперемешку</string>
     <string name="reset">Сброс</string>
     <string name="ringtone_custom_tip">Пользовательский рингтон</string>
     <string name="saturday">СБ</string>
@@ -261,7 +280,7 @@
     <string name="timer_alert">Звук таймера</string>
     <string name="timer_alert_name_default">По умолчанию</string>
     <string name="timer_alert_name_text_default">по умолч.</string>
-    <string name="timer_alert_new">Звук</string>
+    <string name="timer_alert_new">Звук:</string>
     <string name="timer_alert_title">Сигнал окончания таймера</string>
     <string name="timer_delete">Удалить</string>
     <string name="timer_edit">Правка</string>
@@ -288,12 +307,7 @@
     <string name="weekend">Выходные</string>
     <string name="working_day">Рабочие дни</string>
     <string name="world_clock_add">Добавить</string>
-    <string name="world_clock_long_click_tip">Удерживайте здесь для перемещения или удаления</string>
+    <string name="world_clock_long_click_tip">Используйте долгое нажатие для перемещения/удаления часов</string>
     <string name="world_clock_single_add_tip">Нажмите здесь для добавления</string>
     <string name="yesterday">Вчера</string>
-	<string name="keyguard_alarm_delay_fifteen">Повтор через 15 минут</string>
-    <string name="keyguard_alarm_delay_five">Повтор через 5 минут</string>
-    <string name="keyguard_alarm_delay_ten">Повтор через 10 минут</string>
-    <string name="keyguard_alarm_delay_thirty">Повтор через 30 минут</string>
-	<string name="ringtone_file_dir">Короткие рингтоны</string>
 </resources>
