@@ -35,7 +35,7 @@
     <string name="invalid_hotseat_item">Виджет слишком велик для слота</string>
     <string name="shortcut_installed">Ярлык \"%s\" создан</string>
     <string name="shortcut_uninstalled">Ярлык \"%s\" удален</string>
-    <string name="shortcut_duplicate">Ярлык \"%s\" уже существует</string>
+    <string name="shortcut_duplicate">Ярлык \"%s\" был создан</string>
     <string name="title_select_shortcut">Выбор ярлыка</string>
     <string name="title_select_application">Выбор приложения</string>
     <string name="all_apps_button_label">Приложения</string>
@@ -84,7 +84,7 @@
     <string name="all_apps_cling_add_item">Чтобы добавить приложение на главный экран, нажмите на значок и удерживайте его.</string>
     <string name="folder_cling_title">Это папка</string>
     <string name="folder_cling_create_folder">Чтобы создать папку, нажмите и удерживайте значок приложения, а затем перетащите его на другой значок.</string>
-    <string name="cling_dismiss">ОК</string>
+    <string name="cling_dismiss">пацвердзіць</string>
     <string name="folder_opened">Папка открыта, %1$d x %2$d</string>
     <string name="folder_tap_to_close">Нажмите, чтобы закрыть папку</string>
     <string name="folder_tap_to_rename">Нажмите, чтобы подтвердить переименование</string>
@@ -104,7 +104,8 @@
     <string name="share">Передать</string>
     <string name="system_tools">Служебные</string>
     <string name="widgets_tab_label_click">Удерживать для добавления виджета</string>
-    <string name="uninstall_title">Удалить приложение?</string>
+    <string name="uninstall_title">Удалить приложение</string>
+    <string name="uninstall_notice">Автоочистка остаточных файлов после удаления</string>
     <string name="top_alignment">Выровнять сверху</string>
     <string name="bottom_alignment">Выровнять снизу</string>
     <string name="app_name">Поиск</string>
@@ -148,6 +149,8 @@
     <string name="email">E-mail</string>
     <string name="music">Музыка</string>
     <string name="sms">Сообщения</string>
+    <string name="note">Заметка</string>
+    <string name="document">Документ</string>
     <string name="restor_text">Отмените функцию автоматического резервного копирования рабочего стола через Wi-Fi в AppCenter, чтобы затем снова можно было использовать длительное нажатие</string>
     <string name="mz_date_time_month">м</string>
     <string name="mz_date_time_year">г</string>
@@ -156,6 +159,15 @@
     <string name="mz_date_time_min">м</string>
     <string name="mz_date_time_sec">с</string>
     <string name="date_time_set">Установить</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %p %I:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %p %I:%M</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %p %I:%M</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
@@ -224,4 +236,9 @@
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включить передачу данных</string>
     <string name="mc_pm_online_intenert">Интернет</string>
+    <string name="mc_pull_refresh">Вниз для обновления</string>
+    <string name="mc_is_Refreshing">Обновление</string>
+    <string name="mc_go_Refreshing">Обновить</string>
+    <string name="mc_search">Поиск</string>
 </resources>
+
