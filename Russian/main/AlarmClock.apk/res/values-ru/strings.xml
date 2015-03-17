@@ -63,7 +63,7 @@
     <string name="early_for_hour_and_minute">%1$s ч. %2$s м. ранее</string>
     <string name="edit_timer_event">Изменить</string>
     <string name="every_day">Ежедневно</string>
-    <string name="flyme_music_dir">Flyme music</string>
+    <string name="flyme_music_dir">Моя музыка</string>
     <string name="friday">ПТ</string>
     <string name="friday_l">ПТН</string>
     <string name="go_on">Продолжить</string>
@@ -74,8 +74,8 @@
     <string name="keyguard_alarm_delay_ten">Напомнить через 10 мин</string>
     <string name="keyguard_alarm_delay_thirty">Напомнить через 30 мин</string>
     <string name="keyguard_alarm_press_to_delay">Нажать для напоминания позднее</string>
-    <string name="keyguard_alarm_stop_alarm">Выключить будильник</string>
-    <string name="label">Ярлык</string>
+    <string name="keyguard_alarm_stop_alarm">↑ Выключить будильник</string>
+    <string name="label">Название</string>
     <string name="lap">Круг</string>
     <string name="late_for_hour">%1s ч. позднее</string>
     <string name="late_for_hour_and_minute">%1$s ч. %2$s м. позднее</string>
@@ -280,7 +280,7 @@
     <string name="timer_alert">Звук таймера</string>
     <string name="timer_alert_name_default">По умолчанию</string>
     <string name="timer_alert_name_text_default">по умолч.</string>
-    <string name="timer_alert_new">Звук:</string>
+    <string name="timer_alert_new">Звук</string>
     <string name="timer_alert_title">Сигнал окончания таймера</string>
     <string name="timer_delete">Удалить</string>
     <string name="timer_edit">Правка</string>
