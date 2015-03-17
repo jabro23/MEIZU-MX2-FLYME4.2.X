@@ -13,7 +13,9 @@
     <string name="on_screen_turned_on">onScreenTurnedOn</string>
     <string name="do_keyguard">doKeyguard</string>
     <string name="verify_unlock">verifyUnlock</string>
-    <string name="lock_month_day">d MMM</string>
+    <string name="abbrev_wday_month_day_no_year">dMMMMEEEE</string>
+    <string name="lock_month_day">d MMMM,</string>
+    <string name="lock_week">(EEEE) d MMMM</string>
     <string name="lock_tips_dialing">Набор</string>
     <string name="calling">Вызов…</string>
     <string name="enter_pin_tips">Ввод PIN-кода</string>
@@ -49,9 +51,10 @@
     <string name="lockscreen_return_to_call">Вернуться к вызову</string>
     <string name="lockscreen_slide_right_tips">Выберите приложение для запуска при сдвиге вправо</string>
     <string name="keyguard_security_password_ok">ОК</string>
-    <string name="unlock_text">Вверх для разблокировки</string>
+    <string name="unlock_text">↑ Разблокировать</string>
+    <string name="keyguard_palm_rejection_title">В кармане</string>
     <string name="keyguard_palm_rejection_text">Не накрывайте чем-либо верхнюю часть телефона при разблокировке</string>
-    <string name="keyguard_palm_rejection_exit">Двойное нажатие клавиши громкости для выхода</string>
+    <string name="keyguard_palm_rejection_exit">(Двойное нажатие клавиши громкости для выхода)</string>
     <string name="enter_tccm_pwd_tips">Введите код блокировки</string>
     <string name="keyguard_fingerprint_not_match">Несоответствие отпечатка</string>
     <string name="keyguard_palm_rejection_title">Отказ</string>
