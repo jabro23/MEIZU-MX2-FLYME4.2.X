@@ -1061,9 +1061,9 @@ Do you want to close it?"</string>
     <string name="smv_application">The app %1$s (process %2$s) has violated its self-enforced StrictMode policy.</string>
     <string name="smv_process">The process %1$s has has violated its self-enforced StrictMode policy.</string>
     <string name="android_upgrading_title">Android is upgrading,</string>
-    <string name="android_upgrading_apk">Optimizing app %1$d of %2$d.</string>
-    <string name="android_upgrading_starting_apps">Starting apps</string>
-    <string name="android_upgrading_complete">Finishing boot</string>
+    <string name="android_upgrading_apk">Оптимизация приложений %1$d из %2$d...</string>
+    <string name="android_upgrading_starting_apps">Запуск приложений...</string>
+    <string name="android_upgrading_complete">Завершение загрузки...</string>
     <string name="heavy_weight_notification">%1$s running</string>
     <string name="heavy_weight_notification_detail">Touch to switch to app</string>
     <string name="heavy_weight_switcher_title">Switch apps?</string>
@@ -1698,9 +1698,9 @@ for account %s."</string>
     <string name="permdesc_register_fingerprint">Allows an application to register fingerprint</string>
     <string name="permlab_recognize_fingerprint">Check the fingerprint match</string>
     <string name="permdesc_recognize_fingerprint">Allows an application to Check the fingerprint match</string>
-    <string name="recommend_switch_power_mode">Benchmark Mode</string>
-    <string name="battery_consumption_balance_title">Balance</string>
-    <string name="battery_consumption_performance_title">High Performance</string>
+    <string name="recommend_switch_power_mode">Режим бенчмарка</string>
+    <string name="battery_consumption_balance_title">Сбалансированный</string>
+    <string name="battery_consumption_performance_title">Производительный</string>
     <string name="permlab_forceKillProcess">force kill process</string>
     <string name="permdesc_forceKillProcess">Allows an application to force kill process</string>
     <string name="permlab_updatePowerSavingMode">Update power saving mode</string>
@@ -1835,8 +1835,8 @@ for account %s."</string>
     <string name="vpn_no_network">Not connected to the network. Please try again later</string>
     <string name="vpn_can_not_load_credential">No certificate</string>
     <string name="top_message">Cautious! This firmware is for trial use only.</string>
-    <string name="dexopt_apps_title">Optimizing app,</string>
-    <string name="dexopt_apps_apk">Optimizing app %1$d/%2$d</string>
+    <string name="dexopt_apps_title">Оптимизация приложений,</string>
+    <string name="dexopt_apps_apk">Оптимизация приложений %1$d/%2$d...</string>
     <string name="low_storage_warning_message">Please free up some space, or some applications and system functions may not work well.</string>
     <string name="free_memory_btn">Free Space</string>
     <string name="aerr_application_lowstorage">Internal storage is running out, the application has been stopped. Please free up some space and try again.</string>
