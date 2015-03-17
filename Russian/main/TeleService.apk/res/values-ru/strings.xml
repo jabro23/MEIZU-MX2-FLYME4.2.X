@@ -784,4 +784,5 @@
     <string name="mc_is_Refreshing">Обновление</string>
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_search">Поиск</string>
+    <string name="button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
 </resources>
