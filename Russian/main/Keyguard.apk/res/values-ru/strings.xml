@@ -13,9 +13,9 @@
     <string name="on_screen_turned_on">onScreenTurnedOn</string>
     <string name="do_keyguard">doKeyguard</string>
     <string name="verify_unlock">verifyUnlock</string>
-    <string name="abbrev_wday_month_day_no_year">dMMMMEEEE</string>
+	<string name="abbrev_wday_month_day_no_year">dMMMMEEEE</string>
     <string name="lock_month_day">d MMMM,</string>
-    <string name="lock_week">(EEEE) d MMMM</string>
+	<string name="lock_week">(EEEE) d MMMM</string>
     <string name="lock_tips_dialing">Набор</string>
     <string name="calling">Вызов…</string>
     <string name="enter_pin_tips">Ввод PIN-кода</string>
@@ -57,7 +57,6 @@
     <string name="keyguard_palm_rejection_exit">(Двойное нажатие клавиши громкости для выхода)</string>
     <string name="enter_tccm_pwd_tips">Введите код блокировки</string>
     <string name="keyguard_fingerprint_not_match">Несоответствие отпечатка</string>
-    <string name="keyguard_palm_rejection_title">Отказ</string>
     <string name="gemini_enter_pin">Введите PIN для SIM %d</string>
     <string name="gemini_enter_puk">Введите PUK для SIM %d</string>
     <string name="exit">Выход</string>
