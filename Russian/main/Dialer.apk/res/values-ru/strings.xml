@@ -27,7 +27,7 @@
     <string name="confCall">Конференц-вызов</string>
     <string name="call_lost">Вызов был утрачен.</string>
     <string name="ok">ОК</string>
-    <string name="audio_mode_speaker">Динамик</string>
+    <string name="audio_mode_speaker">Громк. связь</string>
     <string name="audio_mode_earpiece">Динамик гарнитуры</string>
     <string name="audio_mode_wired_headset">Проводная гарнитура</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -402,7 +402,7 @@
     <string name="ota_title_activate_success">Телефон активирован.</string>
     <string name="ota_title_problem_with_activation">Неполадки при активации</string>
     <string name="ota_listen">Следуйте голосовым инструкциям, пока вам не сообщат, что активация завершена.</string>
-    <string name="ota_speaker">Динамик</string>
+    <string name="ota_speaker">Громк. связь</string>
     <string name="ota_progress">Дождитесь завершения программирования.</string>
     <string name="ota_failure">Сбой при программировании</string>
     <string name="ota_successful">Ваш телефон активирован. Включение службы может занять до 15 минут.</string>
@@ -509,7 +509,7 @@
     <string name="respond_via_sms_canned_response_3">Я перезвоню вам позже.</string>
     <string name="respond_via_sms_canned_response_4">Не могу говорить. Позвоните позже.</string>
     <string name="respond_via_sms_custom_message">Ваш ответ…</string>
-    <string name="custom_message_cancel">Отмена</string>
+    <string name="custom_message_cancel">Отменить</string>
     <string name="custom_message_send">Отправить</string>
     <string name="respond_via_sms_setting_title">Быстрые ответы</string>
     <string name="respond_via_sms_setting_title_2">Быстрые ответы</string>
@@ -551,9 +551,9 @@
     <string name="manageConferenceLabel">Управление конференц-связью</string>
     <string name="emergency_call_dialog_number_for_display">Экстренная служба</string>
     <string name="waitingcall_answer_and_hangup_all">Hang up other calls + Answer</string>
-    <string name="deline_call">отклонен</string>
+    <string name="deline_call">Отклонить</string>
     <string name="onscreenRecordText">Запись</string>
-    <string name="onscreenRecordNumText">Номер записи</string>
+    <string name="onscreenRecordNumText">Новая заметка</string>
     <string name="record_return_normal">Возврат к вызову</string>
     <string name="record_end_call">Завершить</string>
     <string name="hang_up_record">Отбой \"запись сообщения</string>
@@ -570,8 +570,8 @@
     <string name="forwardedCallText">Переадресация вызова</string>
     <string name="add_call">Новый вызов</string>
     <string name="mute_call">Без звука</string>
-    <string name="speaker">Динамик</string>
-    <string name="record_num">Заметка</string>
+    <string name="speaker">Громк. связь</string>
+    <string name="record_num">Новая заметка</string>
     <string name="hold_call">Удерж.</string>
     <string name="dialpad">Клавиатура</string>
     <string name="record">Аудиозапись</string>
@@ -723,7 +723,7 @@
     <string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы.</string>
     <string name="savingDisplayGroups">Сохранение настроек...</string>
     <string name="menu_done">Готово</string>
-    <string name="menu_doNotSave">Отмена</string>
+    <string name="menu_doNotSave">Отменить</string>
     <string name="listAllContactsInAccount">Контакты в %s</string>
     <string name="listCustomView">Пользовательский фильтр</string>
     <string name="listSingleContact">1 контакт</string>
@@ -818,7 +818,7 @@
     <string name="find_directory_contacts">Поиск %s</string>
     <string name="contactsJoinedMessage">Контакты объединены</string>
     <string name="contactSavedErrorToast">Не удалось сохранить изменения.</string>
-    <string name="description_search_button">поиск</string>
+    <string name="description_search_button">Поиск</string>
     <string name="people">Контакты</string>
     <string name="shortcutActivityTitle">Выбрать контакт для быстрого вызова</string>
     <string name="callShortcutActivityTitle">Выберите номер для вызова</string>
@@ -943,7 +943,7 @@
     <string name="contacts_unavailable_create_contact">Создать новый контакт</string>
     <string name="contacts_unavailable_add_account">Войдите в аккаунт</string>
     <string name="contacts_unavailable_import_contacts">Импортировать контакты</string>
-    <string name="create_group_dialog_title">Создание новой группы</string>
+    <string name="create_group_dialog_title">Создать новую группу</string>
     <string name="create_group_item_label">Создать группу</string>
     <string name="delete_group_dialog_message">Действительно удалить группу \"%1$s\"? (Контакты не будут удалены.)</string>
     <string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить.</string>
@@ -1149,8 +1149,8 @@
     <string name="menu_export">Экспорт</string>
     <string name="import_contact_to">Импорт в</string>
     <string name="new_contact_in">Добавить в аккаунт</string>
-    <string name="account_sync_mode_off">Выкл.</string>
-    <string name="account_sync_mode_normal_sync">Вкл.</string>
+    <string name="account_sync_mode_off">Выкл</string>
+    <string name="account_sync_mode_normal_sync">Вкл</string>
     <string name="account_sync_mode_sync_with_default">Синхронизация в фоне с аккаунтом по умолчанию</string>
     <string name="listSearching">Поиск</string>
     <string name="dialerIconLabel">Кнопки</string>
@@ -1233,8 +1233,8 @@
     <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, выберите \"Меню > Настройки\".</string>
     <string name="dialog_voicemail_airplane_mode_message">Сначала отключите режим полета.</string>
     <string name="action_menu_overflow_description">Ещё</string>
-    <string name="contact_list_welcome_sync_account">Синхронизация аккаунта</string>
-    <string name="contact_list_welcome_import_contact">Импорт контактов</string>
+    <string name="contact_list_welcome_sync_account">Синхронизировать аккаунт</string>
+    <string name="contact_list_welcome_import_contact">Импортировать контакты</string>
     <string name="foundResultCount">%d результатов найдено</string>
     <string name="spam_unkown_number_title">Блокировать вызовы от неизвестных</string>
     <string name="pref_record_title">Запись</string>
@@ -1325,7 +1325,7 @@
     <string name="dialpad_9_number">9</string>
     <string name="show_all_contacts_button_text">Все контакты</string>
     <string name="favorite_hidden">Контакт удален из избранных</string>
-    <string name="favorite_hidden_undo">Отмена</string>
+    <string name="favorite_hidden_undo">Отменить</string>
     <string name="search_shortcut_call_number">Позвонить: %s</string>
     <string name="search_shortcut_add_to_contacts">Добавить в контакты</string>
     <string name="num_missed_calls">Пропущенных вызовов: %s</string>
@@ -1370,7 +1370,7 @@
     <string name="mc_pattern_today">Сегодня</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_yes">ОК</string>
-    <string name="mc_cancel">Отмена</string>
+    <string name="mc_cancel">Отменить</string>
     <string name="mc_hour">Час.</string>
     <string name="mc_minute">Мин.</string>
     <string name="mc_second">Сек.</string>
@@ -1420,7 +1420,7 @@
     <string name="mc_pm_allow_check_app">Разрешить</string>
     <string name="mc_pm_not_allow_check_app">Запретить</string>
     <string name="mc_pm_dlg_ok">ОК</string>
-    <string name="mc_pm_dlg_cancel">Отмена</string>
+    <string name="mc_pm_dlg_cancel">Отменить</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_dialog_push">Вспылвающий Push</string>
