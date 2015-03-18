@@ -27,7 +27,7 @@
     <string name="confCall">Конференц-вызов</string>
     <string name="call_lost">Вызов был утрачен.</string>
     <string name="ok">ОК</string>
-    <string name="audio_mode_speaker">Громк. связь</string>
+    <string name="audio_mode_speaker">Динамик</string>
     <string name="audio_mode_earpiece">Динамик гарнитуры</string>
     <string name="audio_mode_wired_headset">Проводная гарнитура</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -286,7 +286,7 @@
     <string name="deleting_fdn_contact">Выполняется удаление номера ограниченного набора…</string>
     <string name="fdn_contact_deleted">Номер ограниченного набора удален.</string>
     <string name="pin2_invalid">Разрешенный номер не обновлен, так как введен неверный PIN-код.</string>
-    <string name="fdn_invalid_number">Разрешенный номер не обновлен, т. к. не может содержать более 20 цифр.</string>
+    <string name="fdn_invalid_number">Разрешенный номер не обновлен, т. к. не может содержать более 20 цифр.</string>
     <string name="pin2_or_fdn_invalid">Список разрешенных номеров не обновлен. Указан неверный PIN2 или номер телефона.</string>
     <string name="simContacts_emptyLoading">Загрузка с SIM-карты…</string>
     <string name="simContacts_empty">На SIM-карте нет контактов.</string>
@@ -402,7 +402,7 @@
     <string name="ota_title_activate_success">Телефон активирован.</string>
     <string name="ota_title_problem_with_activation">Неполадки при активации</string>
     <string name="ota_listen">Следуйте голосовым инструкциям, пока вам не сообщат, что активация завершена.</string>
-    <string name="ota_speaker">Громк. связь</string>
+    <string name="ota_speaker">Динамик</string>
     <string name="ota_progress">Дождитесь завершения программирования.</string>
     <string name="ota_failure">Сбой при программировании</string>
     <string name="ota_successful">Ваш телефон активирован. Включение службы может занять до 15 минут.</string>
@@ -430,7 +430,7 @@
     <string name="calling_via_template">Звонок через %s</string>
     <string name="contactPhoto">фотография контакта</string>
     <string name="goPrivate">приватная конференция</string>
-    <string name="selectContact">выбрать контакт</string>
+    <string name="selectContact">Выбрать контакт</string>
     <string name="sip_settings">Настройки интернет-телефонии</string>
     <string name="sip_accounts">Аккаунты интернет-телефонии (SIP)</string>
     <string name="sip_accounts_title">Аккаунты</string>
@@ -509,7 +509,7 @@
     <string name="respond_via_sms_canned_response_3">Я перезвоню вам позже.</string>
     <string name="respond_via_sms_canned_response_4">Не могу говорить. Позвоните позже.</string>
     <string name="respond_via_sms_custom_message">Ваш ответ…</string>
-    <string name="custom_message_cancel">Отменить</string>
+    <string name="custom_message_cancel">Отмена</string>
     <string name="custom_message_send">Отправить</string>
     <string name="respond_via_sms_setting_title">Быстрые ответы</string>
     <string name="respond_via_sms_setting_title_2">Быстрые ответы</string>
@@ -551,9 +551,9 @@
     <string name="manageConferenceLabel">Управление конференц-связью</string>
     <string name="emergency_call_dialog_number_for_display">Экстренная служба</string>
     <string name="waitingcall_answer_and_hangup_all">Hang up other calls + Answer</string>
-    <string name="deline_call">Отклонить</string>
+    <string name="deline_call">отклонен</string>
     <string name="onscreenRecordText">Запись</string>
-    <string name="onscreenRecordNumText">Новая заметка</string>
+    <string name="onscreenRecordNumText">Номер записи</string>
     <string name="record_return_normal">Возврат к вызову</string>
     <string name="record_end_call">Завершить</string>
     <string name="hang_up_record">Отбой \"запись сообщения</string>
@@ -566,28 +566,33 @@
     <string name="waitingcall_current_call">Текущий вызов</string>
     <string name="notification_alerting">Звонок</string>
     <string name="callForwardedText">Вызов переадресован</string>
-    <string name="card_title_alerting">Соединение</string>
+    <string name="card_title_alerting">Идет гудок</string>
     <string name="forwardedCallText">Переадресация вызова</string>
     <string name="add_call">Новый вызов</string>
     <string name="mute_call">Без звука</string>
-    <string name="speaker">Громк. связь</string>
-    <string name="record_num">Новая заметка</string>
+    <string name="speaker">Динамик</string>
+    <string name="record_num">Заметка</string>
+    <string name="hold_call">Удерж.</string>
     <string name="dialpad">Клавиатура</string>
-    <string name="record">Запись</string>
+    <string name="record">Аудиозапись</string>
     <string name="merge_call">Соединить вызовы</string>
     <string name="swap_call">Подкачка вызова</string>
     <string name="conference_call">Конференц-связь</string>
     <string name="close_dialpad">Закрыть клавиатуру</string>
     <string name="mms_hint">Свой ответ</string>
+    <string name="cancel_sms_list">Отмена</string>
     <string name="incoming_tip">Для ответа провести вправо</string>
     <string name="audio_mode_Wired_Headset">Проводная гарнитура</string>
     <string name="card_title_conf_call_notification">Конференц-связь %s</string>
     <string name="store">Сохранить</string>
     <string name="add">Добавить</string>
+    <string name="call_duration_time">Продолж. вызова %s</string>
+    <string name="reject_incoming">Отклонить вызов</string>
+    <string name="close_speaker">Выкл. динамик</string>
     <string name="ali_pay">Alipay</string>
     <string name="lakala_pay">Lakala</string>
     <string name="reject_outof_phonebook_toggle_summary">Международные вызовы разрешены</string>
-    <string name="reject_outof_phonebook_toggle_title">Блокировать вызовы от неизвестных</string>
+    <string name="reject_outof_phonebook_toggle_title">Блокир. вызовы от неизвестных</string>
     <string name="toast_text_copied">Текст скопирован</string>
     <string name="call_custom">Позвонить (%s)</string>
     <string name="call_home">Домашний тел.</string>
@@ -664,7 +669,7 @@
     <string name="name_phonetic_middle">Отчество (транскрипция)</string>
     <string name="name_phonetic_family">Фамилия (транскрипция)</string>
     <string name="phoneLabelsGroup">Телефон</string>
-    <string name="emailLabelsGroup">␀адрес электронной почты</string>
+    <string name="emailLabelsGroup">" адрес E-mail"</string>
     <string name="postalLabelsGroup">Адрес</string>
     <string name="imLabelsGroup">Чат</string>
     <string name="organizationLabelsGroup">Организация</string>
@@ -704,7 +709,7 @@
     <string name="chat_icq">Чат через ICQ</string>
     <string name="chat_jabber">Чат через Jabber</string>
     <string name="chat">Чат</string>
-    <string name="description_minus_button">удалить</string>
+    <string name="description_minus_button">Удалить</string>
     <string name="expand_collapse_name_fields_description">Показать/скрыть дополнительные поля</string>
     <string name="list_filter_all_accounts">Все контакты</string>
     <string name="list_filter_all_starred">Помеченные</string>
@@ -718,7 +723,7 @@
     <string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы.</string>
     <string name="savingDisplayGroups">Сохранение настроек...</string>
     <string name="menu_done">Готово</string>
-    <string name="menu_doNotSave">Отменить</string>
+    <string name="menu_doNotSave">Отмена</string>
     <string name="listAllContactsInAccount">Контакты в %s</string>
     <string name="listCustomView">Пользовательский фильтр</string>
     <string name="listSingleContact">1 контакт</string>
@@ -813,7 +818,7 @@
     <string name="find_directory_contacts">Поиск %s</string>
     <string name="contactsJoinedMessage">Контакты объединены</string>
     <string name="contactSavedErrorToast">Не удалось сохранить изменения.</string>
-    <string name="description_search_button">Поиск</string>
+    <string name="description_search_button">поиск</string>
     <string name="people">Контакты</string>
     <string name="shortcutActivityTitle">Выбрать контакт для быстрого вызова</string>
     <string name="callShortcutActivityTitle">Выберите номер для вызова</string>
@@ -874,7 +879,7 @@
     <string name="contactsAllLabel">Все контакты</string>
     <string name="contactsGroupsLabel">Группы</string>
     <string name="add_contact_dlg_message_fmt">Добавить в контакты %s?</string>
-    <string name="description_contact_photo">фотография контакта</string>
+    <string name="description_contact_photo">Фото контакта</string>
     <string name="search_settings_description">Имена и номера контактов</string>
     <string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении.</string>
     <string name="missing_app">Приложение для этого действия не найдено</string>
@@ -916,7 +921,7 @@
     <string name="add_organization">Добавить организацию</string>
     <string name="event_edit_field_hint_text">Дата</string>
     <string name="group_edit_field_hint_text">Название группы</string>
-    <string name="contact_status_update_attribution">с помощью %1$s</string>
+    <string name="contact_status_update_attribution">С помощью %1$s</string>
     <string name="contact_status_update_attribution_with_date">%1$s с помощью %2$s</string>
     <string name="edit_contact">Изменить контакт</string>
     <string name="aggregation_suggestion_join_dialog_message">Объединить текущий контакт с выбранным контактом?</string>
@@ -938,7 +943,7 @@
     <string name="contacts_unavailable_create_contact">Создать новый контакт</string>
     <string name="contacts_unavailable_add_account">Войдите в аккаунт</string>
     <string name="contacts_unavailable_import_contacts">Импортировать контакты</string>
-    <string name="create_group_dialog_title">Создать новую группу</string>
+    <string name="create_group_dialog_title">Создание новой группы</string>
     <string name="create_group_item_label">Создать группу</string>
     <string name="delete_group_dialog_message">Действительно удалить группу \"%1$s\"? (Контакты не будут удалены.)</string>
     <string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить.</string>
@@ -983,7 +988,7 @@
     <string name="view_item_call_edit">Изменить и вызвать</string>
     <string name="view_contact_phone_prefix">Вызов</string>
     <string name="view_contact_email_prefix">Отправить</string>
-    <string name="menu_delete_call">Очистка истории звонков</string>
+    <string name="menu_delete_call">Удалить историю звонков</string>
     <string name="clearCallDetailLogConfirmation">Очистить историю звонков?</string>
     <string name="search_call_log_settings_description">История вызовов</string>
     <string name="newContact">Новый контакт</string>
@@ -1002,7 +1007,7 @@
     <string name="pref_summary_manage_spam_address_from_cloud_level_middle">Средний уровень</string>
     <string name="pref_summary_manage_spam_address_from_cloud_level_low">Низкий уровень</string>
     <string name="pref_title_manage_spam_address">Черный список пользователя</string>
-    <string name="pref_summary_manage_spam_address">%d номеров</string>
+    <string name="pref_summary_manage_spam_address">%d номер(ов)</string>
     <string name="spam_address_empty">Спам-список пуст</string>
     <string name="spam_list_no_item">Пусто</string>
     <string name="add_spam_number">В черный список</string>
@@ -1010,9 +1015,9 @@
     <string name="progress_msg">В процессе</string>
     <string name="type_incoming_ex">Входящ.</string>
     <string name="type_incoming_reject">Отклон.</string>
-    <string name="type_outgoing_ex">Исходящ.</string>
+    <string name="type_outgoing_ex">Исход.</string>
     <string name="type_missed_ex">Пропущ.</string>
-    <string name="type_voicemail_ex">Гол. почта</string>
+    <string name="type_voicemail_ex">Голосовая почта</string>
     <string name="type_voicemail_fail">Нет почты</string>
     <string name="type_incoming">Входящий вызов</string>
     <string name="type_outgoing">Исходящий вызов</string>
@@ -1022,7 +1027,7 @@
     <string name="check_for_delete_address">Удалить черный список?</string>
     <string name="pref_spam_recent_call_list_title">Список спам-вызовов</string>
     <string name="pref_spam_recent_call_list_summary">Всего %d</string>
-    <string name="pref_spam_recent_call_list_summary_empty">Нет списка спам-вызовов</string>
+    <string name="pref_spam_recent_call_list_summary_empty">Нет записей</string>
     <string name="add_spam_address_message">Номер из списка контактов не может быть добавлен в черный список</string>
     <string name="addto_spam_address_confirm_delete_contacts_title">Перенести в спам?</string>
     <string name="spam_number_input_hint">Номер</string>
@@ -1041,7 +1046,7 @@
     <string name="spam_call_clear">Стереть</string>
     <string name="recent_spam_call_empty">Нет спам-вызовов за последние 30 дней</string>
     <string name="spam_call_blocking">Блокированный вызов</string>
-    <string name="calls_voice_mail">Гол. сообщение</string>
+    <string name="calls_voice_mail">Голосовые сообщения</string>
     <string name="custom_ringtone">Мелодия звонка</string>
     <string name="default_ringtone">Рингтон по умолч.</string>
     <string name="speed_dail_label">Быстрый набор</string>
@@ -1052,11 +1057,11 @@
     <string name="date_picker_dialog_title">Установить дату</string>
     <string name="vcard_detail_info">Предпросмотр vCard</string>
     <string name="view_vcard_import_contact">Импорт в контакты</string>
-    <string name="voicemail_number">Номер гол. почты</string>
+    <string name="voicemail_number">Номер голосовой почты</string>
     <string name="select_vcard_import_will_start_message">Выбранные контакты будут импортированы позже</string>
     <string name="allow_stranger_calls">Принимать неизвестные номера</string>
     <string name="reject_stranger_calls">Запретить вызовы от неизвестных</string>
-    <string name="reject_stranger_calls_open">Блокировать вызовы от неизвестных</string>
+    <string name="reject_stranger_calls_open">Включено</string>
     <string name="reject_calls_open">Блокировать вызовы</string>
     <string name="reject_calls_disable">Разблокировать</string>
     <string name="clearspamCallLogConfirmation">Удалить записи?</string>
@@ -1092,7 +1097,7 @@
     <string name="submenu_delete_label">Удалить</string>
     <string name="menu_callNumber">Позвонить: %s</string>
     <string name="description_dismiss">Закрыть</string>
-    <string name="recentCalls_empty">Список вызовов пуст</string>
+    <string name="recentCalls_empty">Список вызовов пуст.</string>
     <string name="recentCallsIconLabel">Вызовы</string>
     <string name="description_call_log_play_button">Прослушать голосовую почту</string>
     <string name="clearCallLogProgress_title">Очистка списка вызовов...</string>
@@ -1102,7 +1107,7 @@
     <string name="clearSelectCallLogConfirmation">Удалить выбранное?</string>
     <string name="callDetailsDurationFormat" formatted="false">%s:%s</string>
     <string name="callDetailsDurationFormat2">0 мин. %s сек.</string>
-    <string name="callDetailsDurationFormat3">%s гудков</string>
+    <string name="callDetailsDurationFormat3">гудков: %s</string>
     <string name="notification_action_voicemail_play">Прослушать</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="notification_new_voicemail_ticker">Новое гол. сообщение: %1$s</string>
@@ -1145,7 +1150,7 @@
     <string name="import_contact_to">Импорт в</string>
     <string name="new_contact_in">Добавить в аккаунт</string>
     <string name="account_sync_mode_off">Выкл.</string>
-    <string name="account_sync_mode_normal_sync">Обычная</string>
+    <string name="account_sync_mode_normal_sync">Вкл.</string>
     <string name="account_sync_mode_sync_with_default">Синхронизация в фоне с аккаунтом по умолчанию</string>
     <string name="listSearching">Поиск</string>
     <string name="dialerIconLabel">Кнопки</string>
@@ -1228,8 +1233,8 @@
     <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, выберите \"Меню > Настройки\".</string>
     <string name="dialog_voicemail_airplane_mode_message">Сначала отключите режим полета.</string>
     <string name="action_menu_overflow_description">Ещё</string>
-    <string name="contact_list_welcome_sync_account">Синхронизировать аккаунт</string>
-    <string name="contact_list_welcome_import_contact">Импортировать контакты</string>
+    <string name="contact_list_welcome_sync_account">Синхронизация аккаунта</string>
+    <string name="contact_list_welcome_import_contact">Импорт контактов</string>
     <string name="foundResultCount">%d результатов найдено</string>
     <string name="spam_unkown_number_title">Блокировать вызовы от неизвестных</string>
     <string name="pref_record_title">Запись</string>
@@ -1247,7 +1252,62 @@
     <string name="add_number_to_spam">Добавить номер в спам</string>
     <string name="delete_number_from_spam">Удалить номер из спама</string>
     <string name="menu_next">Далее</string>
+    <string name="import_contacts_text_one">1. Включите Bluetooth на другом устройстве</string>
+    <string name="import_contacts_text_one_first">•Android-устройства, как правило, содержат опцию включения Bluetooth в пункте Беспроводные сети в разделе настроек</string>
+    <string name="import_contacts_text_one_second">•IOS-устройства содержат опцию Bluetooth в разделе общих настроек</string>
+    <string name="import_contacts_text_two">2. Включите в настройках Bluetooth опцию обнаружения</string>
+    <string name="import_contacts_text_two_first">•На разных устройствах это может назваться видимость или обнаружение</string>
+    <string name="import_contacts_text_two_second">•IOS-устройства могут пропустить этот шаг</string>
+    <string name="receive_contact">Получение контактов</string>
+    <string name="bluetooth_tips_one">Пожалуйста, держите как можно ближе устройства во время передачи контактов, во избежание разрыва соединения Bluetooth.</string>
+    <string name="stop_trans_string">Остановка передачи</string>
+    <string name="import_contact_fail">Ошибка импорта</string>
+    <string name="import_fail_tips_one">Не удалось импортировать контакты через Bluetooth, вы можете попробовать выполнить импорт с SIM-карты</string>
+    <string name="import_contacts_from_sim">Импорт контактов с SIM-карты</string>
+    <string name="transporting">Передача</string>
+    <string name="import_finish">Импорт завершен</string>
+    <string name="total_contacts">Контактов: %1$s</string>
+    <string name="ready_receive">Готовность к приему</string>
     <string name="import_contacts">Импорт контактов</string>
+    <string name="no_sim">Нет SIM</string>
+    <string name="stop_receive_contacts_tip">Остановить получение контактов?</string>
+    <string name="searchIconLabel">Поиск</string>
+    <string name="no_white_contacts">Нет контактов</string>
+    <string name="Tips_CallLogList_ShowDetail">Нажмите на фото для просмотра деталей</string>
+    <string name="Tips_SearchList_ShowDetail">@string/Tips_CallLogList_ShowDetail</string>
+    <string name="Tips_ContactList_WebCall">Можно совершать Web-вызовы контактам в сети</string>
+    <string name="Tips_CallLogList_WebCall">Нажмите сюда, чтобы перезвонить через Web</string>
+    <string name="Tips_ContactDetail_WebCall">Нажмите сюда для Web -вызова</string>
+    <string name="editor_contacts_no_name">Сохранить контакт без имени?</string>
+    <string name="open_flyme_title">Открыть Flyme-связь</string>
+    <string name="open_flyme_sub_title">После включения можно совершать бесплатные вызовы и отправлять сообщения</string>
+    <string name="no_tip_next_time">Не напоминать в дальнейшем</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="choice_list_item_work">Работа - %s</string>
+    <string name="choice_list_item_home">Дом - %s</string>
+    <string name="item_info_work_tips">Работа</string>
+    <string name="item_info_home_tips">Дом</string>
+    <string name="item_info_other_tips">Вызов с другого устройства</string>
+    <string name="error_success_missing_count" formatted="false">Детали: %s успешно, %s неудачно</string>
+    <string name="fail_reason">"
+Возможные причины:
+1. SIM-карта заполнена 
+2. Неверный формат имени или номера"</string>
+    <string name="account_name_work">SIM 1</string>
+    <string name="account_name_home">SIM 2</string>
+    <string name="account_name_base">SIM-карты</string>
+    <string name="spam_ask_delete_call_log">Также удалить записи истории вызовов</string>
+    <string name="label_notes_mark">Метка</string>
+    <string name="call_log_popuwindow_item_call_detail">Просмотр сведений о вызове</string>
+    <string name="call_log_popuwindow_save_phone_number">Сохранить номер телефона</string>
+    <string name="add_contact_dialog_new_contact">Новый контакт</string>
+    <string name="add_contact_dialog_exist_contact">Существ. контакт</string>
+    <string name="slot_card_one">Вызов SIM1</string>
+    <string name="slot_card_two">Вызов SIM2</string>
+    <string name="add_to_contact">Добавить в контакт</string>
+    <string name="hide_developer_options">Скрыть настройки для разработчиков</string>
+    <string name="show_developer_options">Показать настройки для разработчиков</string>
     <string name="applicationLabel">Телефон</string>
     <string name="add_contact_not_available">Чтобы использовать эту функцию, включите приложение \"Контакты\".</string>
     <string name="call_log_all_title">Все</string>
@@ -1265,7 +1325,7 @@
     <string name="dialpad_9_number">9</string>
     <string name="show_all_contacts_button_text">Все контакты</string>
     <string name="favorite_hidden">Контакт удален из избранных</string>
-    <string name="favorite_hidden_undo">Отменить</string>
+    <string name="favorite_hidden_undo">Отмена</string>
     <string name="search_shortcut_call_number">Позвонить: %s</string>
     <string name="search_shortcut_add_to_contacts">Добавить в контакты</string>
     <string name="num_missed_calls">Пропущенных вызовов: %s</string>
@@ -1273,9 +1333,8 @@
 и контакты, которым вы звоните чаще всего.
 Общайтесь с удовольствием."</string>
     <string name="contact_tooltip">Нажмите на фото, чтобы посмотреть все номера. Чтобы изменить порядок номеров, нажмите и удерживайте фото.</string>
-    <string name="add_to_contact">Добавить в</string>
-    <string name="show_developer_options">Показать настройки для разработчиков</string>
-    <string name="hide_developer_options">Скрыть настройки для разработчиков</string>
+    <string name="new_contact">Новый контакт</string>
+    <string name="exist_contact">Сущест. контакт</string>
     <string name="more_label">Еще</string>
     <string name="media_loading_text">Загрузка</string>
     <string name="start_download">Загрузка</string>
@@ -1294,6 +1353,15 @@
     <string name="mz_date_time_min">м</string>
     <string name="mz_date_time_sec">с</string>
     <string name="date_time_set">Установить</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %p %I:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %p %I:%M</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %p %I:%M</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
@@ -1302,7 +1370,7 @@
     <string name="mc_pattern_today">Сегодня</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_yes">ОК</string>
-    <string name="mc_cancel">Отменить</string>
+    <string name="mc_cancel">Отмена</string>
     <string name="mc_hour">Час.</string>
     <string name="mc_minute">Мин.</string>
     <string name="mc_second">Сек.</string>
@@ -1352,7 +1420,7 @@
     <string name="mc_pm_allow_check_app">Разрешить</string>
     <string name="mc_pm_not_allow_check_app">Запретить</string>
     <string name="mc_pm_dlg_ok">ОК</string>
-    <string name="mc_pm_dlg_cancel">Отменить</string>
+    <string name="mc_pm_dlg_cancel">Отмена</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_dialog_push">Вспылвающий Push</string>
@@ -1362,6 +1430,10 @@
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включить передачу данных</string>
     <string name="mc_pm_online_intenert">Интернет</string>
+    <string name="mc_pull_refresh">Вниз для обновления</string>
+    <string name="mc_is_Refreshing">Обновление</string>
+    <string name="mc_go_Refreshing">Обновить</string>
+    <string name="mc_search">Поиск</string>
     <string name="local_search_label">Все контакты</string>
     <string name="foundTooManyContacts">Найдено более %d.</string>
     <string name="reading_vcard_canceled_title">Чтение данных vCard отменено</string>
@@ -1372,48 +1444,48 @@
     <string name="description_dial_phone_number">Позвонить, контакт: %1$s</string>
     <string name="noContactsHelpText">"Нет контактов для показа.
 
-Чтобы добавить контакты, нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>" и выберите один из вариантов.
+Чтобы добавить контакты, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите один из вариантов.
  
-"<li><font fgcolor="#ffffffff"><b>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Новый контакт: добавление контакта.
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
-"</b></font></li></string>
+"<b><font fgcolor="#ffffffff"><li>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+"</li></font></b></string>
     <string name="noContactsHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
 
-Чтобы добавить контакты, нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>" и выберите один из вариантов.
+Чтобы добавить контакты, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите один из вариантов.
 
-"<li><font fgcolor="#ffffffff"><b>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Фильтр контактов: настройка параметров показа контактов.
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Новый контакт: добавление контакта.
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
-"</b></font></li></string>
+"<b><font fgcolor="#ffffffff"><li>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+"</li></font></b>"
+"<b><font fgcolor="#ffffffff"><li>"Фильтр контактов: настройка параметров показа контактов.
+"</li></font></b>"
+"<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+"</li></font></b></string>
     <string name="noContactsNoSimHelpText">"Нет контактов для показа.
 
-Чтобы добавить контакты, нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>" и выберите один из вариантов.
+Чтобы добавить контакты, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите один из вариантов.
  
-"<li><font fgcolor="#ffffffff"><b>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Новый контакт: добавление контакта.
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт: импорт контактов с SD-карты.
-"</b></font></li></string>
+"<b><font fgcolor="#ffffffff"><li>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SD-карты.
+"</li></font></b></string>
     <string name="noContactsNoSimHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
 
-Чтобы добавить контакты, нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>" и выберите один из вариантов.
+Чтобы добавить контакты, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите один из вариантов.
 
-"<li><font fgcolor="#ffffffff"><b>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Фильтр контактов: настройка параметров показа контактов.
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Новый контакт: добавление контакта.
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт: импорт контактов с SD-карты.
-"</b></font></li></string>
+"<b><font fgcolor="#ffffffff"><li>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+"</li></font></b>"
+"<b><font fgcolor="#ffffffff"><li>"Фильтр контактов: настройка параметров показа контактов.
+"</li></font></b>"
+"<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SD-карты.
+"</li></font></b></string>
     <string name="addto_spam_address">В спам</string>
     <string name="addto_spam_address_confirm_delete_contacts_message">Удалить данные?</string>
     <string name="callAgain">Позвонить снова</string>
@@ -1466,5 +1538,4 @@
     <string name="show_favorites_only">Только часто используемые</string>
     <string name="call_log_activity_title">История</string>
     <string name="show_all_contacts_title">Все контакты</string>
-	<string name="cancel_sms_list">Отменить</string>
 </resources>
