@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="DATE_FORMAT">
+        <item>Год</item>
+        <item>Месяц</item>
+        <item>␀</item>
+        <item>Час</item>
+        <item>Мин</item>
+        <item>Сек</item>
+    </string-array>
+    <string-array name="DAY_WEEK">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="item_data">
+        <item>Контакты</item>
+        <item>Сообщения</item>
+        <item>MMS</item>
+        <item>История вызовов</item>
+        <item>Календарь</item>
+        <item>Система</item>
+        <item>ПО и данные</item>
+    </string-array>
+    <string-array name="DATE_FORMAT_TITLE">
+        <item>мин.</item>
+        <item>ч.</item>
+        <item>дн.</item>
+        <item>г.</item>
+    </string-array>
+    <string-array name="ACTION_MODE">
+        <item>Начать</item>
+        <item>Начать</item>
+    </string-array>
+    <string-array name="item_system_setting">
+        <item>Пароли Wi-Fi</item>
+        <item>Вибрация и рингтон</item>
+        <item>Настройки экрана</item>
+        <item>Будильник</item>
+        <item>Закладки браузера</item>
+    </string-array>
+</resources>
