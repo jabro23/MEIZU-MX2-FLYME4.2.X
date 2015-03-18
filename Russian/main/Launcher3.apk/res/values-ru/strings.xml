@@ -50,7 +50,7 @@
     <string name="accessibility_all_apps_button">Приложения</string>
     <string name="accessibility_delete_button">Удалить</string>
     <string name="delete_zone_label_all_apps_system_app">Удалить обновление</string>
-    <string name="cab_menu_delete_app">Удалить приложение</string>
+    <string name="cab_menu_delete_app">Удалить приложение?</string>
     <string name="cab_menu_app_info">О приложении</string>
     <string name="cab_app_selection_text">Выбрано 1 приложение</string>
     <string name="cab_widget_selection_text">Выбран 1 виджет</string>
@@ -104,7 +104,7 @@
     <string name="share">Передать</string>
     <string name="system_tools">Служебные</string>
     <string name="widgets_tab_label_click">Удерживать для добавления виджета</string>
-    <string name="uninstall_title">Удалить приложение</string>
+    <string name="uninstall_title">Удалить приложение?</string>
     <string name="uninstall_notice">Автоочистка остаточных файлов после удаления</string>
     <string name="top_alignment">Выровнять сверху</string>
     <string name="bottom_alignment">Выровнять снизу</string>
