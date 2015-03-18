@@ -334,8 +334,8 @@
         <item>ART (отладка)</item>
     </string-array>
     <string-array name="select_runtime_summaries">
-        <item>Dalvik</item>
-        <item>ART</item>
+        <item>Использовать Dalvik</item>
+        <item>Использовать ART</item>
         <item>Использовать отладочную версию ART</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
@@ -389,21 +389,21 @@
         <item>Список вызовов в glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Выкл</item>
-        <item>Усечение синим</item>
-        <item>Рисование зелёным</item>
+        <item>Откл.</item>
+        <item>Непрямоугольное усечение синим</item>
+        <item>Тест. команды рисования зеленым</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Выкл</item>
+        <item>Отключить</item>
         <item>На экране в виде полос</item>
         <item>На экране в виде линий</item>
         <item>В adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Выкл</item>
-        <item>Области наложения</item>
-        <item>Области опред. цвета</item>
-        <item>Число объектов</item>
+        <item>ВЫКЛ</item>
+        <item>Показывать области наложения</item>
+        <item>Выделять области определенного цвета</item>
+        <item>Показывать число объектов</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Стандарт</item>
@@ -502,42 +502,42 @@
         <item>Выключить экран</item>
     </string-array>
     <string-array name="home_key_touch_entries">
-        <item>Не отвечает</item>
+        <item>Выкл</item>
         <item>Назад</item>
         <item>На раб.стол</item>
     </string-array>
     <string-array name="smart_touch_behavior_click_entries">
-        <item>Назад</item>
         <item>Выкл</item>
+        <item>Назад</item>
     </string-array>
     <string-array name="smart_touch_behavior_doubleclick_entries">
+	    <item>Выкл</item>
         <item>Сдвинуть экр. вниз</item>
         <item>Опустить шторку</item>
         <item>Заблок. экран</item>
         <item>Откр. дисп. задач</item>
-        <item>Выкл</item>
     </string-array>
     <string-array name="smart_touch_behavior_long_entries">
-        <item>Перем. кнопку</item>
         <item>Выкл</item>
+		<item>Переместить</item>   
     </string-array>
     <string-array name="smart_touch_behavior_up_entries">
-        <item>Заблок. экран</item>
-        <item>Закр. текущее прил.</item>
-        <item>Перекл. прилож.</item>
-        <item>На раб.стол</item>
         <item>Выкл</item>
+		<item>На раб. стол</item>
+		<item>Заблок. экран</item>
+        <item>Закр. текущ. прил.</item>
+        <item>Откр. дисп. задач</item>
     </string-array>
     <string-array name="smart_touch_behavior_down_entries">
-        <item>Сдвинуть экр. вниз</item>
-        <item>Опустить шторку</item>
-        <item>Заблок. экран</item>
-        <item>Закр. текущее прил.</item>
         <item>Выкл</item>
+		<item>Сдвинуть экр. вниз</item>
+		<item>Опустить шторку</item>
+        <item>Заблок. экран</item>
+        <item>Закр. текущ. прил.</item>
     </string-array>
     <string-array name="smart_touch_behavior_left_right_entries">
-        <item>Перекл. прилож.</item>
         <item>Выкл</item>
+		<item>Перекл. прилож.</item>
     </string-array>
     <string-array name="blur_effect_entries">
         <item>Высокое</item>
