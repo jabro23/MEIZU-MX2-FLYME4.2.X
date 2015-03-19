@@ -2560,10 +2560,10 @@
     <string name="do_not_disturb_tips">Отключение входящих вызовов, сообщений, вибрации и уведомлений</string>
     <string name="do_not_disturb_options">Опции</string>
     <string name="notification_wakeup_screen">Откл. пробуждения экрана</string>
-    <string name="wakeup_breathing_light">Уведомл. при пробуждении</string>
+    <string name="wakeup_breathing_light">Уведом. при пробуждении</string>
     <string name="repeat_coming_call_notify">Напоминание о вызове</string>
     <string name="repeat_coming_call_notify_tips">Связаться с контактом через 5 минут после режима Не беспокоить</string>
-    <string name="coming_call_white_list">Белый список.</string>
+    <string name="coming_call_white_list">Белый список</string>
     <string name="coming_call_white_list_none">Нет</string>
     <string name="coming_call_white_list_summary">%d контактов</string>
     <string name="coming_call_white_list_tips">Неограниченные вызовы от выбранных контактов</string>
