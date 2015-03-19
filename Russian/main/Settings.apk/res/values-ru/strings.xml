@@ -228,7 +228,7 @@
     <string name="phone_info_label">Информация о телефоне</string>
     <string name="sd_card_settings_label">Диск</string>
     <string name="proxy_settings_label">Настройки прокси-сервера</string>
-    <string name="cancel">Отмена</string>
+    <string name="cancel">Отменить</string>
     <string name="settings_label">Настройки</string>
     <string name="settings_label_launcher">Настройки</string>
     <string name="settings_shortcut">Ярлык настроек</string>
@@ -356,8 +356,8 @@
     <string name="lockpassword_password_requires_symbol">Пароль должен содержать хотя бы один символ.</string>
     <string name="lockpassword_password_recently_used">Использовать недавний пароль запрещено.</string>
     <string name="lockpassword_ok_label">ОК</string>
-    <string name="lockpassword_cancel_label">Отмена</string>
-    <string name="lockpattern_tutorial_cancel_label">Отмена</string>
+    <string name="lockpassword_cancel_label">Отменить</string>
+    <string name="lockpattern_tutorial_cancel_label">Отменить</string>
     <string name="lockpattern_tutorial_continue_label">Далее</string>
     <string name="lock_setup">Блокировка настроена.</string>
     <string name="device_admin_title">Администрирование устройства</string>
@@ -383,7 +383,7 @@
     <string name="bluetooth_incoming_pairing_msg">Запрос от: %1$s Подключиться к этому устройству?</string>
     <string name="bluetooth_display_passkey_pin_msg">Для подключения к этому устройству введите на нем код &lt;br>&lt;b>%1$s&lt;/b>, а затем нажмите клавишу Return или Enter.</string>
     <string name="bluetooth_pairing_accept">Сопряжение</string>
-    <string name="bluetooth_pairing_decline">Отмена</string>
+    <string name="bluetooth_pairing_decline">Отменить</string>
     <string name="bluetooth_error_title">Ошибка сопряжения устройств</string>
     <string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству \"%1$s\".</string>
     <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству \"%1$s\", так как введен неверный PIN-код или пароль.</string>
@@ -487,7 +487,7 @@
     <string name="wifi_scan_always_available_summary">Разрешить службе геопозиционирования и другим приложениям Google искать сети, даже если модуль Wi-Fi выключен</string>
     <string name="wifi_install_credentials">Установка сертификатов</string>
     <string name="wifi_scan_notify_text_location_on">Чтобы улучшить определение местоположения, а также для достижения других целей, Google и другие приложения могут выполнять поиск сетей поблизости, даже если сеть Wi-Fi отключена. Чтобы изменить эти настройки, перейдите в меню \"Дополнительно > Всегда искать сети\".</string>
-    <string name="wifi_scan_notify_text_location_off">Приложения могут выполнять поиск сетей поблизости, даже если сеть Wi-Fi отключена. Чтобы изменить эти настройки, перейдите в меню \"Дополнительно > Всегда искать сети\".</string>
+    <string name="wifi_scan_notify_text_location_off">Приложения могут выполнять поиск сетей поблизости, даже если сеть Wi-Fi отключена. Чтобы изменить эти настройки, перейдите в меню \"Дополнительно > Всегда искать сети\".</string>
     <string name="wifi_scan_notify_remember_choice">Больше не показывать</string>
     <string name="wifi_setting_sleep_policy_title">Wi-Fi в спящем реж.</string>
     <string name="wifi_setting_sleep_policy_error">Не удалось изменить этот параметр</string>
@@ -566,7 +566,7 @@
     <string name="wifi_failed_forget_message">Не удалось удалить сеть.</string>
     <string name="wifi_save">Сохранить</string>
     <string name="wifi_failed_save_message">Не удалось сохранить сеть.</string>
-    <string name="wifi_cancel">Отмена</string>
+    <string name="wifi_cancel">Отменить</string>
     <string name="wifi_skip_anyway">Все равно пропустить</string>
     <string name="wifi_dont_skip">Не пропускать</string>
     <string name="wifi_skipped_message">"ВНИМАНИЕ! Возможны дополнительные расходы на услуги оператора связи.
@@ -582,7 +582,7 @@
     <string name="wifi_advanced_ip_address_title">IP-адрес</string>
     <string name="wifi_advanced_settings_label">Настройки IP</string>
     <string name="wifi_ip_settings_menu_save">Сохранить</string>
-    <string name="wifi_ip_settings_menu_cancel">Отмена</string>
+    <string name="wifi_ip_settings_menu_cancel">Отменить</string>
     <string name="wifi_ip_settings_invalid_ip_address">Введите действительный IP-адрес.</string>
     <string name="wifi_ip_settings_invalid_gateway">Введите действительный адрес шлюза.</string>
     <string name="wifi_ip_settings_invalid_dns">Введите действительный DNS-адрес.</string>
@@ -604,7 +604,7 @@
     <string name="wifi_p2p_disconnect_title">Отключиться?</string>
     <string name="wifi_p2p_disconnect_message">После отключения соединение с %1$s будет прервано.</string>
     <string name="wifi_p2p_disconnect_multiple_message">После отключения соединение с \"%1$s\" и другими устройствами (%2$s) будет прервано.</string>
-    <string name="wifi_p2p_cancel_connect_title">Отмена приглашения</string>
+    <string name="wifi_p2p_cancel_connect_title">Отменить приглашения</string>
     <string name="wifi_p2p_cancel_connect_message">Вы собираетесь отменить приглашение на подключение к устройству \"%1$s\". Продолжить?</string>
     <string name="wifi_p2p_delete_group_message">Удалить эту группу?</string>
     <string name="wifi_tether_checkbox_text">Точка доступа Wi-Fi</string>
@@ -715,7 +715,7 @@
     <string name="sim_lock_failed">"Не удалось изменить состояние блокировки SIM-карты.
 Возможно, введен неверный PIN-код."</string>
     <string name="sim_enter_ok">ОК</string>
-    <string name="sim_enter_cancel">Отмена</string>
+    <string name="sim_enter_cancel">Отменить</string>
     <string name="wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи, чтобы разблокировать SIM-карту.</string>
     <string name="pin_failed">Не удалось разблокировать SIM-карту</string>
     <string name="device_info_settings">Состояние телефона</string>
@@ -1083,7 +1083,7 @@
     <string name="clear_data_dlg_title">Удалить данные приложения?</string>
     <string name="clear_data_dlg_text">Все данные этого приложения будут удалены без возможности восстановления, включая все файлы, базы данных, настройки, аккаунты и т. д.</string>
     <string name="dlg_ok">ОК</string>
-    <string name="dlg_cancel">Отмена</string>
+    <string name="dlg_cancel">Отменить</string>
     <string name="app_not_found_dlg_title" />
     <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных.</string>
     <string name="clear_data_failed">Данные не удалены.</string>
@@ -1218,7 +1218,7 @@
     <string name="quick_launch_clear_dialog_title">Очистить</string>
     <string name="quick_launch_clear_dialog_message">Ярлык для %1$s (%2$s) будет удален.</string>
     <string name="quick_launch_clear_ok_button">ОК</string>
-    <string name="quick_launch_clear_cancel_button">Отмена</string>
+    <string name="quick_launch_clear_cancel_button">Отменить</string>
     <string name="quick_launch_display_mode_applications">Приложения</string>
     <string name="quick_launch_display_mode_shortcuts">Ярлыки</string>
     <string name="input_methods_settings_title">Ввод текста</string>
@@ -1283,7 +1283,7 @@
     <string name="battery_history_seconds">%1$d с.</string>
     <string name="battery_history_days_no_seconds">%1$d д. %2$d ч. %3$d м.</string>
     <string name="battery_history_hours_no_seconds">%1$d ч. %2$d м.</string>
-    <string name="battery_history_minutes_no_seconds">%1$d м.</string>
+    <string name="battery_history_minutes_no_seconds">%1$d м.</string>
     <string name="usage_stats_label">Статистика использования</string>
     <string name="testing_usage_stats">Статистика использования</string>
     <string name="display_order_text">Упорядочить по:</string>
@@ -1310,9 +1310,9 @@
     <string name="accessibility_global_gesture_preference_summary_off">Выкл.</string>
     <string name="accessibility_global_gesture_preference_description">"Вы сможете быстро включать специальные возможности. Вот как это сделать.
 
-1. Нажмите кнопку питания и удерживайте ее, пока не раздастся звуковой сигнал или вибросигнал.
+1. Нажмите кнопку питания и удерживайте ее, пока не раздастся звуковой сигнал или вибросигнал.
 
-2. Нажмите на экран двумя пальцами и не отпускайте их, пока не услышите сообщение о том, что команда выполнена.
+2. Нажмите на экран двумя пальцами и не отпускайте их, пока не услышите сообщение о том, что команда выполнена.
 
 Если устройством пользуется несколько человек, специальные возможности будут включены до тех пор, пока устройство не будет разблокировано или не будет выбран другой пользователь."</string>
     <string name="accessibility_toggle_large_text_preference_title">Крупный текст</string>
@@ -1379,11 +1379,11 @@
     <string name="print_print_jobs">Задания печати</string>
     <string name="print_print_job">Настройки задания печати</string>
     <string name="print_restart">Перезапустить</string>
-    <string name="print_cancel">Отмена</string>
+    <string name="print_cancel">Отменить</string>
     <string name="print_job_summary">"%1$s
 %2$s"</string>
     <string name="print_printing_state_title_template">Печать задания \"%1$s\"…</string>
-    <string name="print_cancelling_state_title_template">Отмена задания %1$s…</string>
+    <string name="print_cancelling_state_title_template">Отменить задания %1$s…</string>
     <string name="print_failed_state_title_template">Ошибка задания \"%1$s\"</string>
     <string name="print_blocked_state_title_template">Задание \"%1$s\" заблокировано</string>
     <string name="print_search_box_shown_utterance">Окно поиска показано</string>
@@ -1391,7 +1391,7 @@
     <string name="power_usage_summary_title">Батарея</string>
     <string name="power_usage_summary">На что расходуется заряд батареи</string>
     <string name="power_usage_not_available">Расход батареи неизвестен.</string>
-    <string name="power_usage_level_and_status">%1$s – %2$s</string>
+    <string name="power_usage_level_and_status">%1$s – %2$s</string>
     <string name="battery_since_unplugged">Расход заряда батареи с момента отключения от сети питания</string>
     <string name="battery_since_reset">Расход заряда батареи с момента перезагрузки</string>
     <string name="battery_stats_on_battery">%1$s от батареи</string>
@@ -1472,10 +1472,10 @@
     <string name="process_stats_run_time">Время работы</string>
     <string name="services_subtitle">Сервисы</string>
     <string name="menu_proc_stats_duration">Период</string>
-    <string name="menu_duration_3h">3 ч.</string>
-    <string name="menu_duration_6h">6 ч.</string>
-    <string name="menu_duration_12h">12 ч.</string>
-    <string name="menu_duration_1d">1 д.</string>
+    <string name="menu_duration_3h">3 ч.</string>
+    <string name="menu_duration_6h">6 ч.</string>
+    <string name="menu_duration_12h">12 ч.</string>
+    <string name="menu_duration_1d">1 д.</string>
     <string name="menu_show_system">Системные процессы</string>
     <string name="menu_use_uss">Использовать USS</string>
     <string name="menu_proc_stats_type">Тип статистических данных</string>
@@ -1634,7 +1634,7 @@
     <string name="wifi_setup_connect">Подключить</string>
     <string name="wifi_setup_forget">Удалить</string>
     <string name="wifi_setup_save">Сохранить</string>
-    <string name="wifi_setup_cancel">Отмена</string>
+    <string name="wifi_setup_cancel">Отменить</string>
     <string name="wifi_setup_status_scanning">Поиск доступных сетей...</string>
     <string name="wifi_setup_status_select_network">Чтобы подключиться, нажмите на сеть</string>
     <string name="wifi_setup_status_existing_network">Подключиться к существующей сети</string>
@@ -1739,7 +1739,7 @@
     <string name="force_hw_ui">Ускорить работу GPU</string>
     <string name="force_hw_ui_summary">Всегда использовать GPU для двухмерного рисования</string>
     <string name="force_msaa">Включить 4x MSAA</string>
-    <string name="force_msaa_summary">Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
+    <string name="force_msaa_summary">Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
     <string name="show_non_rect_clip">Отладить операции непрямоугольного усечения</string>
     <string name="track_frame_time">Режим презентации анализа GPU</string>
     <string name="window_animation_scale_title">Анимация окна</string>
@@ -1849,7 +1849,7 @@
     <string name="vpn_not_used">(не используется)</string>
     <string name="vpn_no_ca_cert">(не проверять сервер)</string>
     <string name="vpn_no_server_cert">(получено с сервера)</string>
-    <string name="vpn_cancel">Отмена</string>
+    <string name="vpn_cancel">Отменить</string>
     <string name="vpn_save">Готово</string>
     <string name="vpn_connect">Подключиться</string>
     <string name="vpn_edit">Изменение профиля VPN</string>
@@ -1885,7 +1885,7 @@
     <string name="new_backup_pw_prompt">Введите новый пароль</string>
     <string name="confirm_new_backup_pw_prompt">Введите пароль еще раз</string>
     <string name="backup_pw_set_button_text">Сохранить пароль</string>
-    <string name="backup_pw_cancel_button_text">Отмена</string>
+    <string name="backup_pw_cancel_button_text">Отменить</string>
     <string name="percentage">%d%%</string>
     <string name="additional_system_update_settings_list_item_title">Дополнительные обновления системы</string>
     <string name="selinux_status_disabled">Отключено</string>
@@ -1911,7 +1911,7 @@
     <string name="user_need_lock_message">Чтобы создать профиль с ограниченным доступом, необходимо предварительно настроить блокировку экрана для защиты приложений и личных данных</string>
     <string name="user_set_lock_button">Включить блокировку</string>
     <string name="user_summary_not_set_up">Не настроено</string>
-    <string name="user_summary_restricted_not_set_up">Не настроено – профиль с ограниченным доступом</string>
+    <string name="user_summary_restricted_not_set_up">Не настроено – профиль с ограниченным доступом</string>
     <string name="user_owner">Владелец</string>
     <string name="user_you">Вы （%s）</string>
     <string name="user_nickname">Псевдоним</string>
@@ -1975,9 +1975,9 @@
     <string name="root_warning_title">ПРЕДУПРЕЖДЕНИЕ!</string>
     <string name="root_warning_msg">Не предоставляйте root-доступ, если вы не доверяете приложению. В противном случае, вы рискуете скомпрометировать свои данные для вредоносного программного обеспечения.</string>
     <string name="root_permission_title">ROOT-доступ</string>
-    <string name="root_permission_disallowed">Запрещен</string>
+    <string name="root_permission_disallowed">Запретить</string>
     <string name="root_permission_ask">По запросу</string>
-    <string name="root_permission_allowed">Разрешен</string>
+    <string name="root_permission_allowed">Разрешить</string>
     <string name="root_category_disallowed">%d прилож. запрещено</string>
     <string name="root_category_ask">%d прилож. по запросу</string>
     <string name="root_category_allowed">%d прилож. разрешено</string>
@@ -2001,7 +2001,7 @@
     <string name="pppoe_save_password">Запомнить пароль</string>
     <string name="pppoe_btn_connect">Соединить</string>
     <string name="pppoe_btn_disconnect">Разъединить</string>
-    <string name="pppoe_btn_cancel">Отмена</string>
+    <string name="pppoe_btn_cancel">Отменить</string>
     <string name="pppoe_sure_to_disconnect">Отключиться от PPPoE?</string>
     <string name="pppoe_wifi_not_connected">Wi-Fi не подключен. PPPoE недоступен.</string>
     <string name="vpn_settings">VPN</string>
@@ -2100,7 +2100,7 @@
     <string name="wifi_wps_message_wait">Ожидание подключения:</string>
     <string name="wifi_wps_message_timeout">Тайм-аут соединения. Попробуйте снова.</string>
     <string name="wifi_wps_btn_retry">Повтор</string>
-    <string name="wifi_wps_btn_cancel">Отмена</string>
+    <string name="wifi_wps_btn_cancel">Отменить</string>
     <string name="wifi_wps_failed">Ошибка аутентификации WPS. Попробуйте снова.</string>
     <string name="wifi_password_exceed">Пароль не должен превышать 64 символов</string>
     <string name="wifi_setting_sleep_policy_sum">Включите для энергосбережения</string>
@@ -2233,8 +2233,8 @@
     <string name="repeat_weekday">Повтор</string>
     <string name="scheduled_time_set_tip">Временной интервал должен быть не менее 10 минут</string>
     <string name="scheduled_time_dialog_message">Телефон будет выключен через %s сек.</string>
-    <string name="scheduled_dialog_cancel">Отмена</string>
-    <string name="scheduled_dialog_ok">Выключение</string>
+    <string name="scheduled_dialog_cancel">Отменить</string>
+    <string name="scheduled_dialog_ok">Выключение...</string>
     <string name="power_saving_mode">Режим энергосбер.</string>
     <string name="meizu_helper_title">Инструкция</string>
     <string name="wakeupType_title">Тип пробуждения</string>
@@ -2774,7 +2774,7 @@
     <string name="mc_pattern_today">Сегодня</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_yes">ОК</string>
-    <string name="mc_cancel">Отмена</string>
+    <string name="mc_cancel">Отменить</string>
     <string name="mc_hour">Час.</string>
     <string name="mc_minute">Мин.</string>
     <string name="mc_second">Сек.</string>
@@ -2824,7 +2824,7 @@
     <string name="mc_pm_allow_check_app">Разрешить</string>
     <string name="mc_pm_not_allow_check_app">Запретить</string>
     <string name="mc_pm_dlg_ok">ОК</string>
-    <string name="mc_pm_dlg_cancel">Отмена</string>
+    <string name="mc_pm_dlg_cancel">Отменить</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_dialog_push">Вспылвающий Push</string>
