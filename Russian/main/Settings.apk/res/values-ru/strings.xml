@@ -1982,7 +1982,7 @@
     <string name="root_category_ask">%d прилож. по запросу</string>
     <string name="root_category_allowed">%d прилож. разрешено</string>
     <string name="root_remember">Запомнить мой выбор</string>
-    <string name="root_permission_still_allowed">Разрешено</string>
+    <string name="root_permission_still_allowed">Разрешить</string>
     <string name="pppoe_setting_title">Настройки PPPoE</string>
     <string name="pppoe_setting_summary">Установить имя пользователя и пароль PPPoE</string>
     <string name="pppoe_status_title">Статус PPPoE</string>
