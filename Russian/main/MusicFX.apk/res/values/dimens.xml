@@ -2,9 +2,9 @@
 <resources>
     <dimen name="common_dimen_21dip">21.0dip</dimen>
     <dimen name="common_dimen_23dip">23.0dip</dimen>
-    <dimen name="common_dimen_65dip">65.0dip</dimen>
+    <dimen name="common_dimen_65dip">70.0dip</dimen>
     <dimen name="common_dimen_70dip">70.0dip</dimen>
-    <dimen name="common_textsize_16sp">16.0sp</dimen>
+    <dimen name="common_textsize_16sp">14.0sp</dimen>
     <dimen name="eq_slider_margin">20.0dip</dimen>
     <dimen name="eq_text_margin">6.25dip</dimen>
     <dimen name="eq_slider_height">258.0dip</dimen>
