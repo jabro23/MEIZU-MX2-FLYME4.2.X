@@ -2,9 +2,9 @@
 <resources>
     <dimen name="common_dimen_21dip">21.0dip</dimen>
     <dimen name="common_dimen_23dip">23.0dip</dimen>
-    <dimen name="common_dimen_65dip">70.0dip</dimen>
+    <dimen name="common_dimen_65dip">65.0dip</dimen>
     <dimen name="common_dimen_70dip">70.0dip</dimen>
-    <dimen name="common_textsize_16sp">14.0sp</dimen>
+    <dimen name="common_textsize_16sp">16.0sp</dimen>
     <dimen name="eq_slider_margin">20.0dip</dimen>
     <dimen name="eq_text_margin">6.25dip</dimen>
     <dimen name="eq_slider_height">258.0dip</dimen>
@@ -132,14 +132,18 @@
     <dimen name="mz_preference_seekbar_padding_left">28.0dip</dimen>
     <dimen name="mz_preference_seekbar_padding_right">28.0dip</dimen>
     <dimen name="mz_preference_list_popup_padding_right">14.0dip</dimen>
+    <dimen name="mz_preference_list_popup_item_padding_left">28.0dip</dimen>
+    <dimen name="mz_preference_list_popup_item_padding_right">21.0dip</dimen>
     <dimen name="mz_text_size_normal">16.0sp</dimen>
     <dimen name="mz_text_size_large">22.0sp</dimen>
     <dimen name="mz_text_size_medium">18.0sp</dimen>
     <dimen name="mz_text_size_small">14.0sp</dimen>
-    <dimen name="mz_preferencefragment_category_margin_top">10.0dip</dimen>
-    <dimen name="mz_preferencefragment_margin_top">15.0dip</dimen>
+    <dimen name="mz_preferencefragment_category_margin_top">15.0dip</dimen>
+    <dimen name="mz_preferencefragment_margin_top">20.0dip</dimen>
     <dimen name="mz_preference_icon_width_normal">40.0dip</dimen>
     <dimen name="mz_preference_icon_height_normal">40.0dip</dimen>
+    <dimen name="mz_popup_menu_item_min_width">232.0dip</dimen>
+    <dimen name="mz_popup_menu_item_height">48.0dip</dimen>
     <dimen name="mc_activity_horizontal_margin">16.0dip</dimen>
     <dimen name="mc_activity_vertical_margin">16.0dip</dimen>
     <dimen name="mc_empty_image_top_port">147.6dip</dimen>
@@ -148,6 +152,15 @@
     <dimen name="mc_empty_tips_top_land">12.0dip</dimen>
     <dimen name="mc_empty_tips_text_size_dark">18.0sp</dimen>
     <dimen name="mc_empty_tips_text_size_light">18.0sp</dimen>
+    <dimen name="mc_date_picker_normal_lunar_size">16.0sp</dimen>
+    <dimen name="mc_date_picker_selected_lunar_size">20.0sp</dimen>
+    <dimen name="mc_custom_time_picker_height">150.0dip</dimen>
+    <dimen name="mc_custom_time_picker_unit_margin_l">24.5dip</dimen>
+    <dimen name="mc_custom_time_picker_unit_w">37.0dip</dimen>
+    <dimen name="mc_custom_time_picker_padding">17.0dip</dimen>
+    <dimen name="mc_custom_time_picker_padding_land">28.0dip</dimen>
+    <dimen name="mc_custom_time_picker_select_h_land">41.599976dip</dimen>
+    <dimen name="mc_custom_time_picker_select_h">59.599976dip</dimen>
     <dimen name="mc_picker_normal_number_size">18.0sp</dimen>
     <dimen name="mc_picker_selected_number_size">22.0sp</dimen>
     <dimen name="mc_picker_unselected_ampm_size">14.0sp</dimen>
@@ -291,6 +304,7 @@
     <dimen name="mc_pullRefresh_textsize">14.0dip</dimen>
     <dimen name="mc_pullRefresh_textmargintop">15.0dip</dimen>
     <dimen name="mc_pullRefresh_paintoffset">1.0dip</dimen>
+    <dimen name="mc_drawable_tip_radius">2.5dip</dimen>
     <dimen name="mc_search_icon_width">20.0dip</dimen>
     <dimen name="mc_search_icon_margin_left">10.0dip</dimen>
     <dimen name="mc_search_edit_margin_left">39.0dip</dimen>
@@ -303,4 +317,8 @@
     <dimen name="mc_search_margin_right">67.0dip</dimen>
     <dimen name="mc_search_margin_right_land">100.5dip</dimen>
     <dimen name="mc_search_margin_right_land_none">77.5dip</dimen>
+    <dimen name="mc_drawerscaledrawable_path_thickness">2.5dip</dimen>
+    <dimen name="mc_drawerscaledrawable_path_distance">4.0dip</dimen>
+    <dimen name="mc_drawerscaledrawable_path_length">9.0dip</dimen>
+    <dimen name="mc_drawerscaledrawable_path_min_length">4.0dip</dimen>
 </resources>
