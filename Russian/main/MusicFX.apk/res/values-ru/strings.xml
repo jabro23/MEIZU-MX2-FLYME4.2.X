@@ -15,7 +15,7 @@
     <string name="user">Пользователь</string>
     <string name="other_headset">Другие</string>
     <string name="picker_title">Управление звуковыми эффектами</string>
-    <string name="dirac_introduce">Dirac HD Sound</string>
+    <string name="dirac_introduce">Dirac HD Sound не является звуковым эффектом! Это технология аппаратного улучшения совместимости устройств для более качественного звучания.</string>
     <string name="dirac_headset">Советуем использовать рекомендуемые модели гарнитур для достижения наилучших результатов</string>
     <string name="dirac_headset_ps">Пробная версия плагина для наушников сторонних фирм представлена Dirac Research</string>
     <string name="dirac_save">ОК</string>
@@ -44,6 +44,15 @@
     <string name="mz_date_time_min">м</string>
     <string name="mz_date_time_sec">с</string>
     <string name="date_time_set">Установить</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %p %I:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %p %I:%M</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %p %I:%M</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
@@ -112,4 +121,8 @@
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включить передачу данных</string>
     <string name="mc_pm_online_intenert">Интернет</string>
+    <string name="mc_pull_refresh">Вниз для обновления</string>
+    <string name="mc_is_Refreshing">Обновление</string>
+    <string name="mc_go_Refreshing">Обновить</string>
+    <string name="mc_search">Поиск</string>
 </resources>
