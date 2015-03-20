@@ -1699,8 +1699,8 @@ for account %s."</string>
     <string name="permlab_recognize_fingerprint">Check the fingerprint match</string>
     <string name="permdesc_recognize_fingerprint">Allows an application to Check the fingerprint match</string>
     <string name="recommend_switch_power_mode">Режим бенчмарка</string>
-    <string name="battery_consumption_balance_title">Сбалансированный</string>
-    <string name="battery_consumption_performance_title">Производительный</string>
+    <string name="battery_consumption_balance_title">Сбалансир.</string>
+    <string name="battery_consumption_performance_title">Производ.</string>
     <string name="permlab_forceKillProcess">force kill process</string>
     <string name="permdesc_forceKillProcess">Allows an application to force kill process</string>
     <string name="permlab_updatePowerSavingMode">Update power saving mode</string>
