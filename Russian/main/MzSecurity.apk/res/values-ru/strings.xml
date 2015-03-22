@@ -84,7 +84,7 @@
     <string name="sort_by_notusedtime">По времени</string>
     <string name="app_cleaner_title">Очистка приложений</string>
     <string name="not_used">Нет используемых</string>
-    <string name="days">дн</string>
+    <string name="days">д</string>
     <string name="app_used">используется</string>
     <string name="carefully_remove">Будьте осторожны</string>
     <string name="version">␀Версия</string>
@@ -299,7 +299,7 @@
     <string name="MouthUsed">За месяц</string>
     <string name="DayUsed">Сегодня␀</string>
     <string name="toClearDay">Осталось␀</string>
-    <string name="Day">␀дн</string>
+    <string name="Day">␀д</string>
     <string name="setupTrafficDialogTitle">Ежемесячный план</string>
     <string name="TrafficDialogPositiveButton">ОК</string>
     <string name="TrafficDialogNegativeButton">Отмена</string>
@@ -620,8 +620,9 @@
     <string name="scanning_power_mode_done">%1$s Прил. активных при выкл. экране</string>
     <string name="scanning_power_mode_clean">Нет необходимости в настройке</string>
 	<string name="traffic_guide_users_setup_dialog_title">Трафик не настроен</string>
-    <string name="traffic_guide_users_setup_dialog_message">В этом месяце было израсходовано %1$s, рекомендуется установить параметры трафика</string>
+    <string name="traffic_guide_users_setup_dialog_message">В этом месяце было израсх. %1$s, рекомендуется установить параметры трафика</string>
     <string name="traffic_guide_users_setup_dialog_pbt">Настроить</string>
 	<string name="traffic_daywarning_switch_preference_title">Ежедневные предупреждения</string>
 	<string name="traffic_widget_remain_summary">Осталось</string>
+	<string name="traffic_airplanemode">Невозможно настроить в режиме Полёт</string>
 </resources>
