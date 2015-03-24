@@ -308,4 +308,5 @@
     <string name="negative_exit">Выйти</string>
     <string name="positive_continue">Продолжить</string>
     <string name="start_setting_theme">Настройка темы</string>
+    <string name="download_state_starting">Старт загрузки темы《%s》</string>
 </resources>
