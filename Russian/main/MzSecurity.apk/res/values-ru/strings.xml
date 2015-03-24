@@ -606,7 +606,7 @@
     <string name="title_enable_supper_mode">Включить Супер режим</string>
     <string name="title_supper_mode_summary">В Супер режиме энергосбережения, все функции и сервисы кроме Телефона и Сообщений будут выключены</string>
     <string name="title_power_low">Уровень заряда ниже %1$d</string>
-    <string name="title_click_enter_pm">Нажмите для включения %1$s</string>
+    <string name="title_click_enter_pm">Нажмите для перехода в %1$s</string>
     <string name="scheduled_supermode_on">Активация режима питания в назначенное время</string>
     <string name="scheduled_time_dialog_message_supper">Телефон перейдет в Супер режим энергосбережения через %s с</string>
     <string name="scheduled_time_dialog_message_standard">Телефон перейдет в Умный режим энергосбережения через %s с</string>
