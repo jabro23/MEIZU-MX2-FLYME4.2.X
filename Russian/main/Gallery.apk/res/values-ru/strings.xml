@@ -225,7 +225,7 @@
     <string name="face_set_skintoing">Цвет кожи</string>
     <string name="fail_to_load_image">Невозможно загрузить изображение!</string>
     <string name="file_not_found">Файл не существует</string>
-    <string name="file_size">Размер:␀</string>
+    <string name="file_size">Размер:</string>
     <string name="filter_aqua">Вода</string>
     <string name="filter_autumn">Осень</string>
     <string name="filter_azure">Синий</string>
@@ -551,8 +551,8 @@
     <string name="thumbfrag_sync_status_off">(для копирования)</string>
     <string name="thumbfrag_sync_status_on">(копирование)</string>
     <string name="thumbnail_user_guide_msg">Нажмите, чтобы свернуть/развернуть категорию</string>
-    <string name="time">Время</string>
-    <string name="title">Файл:␀</string>
+    <string name="time">Дата создания</string>
+    <string name="title">Файл:</string>
     <string name="title_activity_filter_show">Фоторедактор</string>
     <string name="transfer_content_text">Передача %s файла(ов)</string>
     <string name="unacceptable_char">Имя файла не может содержать символы |\\/:*?\"&lt;></string>
@@ -596,4 +596,5 @@
     <string name="filter_toy">Игрушка</string>
     <string name="filter_viridity">Зеленый</string>
     <string name="filter_wood">Дерево</string>
+	<string name="modification_time">Дата изменения:</string>
 </resources>
