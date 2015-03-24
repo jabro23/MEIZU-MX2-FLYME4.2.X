@@ -616,13 +616,15 @@
     <string name="usermode_dialog_message">Необходимо настроить режим перед использованием</string>
     <string name="usermode_dialog_ok">Настроить</string>
     <string name="usermode_dialog_cancel">Отменить</string>
-	<string name="scanning_power_mode">Поиск прил. активных при выкл. экране</string>
+    <string name="scanning_power_mode">Поиск прил. активных при выкл. экране</string>
     <string name="scanning_power_mode_done">%1$s Прил. активных при выкл. экране</string>
     <string name="scanning_power_mode_clean">Нет необходимости в настройке</string>
-	<string name="traffic_guide_users_setup_dialog_title">Трафик не настроен</string>
+    <string name="traffic_guide_users_setup_dialog_title">Трафик не настроен</string>
     <string name="traffic_guide_users_setup_dialog_message">В этом месяце было израсх. %1$s, рекомендуется установить параметры трафика</string>
     <string name="traffic_guide_users_setup_dialog_pbt">Настроить</string>
-	<string name="traffic_daywarning_switch_preference_title">Ежедневные предупреждения</string>
-	<string name="traffic_widget_remain_summary">Осталось</string>
-	<string name="traffic_airplanemode">Невозможно настроить в режиме Полёт</string>
+    <string name="traffic_daywarning_switch_preference_title">Ежедневные предупреждения</string>
+    <string name="traffic_widget_remain_summary">Осталось</string>
+    <string name="traffic_airplanemode">Невозможно настроить в режиме Полёт</string>
+    <string name="slide_autorun_hasdata">Приложению запрещен автозапуск и освобождено %1$s памяти</string>
+    <string name="slide_autorun_nodata">Приложению запрещен автозапуск</string>
 </resources>
