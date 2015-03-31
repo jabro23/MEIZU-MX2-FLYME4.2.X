@@ -1032,7 +1032,7 @@
     <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">С вашего мобильного счета будут списаны средства.</font></string>
     <string name="sms_short_code_confirm_allow">Отправить</string>
     <string name="sms_short_code_confirm_deny">Отмена</string>
-    <string name="sms_short_code_remember_choice">Запомнить выбранный телефон</string>
+    <string name="sms_short_code_remember_choice">Запомнить мой выбор</string>
     <string name="sms_short_code_remember_undo_instruction">Это можно изменить позже в разделе настроек \"Приложения\".</string>
     <string name="sms_short_code_confirm_always_allow">Всегда разрешать</string>
     <string name="sms_short_code_confirm_never_allow">Не разрешать</string>
