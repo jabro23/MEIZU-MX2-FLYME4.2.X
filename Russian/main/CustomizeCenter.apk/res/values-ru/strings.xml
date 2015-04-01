@@ -201,7 +201,7 @@
     <string name="mzuc_wait_tip">Пожалуйста, подождите...</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
     <string name="negative_exit">Выйти</string>
-    <string name="no_international_language">Сейчас доступен только китайский контент, больше языков появится в скором времени.</string>
+    <string name="no_international_language">Доступен только китайский контент. Другие языки будут добавлены позже.</string>
     <string name="no_internet">Нет интернет-соединения</string>
     <string name="no_internet_connection">Нет интернет-соединения</string>
     <string name="no_more">Нет больше отзывов</string>
