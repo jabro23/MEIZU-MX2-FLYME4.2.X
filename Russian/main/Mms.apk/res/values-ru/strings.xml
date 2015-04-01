@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">SMS/MMS</string>
+    <string name="app_label">Сообщения</string>
     <string name="new_message">Новое сообщение</string>
     <string name="menu_preferences">Настройки</string>
     <string name="menu_search">Поиск</string>
@@ -34,7 +34,7 @@
     <string name="send">Отправить</string>
     <string name="type_to_compose_text_enter_to_send">SMS/MMS</string>
     <string name="type_to_compose_sms_enter_to_send">SMS</string>
-    <string name="type_to_compose_flyme_text_enter_to_send">Web-сообщ.</string>
+    <string name="type_to_compose_flyme_text_enter_to_send">Сообщение Flyme</string>
     <string name="type_to_compose_sns_text_enter_to_send">Прямое сообщение</string>
     <string name="open_keyboard_to_compose_message">Откройте клавиатуру, чтобы ввести сообщение</string>
     <string name="compressing">Картинка слишком большая. Выполняется сжатие…</string>
@@ -120,7 +120,7 @@
     <string name="error_code_label">"Код ошибки: "</string>
     <string name="sim_copy_to_phone_memory">Копировать в память телефона</string>
     <string name="sim_delete">Удалить</string>
-    <string name="sim_empty">На SIM-карте нет сообщений.</string>
+    <string name="sim_empty">На SIM-карте нет сообщений</string>
     <string name="status_none">(Нет)</string>
     <string name="status_pending">Ожидает</string>
     <string name="status_read">Прочитанные</string>
@@ -278,7 +278,7 @@
     <string name="spam_number_dialog_title">Выполнить фильтрацию?</string>
     <string name="spame_number">Фильтр</string>
     <string name="spam_number_spare_sign">,</string>
-    <string name="spam_number_dialog_message_0">Будет добавлено в спам-фильтр</string>
+    <string name="spam_number_dialog_message_0">:␀Будет добавлено в спам-фильтр</string>
     <string name="spam_number_dialog_message_1">и т.д. будут добавлены в спам-фильтр</string>
     <string name="Titlebar_Describe_Message_Count_overlimit">Слишком много сообщений сохранено. Удалите часть ненужных.</string>
     <string name="msg_body_sms_vcard">Инфо vCard</string>
@@ -294,12 +294,12 @@
     <string name="sms_mms_failed_dialog_message_single">Ошибка сети</string>
     <string name="mms_failed_dialog_title_single">Ошибка отправки MMS</string>
     <string name="lable_mms_center_number">SMS-центр</string>
-    <string name="long_press_menu_forward">Переслать</string>
-    <string name="long_press_menu_delete">Удалить</string>
-    <string name="long_press_menu_copy">Копировать</string>
-    <string name="long_press_menu_open">Открыть</string>
-    <string name="long_press_menu_save">Сохранить</string>
-    <string name="long_press_menu_sel">Выбрать</string>
+    <string name="long_press_menu_forward">Пересл.</string>
+    <string name="long_press_menu_delete">Удал.</string>
+    <string name="long_press_menu_copy">Копир.</string>
+    <string name="long_press_menu_open">Откр.</string>
+    <string name="long_press_menu_save">Сохр.</string>
+    <string name="long_press_menu_sel">Выбр.</string>
     <string name="title_coversation_contact_single">Детали контакта</string>
     <string name="title_coversation_contact_multi">Получатели</string>
     <string name="unknown">Неизвестный</string>
@@ -395,7 +395,7 @@
     <string name="confirm_dialog_search_unfiltrate_msg">Отметить прочитанным?</string>
     <string name="confirm_dialog_resend_sms_msg">Рассылка сообщения для %s</string>
     <string name="confirm_dialog_resend_mms_msg">Сделать расслыку MMS повторно?</string>
-    <string name="flyme_mms_send_action_title">Сообщения Flyme</string>
+    <string name="flyme_mms_send_action_title">FlymeMMS</string>
     <string name="mms_slideshow_view_title">Детали</string>
     <string name="mms_noti_rectrive_statu_msg">Получение MMS</string>
     <string name="flyme_mms_no_space_title">Недостаточно места на диске.</string>
@@ -509,9 +509,9 @@
     <string name="sending_disabled_not_default_app">Отправка отключена</string>
     <string name="compose_disabled_toast">Невозможно создать сообщение, так как текущее приложение не является установленным по умолчанию.</string>
     <string name="pref_title_larger_text_size">Крупный шрифт</string>
-    <string name="message_person_label">Личное</string>
-    <string name="message_notice_label">Уведомления</string>
-    <string name="message_favorite_label">Избранное</string>
+    <string name="message_person_label">Личн.</string>
+    <string name="message_notice_label">Уведомл.</string>
+    <string name="message_favorite_label">Избр.</string>
     <string name="message_unfavorite_label">Удалить из избранного</string>
     <string name="mark_all_as_read_title">Отметить все прочитанными</string>
     <string name="has_favorited">Добавлено в избранное</string>
@@ -821,4 +821,10 @@
     <string name="spam_number_input_hint">Номер или аккаунт Flyme</string>
     <string name="title_message_conversation">Диалог</string>
     <string name="trash_restore_title">Восстановить</string>
+    <string name="attach_menu_timer">Сообщение по расписанию</string>
+    <string name="menu_action_select">Сохр.</string>
+    <string name="pick_timer_warning">Выбранное время должно быть не раньше текущего</string>
+    <string name="timer_string_formatter">Будет отправлено %1$s</string>
+    <string name="timer_date_formatter">yyyy/MM/dd HH:mm</string>
+    <string name="timer_date_formatter_12">yyyy/MM/dd hh:mm a</string>
 </resources>
