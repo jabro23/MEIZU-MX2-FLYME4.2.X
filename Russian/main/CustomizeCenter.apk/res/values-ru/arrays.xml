@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cloud_theme_opt">
-        <item>Install</item>
-        <item>Delete</item>
+        <item>Установить</item>
+        <item>Удалить</item>
     </string-array>
     <string-array name="cur_rings">
-        <item>Ringtones</item>
-        <item>SMS ringtones</item>
-        <item>Mail Notification</item>
-        <item>Calendar notifications</item>
-        <item>Other notifications</item>
+        <item>Рингтон</item>
+        <item>Звук сообщений</item>
+        <item>Уведомление эл. почты</item>
+        <item>Уведомление календаря</item>
+        <item>Уведомление по умолчанию</item>
     </string-array>
     <array name="mc_colorful_round">
         <item>#ff43b56b</item>
@@ -428,32 +428,32 @@
         <item>1f</item>
     </string-array>
     <string-array name="online_tab_title">
-        <item>Details</item>
-        <item>Review</item>
-        <item>Related</item>
+        <item>Детали</item>
+        <item>Просмотр</item>
+        <item>Связанные</item>
     </string-array>
     <string-array name="ring_local_tag">
-        <item>Downloaded</item>
-        <item>System ringtones</item>
+        <item>Загруженные</item>
+        <item>Системные рингтоны</item>
     </string-array>
     <string-array name="ring_setting">
-        <item>Set as ringtone</item>
-        <item>Set SMS ringtones</item>
-        <item>Specify the contact ring</item>
+        <item>Как рингтон</item>
+        <item>Как звук сообщения</item>
+        <item>Для отдельного контакта</item>
     </string-array>
     <string-array name="search_type">
-        <item>Theme</item>
-        <item>Wallpaper</item>
-        <item>Ring</item>
+        <item>Тема</item>
+        <item>Обои</item>
+        <item>Рингтон</item>
     </string-array>
     <string-array name="sizeUnit">
-        <item>B</item>
-        <item>KB</item>
-        <item>MB</item>
-        <item>GB</item>
+        <item>Б</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
     </string-array>
     <string-array name="speed">
-        <item>/S</item>
+        <item>/С</item>
     </string-array>
     <string-array name="theme_basic_component_id">
         <item>com.android.keyguard</item>
@@ -476,9 +476,9 @@
         <item>com.android.calendar</item>
     </string-array>
     <string-array name="time">
-        <item>%dS</item>
-        <item>%1$dM%2$dS</item>
-        <item>>1H</item>
+        <item>%d с</item>
+        <item>%1$d м %2$d с</item>
+        <item>> 1 ч</item>
     </string-array>
     <string-array name="timeEn">
         <item>%ds</item>
