@@ -272,8 +272,8 @@
         <item>1f</item>
     </string-array>
     <string-array name="my_ring">
-        <item>The current setting</item>
-        <item>Local</item>
+        <item>Текущие настройки</item>
+        <item>Локальные рингтоны</item>
     </string-array>
     <string-array name="mz_app_to_next_open_enter_translate_y">
         <item>1f</item>
