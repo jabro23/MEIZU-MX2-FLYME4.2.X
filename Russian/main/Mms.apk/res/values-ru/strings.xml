@@ -825,6 +825,6 @@
     <string name="menu_action_select">Сохр.</string>
     <string name="pick_timer_warning">Выбранное время должно быть не раньше текущего</string>
     <string name="timer_string_formatter">Будет отправлено %1$s</string>
-    <string name="timer_date_formatter">yyyy/MM/dd HH:mm</string>
-    <string name="timer_date_formatter_12">yyyy/MM/dd hh:mm a</string>
+    <string name="timer_date_formatter">dd/MM/yyyy HH:mm</string>
+    <string name="timer_date_formatter_12">dd/MM/yyyy hh:mm a</string>
 </resources>
