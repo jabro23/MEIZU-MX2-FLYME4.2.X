@@ -189,7 +189,7 @@
     <string name="too_many_unsent_mms">Не удалось отправить сообщение. Слишком много неотправленных MMS.</string>
     <string name="sending_message">Отправка...</string>
     <string name="draft_separator">", "</string>
-    <string name="message_count_format"> %1$s</string>
+    <string name="message_count_format"> %1$s</string>
     <string name="error_state">Данные были изменены</string>
     <string name="error_state_text">Цепочки не соответствуют получателям. Сделайте снимок экрана и отправьте сообщение об ошибке через веб-сайт http://go/droidanizer</string>
     <string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
@@ -542,7 +542,7 @@
     <string name="banner_sms_promo_title_initial">Приложение Сообщения не является текущим для работы</string>
     <string name="banner_sms_promo_title_application">Ваше приложение для сообщений: %s</string>
     <string name="banner_sms_promo_message">Вы можете изменить это в Настройках</string>
-    <string name="pref_title_default_message_app">По умолчанию</string>
+    <string name="pref_title_default_message_app">Приложение для SMS</string>
     <string name="pref_summary_default_message_is_system_own">Стандартное</string>
     <string name="change_default_message_app_dialog_title">Изменить приложение для сообщений?</string>
     <string name="not_default_message_app_dialog_title">Стандартное приложение не является приложением по умолчанию</string>
