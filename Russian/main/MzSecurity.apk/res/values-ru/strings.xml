@@ -298,7 +298,7 @@
     <string name="finish_setup">Готово</string>
     <string name="MouthUsed">За месяц</string>
     <string name="DayUsed">Сегодня␀</string>
-    <string name="toClearDay">Ост.ь␀</string>
+    <string name="toClearDay">Ост.␀</string>
     <string name="Day">␀д</string>
     <string name="setupTrafficDialogTitle">Ежемесячный план</string>
     <string name="TrafficDialogPositiveButton">ОК</string>
