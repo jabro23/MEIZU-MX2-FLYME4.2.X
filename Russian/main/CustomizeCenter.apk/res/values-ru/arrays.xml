@@ -694,4 +694,15 @@
         <item>wallpaper_liver</item>
         <item>wallpaper_night</item>
     </string-array>
+        <string-array name="category_type">
+        <item>Стиль</item>
+        <item>Модуль</item>
+    </string-array>
+    <string-array name="component_name">
+        <item>Обои</item>
+        <item>Иконки</item>
+        <item>Звонки</item>
+        <item>Сообщения</item>
+        <item>Рабочий стол</item>
+    </string-array>
 </resources>
