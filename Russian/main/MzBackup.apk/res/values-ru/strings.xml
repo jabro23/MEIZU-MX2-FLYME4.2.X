@@ -5,8 +5,8 @@
     <string name="backup_time">Без бэкапа: %s</string>
     <string name="just_backup">Последнее резервное копирование %s назад</string>
     <string name="just_backup_ago">Резервное копирование завершено</string>
-    <string name="empty_text">Нет резервных копий</string>
-    <string name="empty_text_title">␀</string>
+    <string name="empty_text">␀</string>
+    <string name="empty_text_title">Пока ничего нет</string>
     <string name="loading_records">Подсчет...</string>
     <string name="new_backup">Новый бэкап</string>
     <string name="now_backup">Создать</string>
@@ -18,7 +18,7 @@
     <string name="stop_recover">Остановить</string>
     <string name="delete">Удалить</string>
     <string name="please_select_data">Выберите данные</string>
-    <string name="warning">␀␀␀␀␀␀␀␀␀␀␀␀Не перезагружайте и не выключайте телефон <br />␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀во избежание потери данных</string>
+    <string name="warning">␀␀␀␀␀␀␀␀␀␀␀␀Не перезагружайте и не выключайте телефон ␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀во избежание потери данных</string>
     <string name="count">%s</string>
     <string name="not_enough_size">Нет устройства хранения</string>
     <string name="power_low_recover">Заряд батареи не должен быть меньше 20% для начала копирования.</string>
