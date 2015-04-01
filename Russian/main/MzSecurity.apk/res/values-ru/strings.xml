@@ -627,4 +627,5 @@
     <string name="traffic_airplanemode">Невозможно настроить в режиме Полёт</string>
     <string name="slide_autorun_hasdata">Приложению запрещен автозапуск и освобождено %1$s памяти</string>
     <string name="slide_autorun_nodata">Приложению запрещен автозапуск</string>
+    <string name="traffic_widget_remain_idle_summary">Осталось</string>
 </resources>
