@@ -348,4 +348,5 @@
 	<string name="category_theme">Темы</string>
 	<string name="account_ringtone">Рингтоны</string>
 	<string name="account_wallpaper">Обои</string>
+	<string name="set_system_rings">Выбрать системный рингтон</string>
 </resources>
