@@ -2068,7 +2068,7 @@
     <string name="wifi_wps_title">Подключить ч/з WPS</string>
     <string name="wifi_netmask">Маска сети</string>
     <string name="cert_issued_to">"Держатель: "</string>
-    <string name="cert_serial">Серийный №:<br /></string>
+    <string name="cert_serial">Серийный №:</string>
     <string name="cert_valid_from">"Действует: "</string>
     <string name="cert_valid_to">"Истекает: "</string>
     <string name="wifi_none">Нет</string>
@@ -2247,6 +2247,7 @@
     <string name="unacceptable_char">Следующие символы недопустимы |\\/:*?\"&lt;></string>
     <string name="mxdemo_not_allow_format">Форматирование в демо-режиме недоступно</string>
     <string name="show_hide_files">Доступ к скр. файлам</string>
+    <string name="backup_phone_data">Бэкап данных</string>
     <string name="erase_btn">Очистить</string>
     <string name="reset_phone">Очистка данных телефона</string>
     <string name="reset_phone_dlg_title">Сброс к заводским настройкам</string>
@@ -2648,7 +2649,12 @@
     <string name="lock_screen_slide_right_select_app_title">Выбрать приложение</string>
     <string name="lock_screen_slide_right_custom_tips">Слайдом вправо можно быстро запускать выбранное приложение</string>
     <string name="apn_reset">Сброс</string>
+    <string name="show_sf_fps_summary">Отображать surfaceflinger FPS</string>
+    <string name="show_sf_fps">Показывать FPS</string>
+    <string name="clean_rubbish">Очистка мусора</string>
     <string name="hapic_feedback_type">Тип обратной связи</string>
+    <string name="gsensor_calibrate_text">Калибр. датчиков положения</string>
+    <string name="gensor_calibrate_tip_text">Положите телефон горизонтально на ровную поверхность</string>
     <string name="enable_cancel_dri_mode_when_bt_discon_str">Выйти из режима вождения при отключении Bluetooth</string>
     <string name="enable_cancel_sleep_mode_when_unlock_str">Выйти из режима сна при разблокировке экрана</string>
     <string name="enable_not_wakeup_screen_str">Запретить уведомлениям активировать подсветку дисплея</string>
@@ -2872,8 +2878,4 @@
     <string name="sim_remain">(Осталось: %d)</string>
     <string name="wifi_ap_time_duration">Длительность: %1$s</string>
     <string name="wifi_ap_total_data">Всего использовано данных: %1$s</string>
-	<string name="clean_rubbish">Очистка мусора</string>
-	<string name="backup_phone_data">Бэкап данных</string>
-	<string name="gsensor_calibrate_text">Калибр. датчиков положения</string>
-    <string name="gensor_calibrate_tip_text">Положите телефон горизонтально на ровную поверхность</string>
 </resources>
