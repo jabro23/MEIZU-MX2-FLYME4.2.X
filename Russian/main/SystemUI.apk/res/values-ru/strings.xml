@@ -33,6 +33,7 @@
     <string name="WidgetLayoutExtend_Description_air_plane">Полёт</string>
     <string name="WidgetLayoutExtend_Description_mute">Без звука</string>
     <string name="WidgetLayoutExtend_Description_vibration">Вибрация</string>
+    <string name="WidgetLayoutExtend_Description_floattouch">СмартТач</string>
     <string name="app_label">Графический интерфейс</string>
     <string name="status_bar_clear_all_button">Очистить</string>
     <string name="status_bar_recent_remove_item_title">Удаление из списка</string>
@@ -287,7 +288,7 @@
     <string name="wifi_connect">OK</string>
     <string name="wifi_forget">Не сохранять</string>
     <string name="wifi_save">Сохранить</string>
-    <string name="wifi_cancel">Отмена</string>
+    <string name="wifi_cancel">Отменить</string>
     <string name="wifi_dns1">DNS 1</string>
     <string name="wifi_dns2">DNS 2</string>
     <string name="wifi_gateway">Шлюз</string>
@@ -303,13 +304,15 @@
     <string name="data_used">Данные:</string>
     <string name="limited_bytes">Лимит:</string>
     <string name="over_limit_know">ОК</string>
-    <string name="over_limit_cancel">Отмена</string>
+    <string name="over_limit_cancel">Отменить</string>
     <string name="flow_over_limit_title">Достигнут предел мобильного трафика!</string>
     <string name="flow_limit_warn_ok">ОК</string>
     <string name="mail">E-mail</string>
     <string name="notification_counter">Уведомление</string>
-	<string name="disable_notification_title">"Не показывать это уведомление?"</string>
-    <string name="disable_notification_sub_title">Вернуть обратно можно "\n"в Центре безопасности "\n"(Разрешения-Уведомления)</string>
+    <string name="disable_notification_title">Не показывать это уведомление?</string>
+    <string name="disable_notification_sub_title">"Вернуть обратно можно 
+в Центре безопасности 
+(Разрешения-Уведомления)"</string>
     <string name="mz_date_time_month">м</string>
     <string name="mz_date_time_year">г</string>
     <string name="mz_date_time_day">д</string>
@@ -325,7 +328,7 @@
     <string name="mc_pattern_today">Сегодня</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_yes">ОК</string>
-    <string name="mc_cancel">Отмена</string>
+    <string name="mc_cancel">Отменить</string>
     <string name="mc_hour">Час.</string>
     <string name="mc_minute">Мин.</string>
     <string name="mc_second">Сек.</string>
@@ -375,7 +378,7 @@
     <string name="mc_pm_allow_check_app">Разрешить</string>
     <string name="mc_pm_not_allow_check_app">Запретить</string>
     <string name="mc_pm_dlg_ok">ОК</string>
-    <string name="mc_pm_dlg_cancel">Отмена</string>
+    <string name="mc_pm_dlg_cancel">Отменить</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_dialog_push">Вспылвающий Push</string>
@@ -385,7 +388,7 @@
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включить передачу данных</string>
     <string name="mc_pm_online_intenert">Интернет</string>
-    <string name="download_cancel">Отмена</string>
+    <string name="download_cancel">Отменить</string>
     <string name="download_ok">ОК</string>
-    <string name="WidgetLayoutExtend_Description_floattouch">СмартТач</string>
+    <string name="WidgetLayoutExtend_Description_dnd">Не бесп.</string>
 </resources>
