@@ -286,7 +286,7 @@
     <string name="deleting_fdn_contact">Выполняется удаление номера ограниченного набора…</string>
     <string name="fdn_contact_deleted">Номер ограниченного набора удален.</string>
     <string name="pin2_invalid">Разрешенный номер не обновлен, так как введен неверный PIN-код.</string>
-    <string name="fdn_invalid_number">Разрешенный номер не обновлен, т. к. не может содержать более 20 цифр.</string>
+    <string name="fdn_invalid_number">Разрешенный номер не обновлен, т. к. не может содержать более 20 цифр.</string>
     <string name="pin2_or_fdn_invalid">Список разрешенных номеров не обновлен. Указан неверный PIN2 или номер телефона.</string>
     <string name="simContacts_emptyLoading">Загрузка с SIM-карты…</string>
     <string name="simContacts_empty">На SIM-карте нет контактов.</string>
@@ -1245,8 +1245,8 @@
     <string name="contact_not_dial">Контакт невозможно вызвать</string>
     <string name="fail_reason_vcard_can_not_parse_error">Невозможно прочитать vCard</string>
     <string name="call_log_selection_title">История вызовов</string>
-    <string name="pref_title_manage_white_list">Белый список отстутствует</string>
-    <string name="pref_white_list_title">Белый список</string>
+    <string name="pref_title_manage_white_list">Белый список</string>
+    <string name="pref_white_list_title">Контакты</string>
     <string name="add_white_list">В белый список</string>
     <string name="white_list_empty">Белый список пуст</string>
     <string name="add_number_to_spam">Добавить номер в спам</string>
@@ -1539,3 +1539,4 @@
     <string name="call_log_activity_title">История</string>
     <string name="show_all_contacts_title">Все контакты</string>
 </resources>
+
