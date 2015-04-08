@@ -186,7 +186,7 @@
     <string name="virus_cleaned_1005">Вредоносных файлов удалено: %1$s</string>
     <string name="virus_detail_1000">(неофиц.l)</string>
     <string name="virus_detail_1001">Удаленные приложения</string>
-    <string name="virus_detail_1002">Отмена</string>
+    <string name="virus_detail_1002">Отменить</string>
     <string name="virus_detail_1003">ОК</string>
     <string name="virus_detail_1004">Удалить файл</string>
     <string name="virus_sladapter_1000">:подозрительных записей</string>
@@ -239,7 +239,7 @@
     <string name="msg_reject_all_notify">Запретить уведомления для всех приложений?</string>
     <string name="msg_accept_all_notify">Разрешить уведомления для всех приложений?</string>
     <string name="confirm">ОК</string>
-    <string name="cancel">Отмена</string>
+    <string name="cancel">Отменить</string>
     <string name="autostart_app_count">: приложениям разрешен автозапуск</string>
     <string name="permission_app_count">: приложениям разрешено</string>
     <string name="autostart_reject_app_count">: приложениям запрещен автозапуск</string>
@@ -302,7 +302,7 @@
     <string name="Day">␀д</string>
     <string name="setupTrafficDialogTitle">Ежемесячный план</string>
     <string name="TrafficDialogPositiveButton">ОК</string>
-    <string name="TrafficDialogNegativeButton">Отмена</string>
+    <string name="TrafficDialogNegativeButton">Отменить</string>
     <string name="manualSetupDialogFragmentTitle">Ручная настройка</string>
     <string name="more_settings_title">Системные</string>
     <string name="process_kernel_label">Android OS</string>
@@ -452,7 +452,7 @@
     <string name="mc_pattern_today">Сегодня</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_yes">ОК</string>
-    <string name="mc_cancel">Отмена</string>
+    <string name="mc_cancel">Отменить</string>
     <string name="mc_hour">Час.</string>
     <string name="mc_minute">Мин.</string>
     <string name="mc_second">Сек.</string>
@@ -502,7 +502,7 @@
     <string name="mc_pm_allow_check_app">Разрешить</string>
     <string name="mc_pm_not_allow_check_app">Запретить</string>
     <string name="mc_pm_dlg_ok">ОК</string>
-    <string name="mc_pm_dlg_cancel">Отмена</string>
+    <string name="mc_pm_dlg_cancel">Отменить</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_dialog_push">Вспылвающий Push</string>
@@ -628,4 +628,13 @@
     <string name="slide_autorun_hasdata">Приложению запрещен автозапуск и освобождено %1$s памяти</string>
     <string name="slide_autorun_nodata">Приложению запрещен автозапуск</string>
     <string name="traffic_widget_remain_idle_summary">Осталось</string>
+    <string name="traffic_other_setup_category">Другие настройки</string>
+    <string name="trafic_idle_traffic_title">Холостой трафик</string>
+    <string name="trafic_mouth_idle_traffic_title">Ежемесячный холостой трафик</string>
+    <string name="trafic_mouth_used_idle_traffic_title">Используемый холостой трафик</string>
+    <string name="traffic_idle_overlimit">Лимит холостого трафика превышен</string>
+    <string name="traffic_idle_begin_title">Начало</string>
+    <string name="trafic_idle_begin_summary">23:00</string>
+    <string name="traffic_idle_end_title">Конец</string>
+    <string name="trafic_idle_end_summary">07:00</string>
 </resources>
