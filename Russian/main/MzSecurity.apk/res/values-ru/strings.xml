@@ -297,7 +297,7 @@
     <string name="mouthOverFlow">Перерасход за месяц</string>
     <string name="finish_setup">Готово</string>
     <string name="MouthUsed">За месяц</string>
-    <string name="DayUsed">Сегодня␀</string>
+    <string name="DayUsed">Сегод.␀</string>
     <string name="toClearDay">Ост.␀</string>
     <string name="Day">␀д</string>
     <string name="setupTrafficDialogTitle">Ежемесячный план</string>
