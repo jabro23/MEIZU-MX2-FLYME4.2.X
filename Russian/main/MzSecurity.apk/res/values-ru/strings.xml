@@ -637,4 +637,7 @@
     <string name="trafic_idle_begin_summary">23:00</string>
     <string name="traffic_idle_end_title">Конец</string>
     <string name="trafic_idle_end_summary">07:00</string>
+    <string name="traffic_traffic_overlimit">Превышение</string>
+    <string name="traffic_guide_add_wp_dialog_title">Добавить виджет?</string>
+    <string name="traffic_guide_add_wp_dialog_message_line1">Добавление виджета управления трафиком на рабочий стол. Более удобно для мониторинга трафика в реальном времени.</string>
 </resources>
