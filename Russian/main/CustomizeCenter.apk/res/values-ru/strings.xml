@@ -365,4 +365,7 @@
 	<string name="smart_wallpaper_menu_title">Смарт-обои</string>
 	<string name="set_as_smart_wallpaper">Смарт-обои установлены</string>
 	<string name="preview_menu_title">Предпросмотр</string>
+	<string name="ring_tone_duration">Продолж. %s</string>
+	<string name="ring_tone_play_count">Прослушано раз: %s</string>
+    <string name="ring_tone_play_count_ten_thousand">Прослушано раз: %s десятк. тыс. раз</string>
 </resources>
