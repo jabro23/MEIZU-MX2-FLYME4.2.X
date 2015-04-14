@@ -558,7 +558,7 @@
     <string name="title_device_tlight">Отключить подсветку кольца</string>
     <string name="summary_config_screen">Экран</string>
     <string name="title_screen_bright">Подсветка</string>
-    <string name="title_screen_autobright">Смарт-подсветка</string>
+    <string name="title_screen_autobright">Автояркость</string>
     <string name="title_screen_locktime">Спящий режим через:</string>
     <string name="title_screen_ps">Включить режим энергосбережения экрана</string>
     <string name="subtitle_screen_ps">Сохранение до 50% заряда, но изображение может быть искажено.</string>
@@ -586,7 +586,7 @@
     <string name="battery_low_percent_format">%d%% осталось, включить Супер режим энергосбережения?</string>
     <string name="battery_low_alert_title">Включить Супер режим?</string>
     <string name="standard_cpu_info">Сбалансированный режим CPU</string>
-    <string name="standard_light_auto_info">Включение смарт-подсветки</string>
+    <string name="standard_light_auto_info">Включение автояркости</string>
     <string name="standard_connect_info">Отключение Bluetooth и GPS</string>
     <string name="standard_screentime_info">Спящий режим через 30 секунд</string>
     <string name="super_intro_info">Отключение всех процессов и сервисов, кроме Телефона и Сообщений</string>
