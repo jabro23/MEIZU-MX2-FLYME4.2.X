@@ -25,7 +25,7 @@
     <string name="WidgetLayoutExtend_Description_gps">GPS</string>
     <string name="WidgetLayoutExtend_Description_rotation">Поворот</string>
     <string name="WidgetLayoutExtend_Description_vpn">VPN</string>
-    <string name="WidgetLayoutExtend_Description_hotspot">Т/Д</string>
+    <string name="WidgetLayoutExtend_Description_hotspot">Точка дост.</string>
     <string name="WidgetLayoutExtend_Description_nfc">NFC</string>
     <string name="WidgetLayoutExtend_Description_enable_full_screen_drag">Включить полноэкранный режим</string>
     <string name="WidgetLayoutExtend_Description_flash_light">Фонарик</string>
